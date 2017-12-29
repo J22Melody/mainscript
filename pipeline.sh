@@ -14,7 +14,7 @@ output_txt="$output_dir/$txt"
 
 mkdir -p $output_dir
 
-python pdfminer/tools/pdf2txt.py -o $output_txt -t xml $1
+pdf2txt.py -o $output_txt -t xml $1
 
 ## (2) xml to freki:
 
@@ -28,7 +28,7 @@ output_freki="$output_dir/$freki"
 # if it is ling doc, run igt-detect and lang-id
 
 cd ./igtdetect
-./detect-igt eval --eval-files ../$output_txt
+./detect-igt test --test-files ../$output_txt --classifier-path data/igt-classifier-nobio.model
 cd ..
 
 out="$name.out"
