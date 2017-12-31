@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# check for virtual environment
+if [ ! -d env ]; then
+    echo "Please run install.sh first."
+fi
+
+source env/bin/activate
+
 # text 
 # pdf to freki:
 
@@ -33,6 +40,8 @@ cd ..
 
 out="$name.out"
 output_out=$"$output_dir/$out"
+
+deactivate
 
 cd ./lgid
 ./lgid.sh -v classify --model=model/sample_model --out=../$output_out config.ini ../$output_freki
