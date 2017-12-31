@@ -36,6 +36,9 @@ output_freki="$output_dir/$freki"
 # if it is ling doc, run igt-detect and lang-id
 
 classified_out="$output_dir/igtdetect_out"
+if [ ! -d $classified_out ]; then
+    mkdir $classified_out
+fi
 
 cd ./igtdetect
 ./detect-igt test --test-files ../$output_txt --classifier-path data/igt-classifier-nobio.model --classified-dir $classified_out
