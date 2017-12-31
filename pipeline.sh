@@ -3,6 +3,7 @@
 # check for virtual environment
 if [ ! -d env ]; then
     echo "Please run install.sh first."
+	exit 1
 fi
 
 source env/bin/activate
@@ -34,15 +35,16 @@ output_freki="$output_dir/$freki"
 
 # if it is ling doc, run igt-detect and lang-id
 
-cd ./igtdetect
-./detect-igt test --test-files ../$output_txt --classifier-path data/igt-classifier-nobio.model
-cd ..
+classified_out="$output_dir/igtdetect_out"
 
-out="$name.out"
-output_out=$"$output_dir/$out"
+cd ./igtdetect
+./detect-igt test --test-files ../$output_txt --classifier-path data/igt-classifier-nobio.model --classified-dir $classified_out
+cd ..
 
 deactivate
 
+output_out=$"$output_dir/lgid_out"
+
 cd ./lgid
-./lgid.sh -v classify --model=model/sample_model --out=../$output_out config.ini ../$output_freki
+./lgid.sh -v classify --model=model/sample_model --out=../$output_out config.ini ../$classified_out/$freki
 cd ..
