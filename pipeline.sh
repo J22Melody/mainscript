@@ -41,7 +41,7 @@ if [ ! -d $classified_out ]; then
 fi
 
 cd ./igtdetect
-./detect-igt test --test-files ../$output_freki --classifier-path data/igt-classifier-nobio.model --classified-dir $classified_out
+./detect-igt test --test-files ../$output_freki --classifier-path data/igt-classifier-nobio.model --classified-dir ../$classified_out
 cd ..
 
 deactivate
