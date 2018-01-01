@@ -8,8 +8,13 @@ fi
 
 source env/bin/activate
 
-# make sure pip is up to date, but keep at 9.0.* in case dependency link processing is deprecated
-# in the future, because we need that
+# make sure pip is up to date
+pip install -U pip
+# but keep at 9.0.* in case dependency link processing is deprecated in the future, because we need that
+#
+# this is in two parts in case virtualenv installs an old version of pip that doesn't support version
+# specifiers - we first install a new version of pip that supports version specifiers and then install
+# the correct version of pip
 pip install -U pip~=9.0.1
 
 # install PDFMiner
