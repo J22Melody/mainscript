@@ -18,7 +18,7 @@ name=${file_name%.pdf}
 output_dir=$2
 
 txt="$name.txt"
-output_txt="$output_dir/$txt"
+output_txt="$output_dir/pdf_out/$txt"
 
 mkdir -p $output_dir
 
@@ -27,7 +27,7 @@ pdf2txt.py -o $output_txt -t xml $1
 ## (2) xml to freki:
 
 freki="$name.freki"
-output_freki="$output_dir/$freki"
+output_freki="$output_dir/freki_out/$freki"
 
 ./freki/freki.sh -r pdfminer $output_txt $output_freki
 
@@ -51,8 +51,8 @@ if [ ! -f $classified_out/$name"_classified.freki" ]; then
     exit 1
 fi
 
-output_out=$"$output_dir/lgid_out"
+output_lgid=$"$output_dir/lgid_out"
 
 cd ./lgid
-./lgid.sh -v classify --model=model/sample_model --out=../$output_out config.ini ../$classified_out/$name"_classified.freki"
+./lgid.sh -v classify --model=model/sample_model --out=../$output_lgid config.ini ../$classified_out/$name"_classified.freki"
 cd ..
