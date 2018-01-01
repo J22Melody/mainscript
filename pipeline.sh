@@ -37,7 +37,7 @@ output_freki="$output_dir/freki_out/$freki"
 
 classified_out="$output_dir/igtdetect_out"
 if [ ! -d $classified_out ]; then
-    mkdir $classified_out
+    mkdir -p $classified_out
 fi
 
 cd ./igtdetect

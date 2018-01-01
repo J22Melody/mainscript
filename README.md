@@ -34,6 +34,15 @@ Run `./pipeline.sh <pdf-file> <output-dir>` to run the pipeline. `<pdf-file>` is
 to the PDF file to run the pipeline on, and `<output-dir>` is the directory to place
 the various output files into.
 
+Within the given output directory, the script organizes its output files by type:
+
+subdirectory           | contents
+-----------------------| -----------
+pdf_out                | the text files produced by running `PDFMiner` on the PDFs
+freki_out              | the initial Freki files produced by running `freki` on the text files
+igtdetect_out          | the Freki files produced by running `igtdetect` on the initial Freki files
+lgid_out               | the Freki files produced by running `lgid` on the igtdetect Freki files
+
 ## Uninstall/Re-Install/Update
 
 To uninstall simply delete the following directories:
