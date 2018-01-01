@@ -10,7 +10,7 @@ source env/bin/activate
 
 # make sure pip is up to date, but keep at 9.0.* in case dependency link processing is deprecated
 # in the future, because we need that
-pip install -U pip~=9.0
+pip install -U pip~=9.0.1
 
 # install PDFMiner
 

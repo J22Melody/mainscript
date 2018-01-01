@@ -46,8 +46,13 @@ cd ..
 
 deactivate
 
+if [ ! -f $classified_out/$name"_classified.freki" ]; then
+    echo "No igtdetect features found in $name.pdf. Exiting."
+    exit 1
+fi
+
 output_out=$"$output_dir/lgid_out"
 
 cd ./lgid
-./lgid.sh -v classify --model=model/sample_model --out=../$output_out config.ini ../$classified_out/$freki
+./lgid.sh -v classify --model=model/sample_model --out=../$output_out config.ini ../$classified_out/$name"_classified.freki"
 cd ..
