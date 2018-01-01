@@ -20,7 +20,7 @@ output_dir=$2
 txt="$name.txt"
 output_txt="$output_dir/pdf_out/$txt"
 
-mkdir -p $output_dir
+mkdir -p $output_dir/pdf_out
 
 pdf2txt.py -o $output_txt -t xml $1
 
