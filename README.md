@@ -34,6 +34,21 @@ Run `./pipeline.sh <pdf-file> <output-dir>` to run the pipeline. `<pdf-file>` is
 to the PDF file to run the pipeline on, and `<output-dir>` is the directory to place
 the various output files into.
 
+## Uninstall/Re-Install/Update
+
+To uninstall simply delete the following directories:
+
+- `env`
+- `lgid`
+- `igtdetect`
+- `freki`
+
+This can be done easily by running `rm -rf env lgid igtdetect freki` from the root `mainscript/` directory.
+
+To re-install or update everything follow the uninstall process and then run `install.sh`. Running `install.sh`
+only installs missing components; it does not update any already installed modules. To complete an existing
+installation with some components missing, you can run `install.sh` without first uninstalling anything.
+
 [virtualenv]: https://virtualenv.pypa.io/
 [ODIN]: http://depts.washington.edu/uwcl/odin/
 [PDFMiner]: https://github.com/pdfminer/pdfminer.six
