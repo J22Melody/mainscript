@@ -18,14 +18,26 @@ pip install https://github.com/goulu/pdfminer/zipball/e6ad15af79a26c31f4e384d842
 
 # install freki
 
-git clone https://github.com/xigt/freki.git
+if [ ! -d freki ]; then
+    git clone https://github.com/xigt/freki.git
+else
+    cd freki
+    git pull
+    cd ..
+fi
 cd freki
 pip install -U .
 cd ..
 
 # install igtdetect
 
-git clone https://github.com/xigt/igtdetect.git
+if [ ! -d lgid ]; then
+    git clone https://github.com/xigt/igtdetect.git
+else
+    cd igtdetect
+    git pull
+    cd ..
+fi
 cd igtdetect
 pip install -U . --process-dependency-links --upgrade-strategy eager
 cp defaults.ini.sample defaults.ini
@@ -36,6 +48,13 @@ deactivate
 
 # install lgid
 
+if [ ! -d lgid ]; then
+    git clone https://github.com/xigt/lgid.git
+else
+    cd lgid
+    git pull
+    cd ..
+fi
 cd lgid
 bash setup-env.sh
 cd ..
