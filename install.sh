@@ -14,18 +14,24 @@ pip install -U pip~=9.0.1
 
 # install PDFMiner
 
-pip install https://github.com/goulu/pdfminer/zipball/e6ad15af79a26c31f4e384d8427b375c93b03533#egg=pdfminer.six
+if ! $( pdf2txt.py -h 2>/dev/null >/dev/null ); then
+    pip install https://github.com/goulu/pdfminer/zipball/e6ad15af79a26c31f4e384d8427b375c93b03533#egg=pdfminer.six
+fi
 
 # install freki
 
-git clone https://github.com/xigt/freki.git
+if [ ! -d freki ]; then
+    git clone https://github.com/xigt/freki.git
+fi
 cd freki
 pip install .
 cd ..
 
 # install igtdetect
 
-git clone https://github.com/xigt/igtdetect.git
+if [ ! -d igtdetect ]; then
+    git clone https://github.com/xigt/igtdetect.git
+fi
 cd igtdetect
 pip install . --process-dependency-links
 cp defaults.ini.sample defaults.ini
@@ -36,7 +42,9 @@ deactivate
 
 # install lgid
 
-git clone https://github.com/xigt/lgid.git
+if [ ! -d lgid ]; then
+    git clone https://github.com/xigt/lgid.git
+fi
 cd lgid
 bash setup-env.sh
-cd .. 
+cd ..
