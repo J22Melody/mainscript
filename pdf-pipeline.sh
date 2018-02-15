@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# print help message if needed
+if [ "$1" == "--help" ]; then
+    echo "Usage: pdf-pipeline.sh <pdf-file> <output-dir>"
+    echo -e "Required arguments: pdf-file\tThe PDF file to run the pipeline on."
+    echo -e "\t\toutput-dir\tThe directory to place output files in."
+    exit 0
+fi
+
 # check for virtual environment
 if [ ! -d env ]; then
     echo "Please run install.sh first."

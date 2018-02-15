@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# print help message if needed
+if [ "$1" == "--help" ]; then
+    echo "Usage: install.sh [--no-crubadan]"
+    echo -e "Options: --no-crubadan\tDon't download the Crubadan language models."
+    exit 0
+fi
+
 # create virtualenv
 if [ ! -d env ]; then
     echo "Creating virtual enviroment"

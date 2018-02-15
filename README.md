@@ -41,7 +41,7 @@ Run `./pdf-pipeline.sh <pdf-file> <output-dir>` to run the pipeline with a PDF i
 the directory to place the various output files into.
 
 Run `./text-pipeline.sh <text-file> <output-dir> [<igt-file>]` to run the pipeline with a text input.
-`<text-file>` is the path to the PDF file to run the pipeline on, and `<output-dir>` is
+`<text-file>` is the path to the text file to run the pipeline on, and `<output-dir>` is
 the directory to place the various output files into. `[<igt-file>]` is an optional file
 specifying locations of IGT instances in the text file. See the documentation for "Plain
 Text to Freki Conversion" in the [Freki][] package for information on the format.
