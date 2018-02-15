@@ -4,7 +4,7 @@
 if [ "$1" == "--help" ]; then
     echo "Usage: text-pipeline.sh <text-file> <output-dir> [<igt-file>]"
     echo -e "Required arguments:"
-    echo -e "tpdf-file\tThe text file to run the pipeline on."
+    echo -e "\tpdf-file\tThe text file to run the pipeline on."
     echo -e "\toutput-dir\tThe directory to place output files in."
     echo ""
     echo -e "Optional arguments:"
