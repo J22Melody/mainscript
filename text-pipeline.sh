@@ -3,10 +3,12 @@
 # print help message if needed
 if [ "$1" == "--help" ]; then
     echo "Usage: text-pipeline.sh <text-file> <output-dir> [<igt-file>]"
-    echo -e "Required arguments: pdf-file\tThe text file to run the pipeline on."
-    echo -e "\t\toutput-dir\tThe directory to place output files in."
+    echo -e "Required arguments:"
+    echo -e "tpdf-file\tThe text file to run the pipeline on."
+    echo -e "\toutput-dir\tThe directory to place output files in."
     echo ""
-    echo -e "Optional arguments: igt-file\tA  file specifying locations of IGT instances in the text file"
+    echo -e "Optional arguments:"
+    echo -e "\tigt-file\tA  file specifying locations of IGT instances in the text file"
     exit 0
 fi
 

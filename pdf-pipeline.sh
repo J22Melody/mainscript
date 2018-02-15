@@ -3,8 +3,9 @@
 # print help message if needed
 if [ "$1" == "--help" ]; then
     echo "Usage: pdf-pipeline.sh <pdf-file> <output-dir>"
-    echo -e "Required arguments: pdf-file\tThe PDF file to run the pipeline on."
-    echo -e "\t\toutput-dir\tThe directory to place output files in."
+    echo -e "Required arguments:"
+    echo -e "\tpdf-file\tThe PDF file to run the pipeline on."
+    echo -e "\toutput-dir\tThe directory to place output files in."
     exit 0
 fi
 

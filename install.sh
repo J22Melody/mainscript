@@ -3,7 +3,8 @@
 # print help message if needed
 if [ "$1" == "--help" ]; then
     echo "Usage: install.sh [--no-crubadan]"
-    echo -e "Options: --no-crubadan\tDon't download the Crubadan language models."
+    echo -e "Options:"
+    echo -e "\t--no-crubadan\tDon't download the Crubadan language models."
     exit 0
 fi
 
