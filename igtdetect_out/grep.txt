@@ -1,0 +1,271 @@
+line=1416 tag=B-L:(2.9) a. kurndubirdi-            b. dulbardu-        c.  marralkunya-
+line=1417 tag=I-L:         ku   upi i-                 ulpa  u-            maralku  a-
+line=1418 tag=I-L:         ku   u  -pi i-              ulk-pa  u-          maral-ku  a-
+line=1419 tag=I-G:         ‹chest-bad-›               ‹ground-hard-›       ‹ear-small-›
+line=1420 tag=I-T:         ‹suffering a bad chest›    ‹hard ground›        ‹small-eared›
+line=1421 tag=B-L:      d. ngumujungarra-
+line=1422 tag=I-L:          umucu   ara-
+line=1423 tag=I-G:          umu-cu   ara-
+line=1424 tag=I-T:         ‹black-big-›
+line=1425 tag=I-T:         ‹pitch black›
+line=1426 tag=B-L:                                  e. nalyakuri-        f. minyingarnala-
+line=1427 tag=I-L:                                       aljaku i-          mi  i a  ala-
+line=1428 tag=I-L:                                     ɳal-jakuɻi-          miɳi-  aɳala-
+line=1429 tag=I-G:                                     ‹head-ﬁsh-›          ‹form-white  cockatoo-›
+line=1469 tag=B-L:(2.11)  a.  yubuuj-               b. yumariij-                 c. *yu-
+line=1470 tag=I-G:            jupuːc-                  juma  iːc-                   ju-
+line=1500 tag=B-L:(2.13)  a.  -n       b. -ki
+line=1501 tag=I-G:            -n          +ki
+line=1834 tag=B-L:                                                    c. buruthiya
+line=1835 tag=I-L:                                                       pu  u-t̪+ki-a
+line=1836 tag=I-L:                                                       ‹gather-th›-μloc-t
+line=1837 tag=I-G:                                                       ‹gather›-tamt:imm
+line=1838 tag=I-T:                                                 2.6 Morphomes     35
+line=1839 tag=B-L:        d. yarbuthiya
+line=1840 tag=I-L:           ja put̪+ki-a
+line=1841 tag=I-L:           animal-μloc-t
+line=1842 tag=I-G:           animal-comp:+
+line=1843 tag=B-L:                             e.  Makarrkiya
+line=1844 tag=I-G:                                 makark+ki-a
+line=1845 tag=I-L:                                 ‹anthill-μloc›-t
+line=1846 tag=I-G:                                 ‹Place name›
+line=3293 tag=B-L:      c. buruthiya            d. yarbuthiya
+line=3294 tag=I-L:         pu  u-t̪+ki-a           ja put̪+ki-a
+line=3295 tag=I-L:         ‹gather-TH›-μLOC-T      animal-μLOC-T
+line=3296 tag=I-G:         ‹gather›-IMM            animal-CMP
+line=3297 tag=I-T:         ‘is gathering’          ‘an animal (+CMP)’
+line=3536 tag=B-L:       at-ta  mu  uru-a   maku-inta-ø     jalawu-c+  ara-inta-ø
+line=3537 tag=I-G:      1sg-T   know-T      woman-μOBL-T    ‹catch-J›-μCONS-μOBL-T
+line=3538 tag=I-T:      1sg     know        woman-SEJ       ‹catch›-PST-SEJ
+line=3829 tag=B-L:       ʈat̪ina    kuna+kuna-ø         cu  ara-ø
+line=3830 tag=I-G:       that.T     ‹childNL-childNL›-T big-T
+line=3831 tag=I-T:       that       child               big
+line=3832 tag=I-T:       ‘That child is big.’ [W1960]
+line=3857 tag=B-L:(4.14) Balmbu              ngada   daliju
+line=3858 tag=B-L:       palmpuu-ø            at̪-ta ʈali-c+kuu-ø
+line=3859 tag=I-G:       tomorrow.μPROP-T    1sg-T   ‹come-J›-μPROP-T
+line=3860 tag=I-G:       tomorrow.FUT        1sg     ‹come›-POT
+line=3861 tag=I-M:       ngumbanjiringku                kamburijiringku.
+line=3862 tag=I-L:        u  +pa  +ki- i +kuu-ø         kampu   i-c+ki- i +kuu-ø
+line=3863 tag=I-L:       2sg-μPOSS-‹μLOC-μALL›-μPROP-T  ‹talk-J›-‹μLOC-μALL›-μPROP-T
+line=3864 tag=I-G:       2sg-ø-‹DIRA›-FUT               ‹talk›-‹DIRT›-FUT
+line=3865 tag=I-T:       ‘Tomorrow   I’ll come to talk to you.’ [E453.ex.11-8]
+line=4198 tag=B-L:(5.18)  Ngada       rarungki!
+line=4199 tag=I-L:         at̪-ta     ɻa-ɻu +ki-a
+line=4200 tag=I-G:        1sg-t       south-μallc-μloc-t
+line=4201 tag=I-G:        1sg(cmp)    south-allc-cmp
+line=4202 tag=I-T:        A man  has returned to Bentinck Island (the ‘south’ island) for the ﬁrst time
+line=4203 tag=I-T:        in decades: ‘(Look at) me in the south!’ [R2005-jul05b]
+line=4378 tag=B-L:(5.23) [Ngada  ngumbanjanijarr,              [kamburijiringkina DIRA,DIRT] PST, PRIOR]
+line=4379 tag=I-L:         at-ta  u  +pa  -cani-c+  ara-ø      kampu   i-c+ki- i +ki-naa-ø
+line=4380 tag=I-L:       1sg-t   2sg-μposs-‹μallh-j›-μcons-t   ‹talk-j›-‹μloc-μall›-‹μloc-μabl›-t
+line=4381 tag=I-G:       1sg     2sg-ø-‹allh›-pst              ‹talk›-‹dirt›-prior
+line=4382 tag=I-T:       ‘I came to talk to you’ (lit. ‘I came to you, to talk’) [W1960; E487.ex.11-82]
+line=4729 tag=B-L:         u uma-t̪-a   ali-c-a   wun-ta     a-ku-lu+pa  +ki-a    parun̪t̪a+ki-a
+line=4730 tag=I-G:        ‹deceive-j›-t ‹arrive-j›-t wind-t 1-2-pl-μposs-μloc-t   yesterday-μloc-t
+line=4731 tag=I-G:        ‹deceive›     ‹arrive›     wind   1-2-pl-ø-ins          yesterday-ins
+line=4732 tag=I-T:        ‘Yesterday the wind tricked us as it arrived.’ [R2006-sep25]
+line=5156 tag=B-L:(5.45)  [ŋNgadaat̪-ta [kurikurrinngarrba-c-n-ŋarpa-ø wuranngarrbwuɻan-ŋarpa-ANTAø , ANTT],
+line=5157 tag=I-G:        1sg-t         ‹see-j›-‹μn-μcons›-t           food-μcons-t
+line=5281 tag=B-L:          [ Ngada   barrunthaya    kurrija    dangkayarrngki
+line=5282 tag=I-G:          1sg       yesterday-ins  see-j.act  man-du-ins
+line=5283 tag=I-M:          [ warranki CONT,PROG]      [ rarungkuunth  FUT,POT, COMP] INS,ACT]
+line=5284 tag=I-M:          go-                           south-
+line=5285 tag=I-T:          Lit: Yesterday I saw the two men walking, who were going to the south.
+line=5349 tag=B-L:(5.50)  Ngada   kurrija    niwanji,           jaya          dukurdukuya
+line=5350 tag=I-L:         at̪-ta kuri-c-a   ɳi+paɲ+ki-a        ca+ki-a       ʈukuʈuku+ki-a
+line=5351 tag=I-L:        1sg-t   ‹see-j›-t  3sg-μposs-μloc-t   foot-μloc-t   dry-μloc-t
+line=5352 tag=I-G:        1sg     ‹see›      3sg-ø-ins          foot-ins      dry-ins
+line=5353 tag=I-M:        wanjiinkiya             mirray.
+line=5354 tag=I-L:        wa  ciː-c-n+ki-a        mira+ki-a
+line=5355 tag=I-G:        ‹ascend-j›-μn-μloc-t    good-μloc-t
+line=5356 tag=I-G:        ‹ascend›-prog-ins       good-ins
+line=5357 tag=I-T:        ‘I saw him going up (the hot sand) on his wet feet, in comfort’ [Wurm 1960;
+line=6050 tag=B-L:       pi a  kara-ø        pi-l-ta ma  ala-i-c.a       imi-mara+ki-a
+line=6051 tag=I-G:       long time-μobl-t    3-pl-t  paint-‹μmid-j›-t  night-μutil-μloc-t
+line=6052 tag=I-T:       long time-cont      3-pl    paint-mid         night-util-ins
+line=6075 tag=B-L:       ɲi +ka   ic-ɳuru-a      ʈali-c- ara-ø    kuwaɲ-mara+ki-naa-ø
+line=6076 tag=I-G:       2sg-t   wood-μassoc-t   ‹come-j›-μcons-t ﬁre stick-μutil-‹μloc-μabl›-t
+line=6077 tag=I-G:       2sg     wood-assoc      ‹come›-pst       ﬁre stick-util-‹prior›
+line=6078 tag=I-T:       ‘Have you  brought wood   for ﬁresticks?’ [W1960; E160.ex.4-98], perhaps
+line=6079 tag=I-T:       construed as ‘Have you brought wood, to (be) ﬁresticks?’
+line=6113 tag=B-L:(6.33) a. malaya
+line=6114 tag=I-G:          mala+ki-a
+line=6491 tag=B-M:(7.20) Ngada    wirdija    danda,   nathay.
+line=6492 tag=I-L:         at̪-ta wi i-c-a    an-ta    at̪a+ki-a
+line=6493 tag=I-G:       1sg-t    ‹stay-j›-t here-t   camp-μloc-t
+line=6494 tag=I-G:       1sg      ‹stay›     here     camp-ins
+line=6495 tag=I-T:       ‘I stay here in the camp.’ [E211.ex.5-45]
+line=7409 tag=B-L:(9.4) Ngada   waanmarriya                     wangarri.
+line=7410 tag=B-L:       at̪-ta waː-c-n-wari-a                  wa ar+ki-a
+line=7411 tag=I-G:      1sg-t   ‹sing-j›-‹μn-μpriv›-t           song-μloc-t
+line=7473 tag=B-L:(9.6) Ngada    waaja        wangarriya          thabujumaruth.
+line=7474 tag=B-L:       at̪N-ta waːV-c-a     wa  arN+ki-a        t̪apucuN-maɻuV-t̪-a
+line=7475 tag=I-G:      1sg      sing         song-               e.Br
+line=7476 tag=I-T:      ‘I sang a song for my brother.’ [Glossed after Evans 1995a]
+line=7487 tag=B-L:(9.7) Ngada    waanda       wangarrinja             thabujumarund.
+line=7488 tag=I-G:       at̪N-ta waːV-nN-ta   wa  arN-in̪t̪a          t̪apucuN-maɻuV-nN-ta
+line=7513 tag=B-L:(9.8) Ngada     waanmarriya        wangarriya    thabujumarunmarri.
+line=7514 tag=I-L:      ŋat̪N-ta  waːV-nN-wari-a     wa arN-ki-a   t̪apucuN-maɻuV-nN-wari-a
+line=7515 tag=I-G:      1sg       sing               song-         e.Br
+line=7516 tag=I-M:                nomzn  case1       case          nomzn  case1
+line=7517 tag=I-T:      ‘I am not singing a song for my brother.’ [Glossed after Evans 1995a]
+line=7580 tag=B-M:(9.11) Ngada   dathinkiringku              kamarriringku.
+line=7581 tag=I-L:        at-ta   atin+ki- i +kuu-ø          kamar+ki-  i +kuu-ø
+line=7582 tag=I-L:       1sg-t   that-‹μloc-μall›-μprop-t    dugong-‹μloc-μall›-μprop-t
+line=7583 tag=I-G:       1sg     that-‹all›-fut              dugong-‹all›-fut
+line=7584 tag=I-T:       ‘I will (go) to that stone.’ [W1960; E318.ex.9-28]
+line=7614 tag=B-L:(9.13) Ee    wuuja       ngada      bardakamarutha        yakuriwuj!
+line=7615 tag=I-L:       eː    wuː-c-a      at̪-ta    pa aka-ma   u-t̪-a    jaku  i-wu-c-a
+line=7616 tag=I-G:       hey   ‹give-j›-t  1sg-t      belly-‹μdat-th›-t     ﬁsh-‹μdon-j›-t
+line=7617 tag=I-G:       hey   ‹give›      1sg        belly-‹dat›           ﬁsh-‹don›
+line=7618 tag=I-T:       A woman   commands  her country: ‘Hey, give me ﬁsh for my belly’
+line=7690 tag=B-L:        at̪-ta cu ara+kuu-ø  wa  alk+kuu-ø        parki-c+kuu-ø
+line=7691 tag=I-G:       1sg-t   big-μprop-t   boomerang-μprop-t    ‹cut-j›-μprop-t
+line=7692 tag=I-G:       1sg     big-fut       boomerang-fut        ‹cut›-pot
+line=7693 tag=I-M:       dangkawalanymarrawu          balanku.
+line=7694 tag=I-L:        a ka+palat̪-mara+kuu-ø      pala-t̪-n+kuu-ø
+line=7695 tag=I-G:       person-μpl-μutil-μprop-t     ‹kill-th›-μn-μprop-t
+line=7696 tag=I-G:       person-pl-func-fut           ‹kill›-prog-fut
+line=7697 tag=I-T:       ‘I will cut a big boomerang for killing people.’ [W1960]
+line=8233 tag=B-L:(10.8)  Mara       ngada    kiyamanda1   baaju,            danku.
+line=8234 tag=I-G:        ma  a-ø      at̪-ta ?kiaman-ta   paː-c+kuu-ø        an+kuu-ø
+line=8235 tag=I-L:        ctrfct-t   1sg-t   ?             ‹bite-j›-μprop-t  this-μprop-t
+line=8236 tag=I-G:        ctrfct     1sg     ?             ‹bite›-pot        this-fut
+line=8237 tag=I-T:       [DP-LEFT Danku ]    mara     kiyamanda
+line=8254 tag=B-M:(10.9)  [DP-LEFT Danda  jardiya ] maraka    mungurruwa        wirdiju.
+line=8255 tag=I-L:                  an-ta ca i-a    ma  aka-ø mu  uru-a         wi  i-c+kuu-ø
+line=8256 tag=I-G:                 this-t group-t   ctrfct-t  knowledgeable-t   ‹be-j›-μprop-t
+line=8257 tag=I-G:                 this   group     ctrfct    knowledgeable     ‹be›-pot
+line=8258 tag=I-T:        ‘That lot should have known.’ [R2005–jul08]
+line=8259 tag=B-M:(10.10) Maraka     riinda         wanjiiju             ni.
+line=8260 tag=I-L:        ma aka-ø    i-in-ta       wa  ciː-c+kuu-a       i-a
+line=8261 tag=I-G:        ctrfct-t   east-μablc-t   ‹ascend-j›-μprop-t   3sg-t
+line=8262 tag=I-G:        ctrfct     east-ablc      ‹ascend›-pot         3sg
+line=8263 tag=I-T:        ‘He should have come up from the east.’ [R2007–may22]
+line=8264 tag=B-M:(10.11) Bana    [DP-LEFT  ngakulda ]  maraka      kurrijuruya,
+line=8265 tag=I-L:        pana-ø             a-ku-l-ta  ma  aka-ø   kuri-c+kuu+ki-a
+line=8266 tag=I-G:        and-t             1-2-pl-t    ctrfct-t    ‹look-j›-μprop-μloc-t
+line=8276 tag=B-L:(10.12) [DP-LEFT   ɲNyingkaiŋ+ka ] kalalakalala-ø kurdalathkuʈala-t̪-a?
+line=8277 tag=I-G:                   2sg-t           really-t       ‹spear-th›-t
+line=8278 tag=I-G:                   2sg             really         ‹spear›
+line=8279 tag=I-T:         ‘Did you really spear (him)?’ [E384.ex.9-280]
+line=8280 tag=B-M:(10.13) Kalala   ngumbanda     dulka       mirraa!
+line=8281 tag=I-L:        kalala-ø   u +pa  -ta   ulk+ka     mira-a
+line=8282 tag=I-G:        really-t 2sg-μposs-t   country-t   good-t
+line=8283 tag=I-G:        really   2sg-poss      country     good
+line=8284 tag=I-T:        ‘Your country really is good!’ [R2005–jun28]
+line=8351 tag=B-M:(10.22) Dathina  dangkaa  maraka     ngijinda     kanthathu  kirrka   miburld.
+line=8352 tag=I-L:         at̪ina   a  ka-a ma   aka-ø  icu-i -ta   kan̪t̪at̪u-a kirk+ka mipu  -ta
+line=8353 tag=I-G:        that.t   man-t    sembl-t    1sg-μposs-t  father-t   ‹nose-t  eye-t›
+line=8354 tag=I-G:        that     man       sembl     1sg-poss     father     ‹face     ›
+line=8355 tag=I-T:        ‘That man  looks like my father (lit. is like my father’s face).’ [W1960]
+line=8356 tag=B-L:(10.23)  Jathaa   kunawuna             ngaarrngij,   marrbi     yarbud,
+line=8357 tag=B-L:         cat̪a-a  kuna+kuna-ø           aːr i-c-a    marpi-a    ja put̪-ta
+line=8358 tag=I-G:         other-t  ‹childNL-childNL›-t  ‹presage-j›-t maybe-t    snake-t
+line=8359 tag=I-T:         other     child               presage       maybe      snake
+line=8378 tag=B-L:(10.25) Ngada     ban.
+line=8379 tag=I-L:          at̪-ta  pana-ø
+line=8380 tag=I-G:        1sg-t      also-t
+line=8381 tag=I-G:        1sg        also
+line=8382 tag=I-T:        ‘Me  too.’ [E395.ex.9-334]
+line=8383 tag=B-M:(10.26) Dangkawala      birra      wirdija,    muthaa     dangkaa.
+line=8384 tag=I-L:         a ka+palaa     pir-ta     wi i-c-a    mut̪a-a     a ka-a
+line=8385 tag=I-G:        person-μpl.t    also-t     ‹be-j›-t    many-t     person-t
+line=8386 tag=I-T:        person-pl       also       ‹be›        many       person
+line=8445 tag=B-L:    (a)   Warngiida    warraja      buthi.
+line=8446 tag=B-L:          wa   i c-ta  wara-c-a     put-ki-a
+line=8447 tag=I-G:          one-t         go-th -t    behind-μloc-t
+line=8448 tag=I-T:          one          ‹go›         behind-ins
+line=8449 tag=I-T:          One  (raft) went at the back. [R2007-jun01]
+line=8507 tag=B-L:        juːt̪-ta       at̪-ta   wi i-c-a    pai-a
+line=8508 tag=I-G:        already-t     1sg-t     ‹be-j›-t    angry-t
+line=8509 tag=I-G:        already       1sg       ‹be›        angry
+line=8510 tag=I-T:        ‘My  face becomes stern, my stomach burns, already I am becoming angry.’
+line=8514 tag=B-L:(10.39) Ngada    kiina                   thaatharr,             kabatharri
+line=8515 tag=I-L:          at̪-ta ki+ki-naa-ø             t̪aa-t̪+ ara-ø         kapa-t̪+wari-a
+line=8516 tag=I-L:        1sg-t    partway-‹μloc-μabl›-t   ‹return-th›-μcons-t    ‹ﬁnd-th›-μpriv-t
+line=8517 tag=I-G:        1sg      partway-‹prior›         ‹return›-pst           ‹ﬁnd›-neg.act
+line=8518 tag=I-T:        ‘I came back partway, but still couldn’t ﬁnd any (yams).’ [E301.ex.8-12]
+line=8519 tag=B-L:(10.40)  Kiya              dathina         barnkaldij.
+line=8520 tag=B-L:         ki-a               at̪ina         pa  kalti-c-a
+line=8521 tag=I-G:         partway-t         there.t         ‹sit-j›-t
+line=8522 tag=I-T:         partway           there           ‹sit›
+line=8523 tag=I-T:         ‘(They) sat down  there, halfway here.’ [E301.ex.8-13]
+line=9143 tag=B-L:(11.22) Ngada  balathu          kirrwanju           ngijinjuruwuruwa
+line=9144 tag=I-L:         at̪-ta pala-t̪+kuu-�   ki-r-wa +kuu-�       icu-i +ku  u+ku u-�
+line=9145 tag=I-L:        1sg-t  ‹hit-th›-μcons-t 2-du-μposs-μprop-t  1sg-μposs-μprop-μprop-t
+line=9146 tag=I-G:        1sg    ‹hit›-pst        2-du-�-fut          1sg-�-prop-fut
+line=10199 tag=B-L:       Dathina    riy-a   warra-j-a   nga-ku-l-d,  ri-wurrka-
+line=10200 tag=I-G:       there.t    east-t   go-j›-t    1-2-pl-t     east-‹loc.obl›-t
+line=10201 tag=I-T:       there      east    ‹go›        1-2-pl       east-‹pres-sej›
+line=10202 tag=B-L:       ni-wa-a          ngarn-kurrka-             thula-th-urrk-
+line=10203 tag=I-G:       3sg-μsej-t       beach-‹μloc.μobl›-t       ‹descend-th›-‹μloc.μobl›-t
+line=10204 tag=I-T:       3sg-sej          beach-‹pres-sej›          ‹descend›-‹pres-sej›
+line=10313 tag=B-L:        Nga-da    bala-th-u-         ki-rr-wan-ju-         ngij-in-juru-wuru-wa
+line=10314 tag=I-G:        1sg-t     ‹hit-th›-μprop-t   2-du-μposs-μprop-t    1sg-μposs-μprop-μprop-t
+line=10349 tag=B-L:        Niy-a   dan-inja-      yiiwi–da-         nga-ku-lu-wan-inja-   natha-nth-.
+line=10350 tag=I-G:        3sg-t   here-μobl-t    ‹sleep-j›-μdes-t  1-2-pl-μposs-μobl-t   camp-μobl-t
+line=10351 tag=I-G:        3sg     here-emo       sleep›-des        1-2-pl-poss-emo       camp-emo
+line=10352 tag=I-T:        ‘He should sleep here in our camp’ [W1960]
+line=10437 tag=B-L:        Nga-da    barruntha-y-a      kurri-j-a  makalmakal-i-
+line=10438 tag=I-G:        1sg-t     yesterday-μloc-t   ‹see-j›-t  old woman-μloc-t
+line=10439 tag=I-G:        1sg       yesterday-loc|ins  ‹see›      old woman-ins
+line=10440 tag=I-T:         I saw the old woman yesterday. [W1960]
+line=10517 tag=B-L:        Niy-a   kala-n-da   thungal-inja-  bijarrba-marra-ntha     narra-nguni-nj-.
+line=10518 tag=I-G:        3sg-t   cut-μn-t    tree-μobl-t    dugong-μutil-μobl-t     axe-μinst-μobl-t
+line=10519 tag=I-G:        3sg     cut-prog    tree-cont      dugong-util-cont        axe-inst-cont
+line=10520 tag=I-T:        ‘He is cutting the tree with a shell axe, to use for (spearing) dugong.’ [E112.ex.3-40]
+line=10547 tag=B-L:        Nga-da    warra-j-arra-    ngarn-ki-ring-ki-na-.
+line=10548 tag=I-G:        1sg-t     ‹go-j›-μcons-t   beach-‹μloc-μall›-‹μloc-μabl›-t
+line=10549 tag=I-T:        1sg        go›-past        beach-‹all›-‹prior›
+line=10550 tag=I-T:        ‘I went to the beach.’ [E108.ex.3–27]
+line=10553 tag=B-L:        Nga-da      wirdi-j-a    ba-d .
+line=10554 tag=I-G:        1sg-t       stay-j›-t    west-t
+line=10576 tag=B-L:        Ra-rung-ka      bi-l-da  budii-j-iy-a          kuujuu-j-i-ring-ki-.
+line=10577 tag=I-G:        south-μallc-t   3-pl-t    run away-j›-μloc-t    swim-j›- μloc-μall›-μloc-t
+line=10578 tag=I-T:        south-allc      3-pl     ‹run away›-imm        ‹swim›-‹dirt›-ins
+line=10579 tag=I-T:        ‘They’re running away to the south to swim.’ [R2005-jul08]
+line=10675 tag=B-L:        Nga-da    yan-da   warra-j.
+line=10676 tag=I-G:        1sg-t     now-t    ‹go-j›-t
+line=10677 tag=B-G:        1sg       now       go
+line=10678 tag=I-T:        ‘I’m going now.’ [W1960]
+line=10693 tag=B-L:        Nga-da    barruntha-y-a       kurri-j-i-ri-
+line=10694 tag=I-G:        1sg-t     yesterday-μloc-t    see-j›- μloc-μall›-t
+line=10695 tag=I-G:        1sg       yesterday-loc       ‹see›-‹dirt›
+line=10696 tag=I-M:        ngij-in-ji-r-              kaja~kaja-r-.
+line=10697 tag=I-G:        11sgsg--μøposs-‹dira- μ› loc-μall›-t ‹fatherfather›NL-‹dira-father› NL - μloc-μall›-t
+line=10698 tag=I-T:         I saw my father yesterday. [W1960]
+line=10703 tag=B-L:        Nga-da            warra-j-a           ba-lung-ku- .
+line=10704 tag=I-G:        1sg-t              go-j›-t            west-μallc-μprop-t
+line=10705 tag=I-T:        1sg               ‹go›                west-allc-prop
+line=10737 tag=B-L:        3Niysg--ta ‹marndideprive--j-jarra›-μ̋cons- -t fatherkanthathu-‹μlocna-μ-̋abl›-t moneywirrin--kuruμ̋prop- .-t
+line=10738 tag=I-G:        3sg        ‹deprive›-pst                       father-‹prior›                    money-prop
+line=10739 tag=I-T:        He  took money off his father. [E420.ex.10-38]
+line=10748 tag=B-L:        Nga-da    burldi-j-a ni-wan-ji-         wangalk-uru- .
+line=10749 tag=I-G:        1sg-t     ‹hit-j›-t  3sg-μposs-μloc-t   boomerang-μprop-t
+line=10750 tag=I-T:        1sg       ‹hit›      3sg-ø-ins          boomerang-prop
+line=10773 tag=B-L:        Waa-j-a     wirdi-j-a  nga-da   bijarrba-wuru-.
+line=10774 tag=I-G:         sing-j›-t  stay-j›-t  1sg-t    boomerang-μprop-t
+line=10775 tag=I-T:        ‹sing›      ‹stay›     1sg      boomerang-prop
+line=10799 tag=B-L:        Nga-da    bala-tha     ni-wan-ji-          warngii-da    birrjilk-.
+line=10800 tag=I-G:        1sg-t      hit-th›-t   3sg-μposs-μloc-t    one-t         occasion-t
+line=10801 tag=I-G:        1sg       ‹hit›        3sg-ø-ins           one           occasion
+line=10802 tag=I-T:         I hit him one time. [E656]
+line=10812 tag=B-L:        Dan-ki-na-            nga-da    kurri-j-arra-     ni-wan-ji-na-
+line=10813 tag=I-G:        here-‹μloc-μabl›-t    1sg-t     ‹see-j›-μcons-t   3sg-μposs-‹μloc-μabl›-t
+line=10814 tag=I-G:        here-‹prior›          1sg       ‹see›-pst         3sg-ø-‹prior›
+line=10815 tag=I-L:        kiyarrng-ka         birrjil-k.
+line=10816 tag=I-G:        two-t               occasion-t
+line=10817 tag=I-T:        two                 occasion
+line=10818 tag=I-T:        ‘I saw her here twice.’ [R2005-jun29]
+line=10858 tag=B-L:         Nga-da    mungurru-,    kada-ntha-     thaa-th-uu-nth-.
+line=10859 tag=I-G:         1sg-t     know-t        again-μobl-t   ‹return-th›-μprop-μobl-t
+line=10860 tag=I-T:         1sg       know          again-sej      ‹return›-pot-sej
+line=10894 tag=B-L:        Nga-l-da    marri-j-a   kang-ki-       jungarra na-        dangka   na-.
+line=10895 tag=I-G:        1-pl-t      hear-j›-t   story-μloc-t   big- μloc-μabl›-t   person- μloc-μabl›-t
+line=10896 tag=I-T:        1-pl        ‹hear›      story-ins      big-‹abl›           person-‹abl›
+line=10897 tag=I-T:         We  heard the story from the old people. [E143.ex.4-35;605.line35.text8]
+line=10904 tag=B-L:         Nga-da   ra-yii-j-u-         mun-da       balarr-i-na-
+line=10905 tag=I-G:         1sg-t    ‹spear-j›-μprop-t   buttocks-t   white-‹μloc-μabl›-t
+line=10906 tag=I-T:         1sg       spear›-pot         buttocks    white-‹abl›
