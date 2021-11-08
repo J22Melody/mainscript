@@ -1,0 +1,1894 @@
+line=1026 tag=B-L:                      (1.11)  a.    Dan-kiy-a    kuna~wuna-y-a            barji-j-arra-nth- !
+line=1027 tag=B-L:                              b.    "ankia       kunaunaja                pa%cicaran#t#a
+line=1028 tag=B-L:                              c.    "an-ki-a     kuna-kuna-ki-a           pa%ci-c-!ara-in#t#a-ø
+line=1029 tag=I-G:                              d.    this-fLOC-T  ‹childNL-childNL›-fLOC-T fall-TH-fCONS-fOBL-T
+line=1030 tag=I-G:                              e.    this-EMP-Ø   ‹child›-EMP-Ø            fall-Ø-PST-COMP-Ø
+line=1031 tag=I-T:                              f.    ‘This child has been born!’ [R2005-jul21]
+line=2126 tag=B-L:                     (2.27)  Nga-da   dathin-ki-na-     wuu-j-arra-      wuruman-ki-na-
+line=2127 tag=B-L:                             !at#-ta  "at#in-ki-naa-ø   wu(-c-!ara-ø     wu%uman-ki-naa-ø
+line=2128 tag=I-G:                             1sg-T    there-fLOC-fABL-T put-TH-fCONS-T   billy-fLOC-fABL-T
+line=2129 tag=I-G:                             1sg-Ø    there-Ø-PRIOR-Ø   put-Ø-PAST-Ø     billy- Ø-PRIOR-Ø
+line=2130 tag=I-L:                            nguku-rnurru--na-
+line=2131 tag=B-L:                            !uku-&uru-ki-naa-ø
+line=2132 tag=I-G:                            water-fASSOC-fLOC-fABL-T
+line=2133 tag=I-T:                            water-ASSOC-Ø-PRIOR-Ø
+line=2134 tag=I-T:                            ‘I put the billy there with water in it.’ [W1960]
+line=3215 tag=B-L:                    (3.6)  a.  wumbu-wuthin-mumbu-wuthin-da          b.  nal-yakuri-a
+line=3216 tag=I-L:                               wumpuwut#inmumpuwut#inta                  &aljaku%ia
+line=3217 tag=I-L:                               wumpu-wut#i'-wumpu-wut#i'-ta              &al-jaku%i-a
+line=3218 tag=I-G:                               ‹trunk-fPLENTY-trunk-fPLENTY›-T           ‹head-fish›-T
+line=3219 tag=I-T:                               ‹tangle of roots›-Ø                       ‹bird sp.›-Ø
+line=3255 tag=B-L:                                !umu-cu!ara-                 &al-jaku%i-
+line=3256 tag=I-G:                                ‹black-big-›                 ‹head-fish-›
+line=3257 tag=I-T:                                ‹pitch black›                ‹bird sp.›
+line=3258 tag=B-L:                                                                              f. minyi-ngarnala-
+line=3259 tag=I-L:                                                                                 mi&i!a&ala-
+line=3260 tag=I-L:                                                                                 mi&i-!a&ala-
+line=3261 tag=I-G:                                                                                 ‹form-white cockatoo-›
+line=3262 tag=I-T:                                                                                 ‹termite›
+line=3263 tag=I-T:                     5 One compound   undergoes modifications not from the ‘regular phonology’ but from the
+line=3264 tag=B-L:                     ‘leniting phonology’ (on which, see §3.6.3 below). Jarurndurn- /ca%u&tu&/ ‘long legged
+line=3373 tag=B-L:                      (3.15)  a.  yu-buu-j-
+line=3374 tag=I-L:                                  ju-pu(-c-
+line=3375 tag=I-G:                                  ‹waterNL-pull›-TH-
+line=3376 tag=I-T:                                  ‘pull through water’
+line=3377 tag=B-L:                                                           b.  yu-marii--j-                 c.  *yu-
+line=3378 tag=I-G:                                                               ju-ma%u-i-t#-                    ju-
+line=3379 tag=B-G:                                                               ‹waterNL-fDAT-fMID›-TH-
+line=3380 tag=I-T:                                                               ‘submerge’                       ‘water’
+line=3381 tag=B-L:                       (3.16)  a.  kuna-walath-
+line=3382 tag=I-G:                                   kuna-palat#-
+line=3383 tag=I-L:                                   ‹childNL-fPL-›
+line=3384 tag=I-G:                                   ‘children’
+line=3385 tag=B-L:                                                          b.  kuna-wuna-                  c. *kuna-
+line=3386 tag=I-G:                                                              kuna-kuna-                      kuna-
+line=3387 tag=I-T:                                                              ‹childNL-childNL-›
+line=3388 tag=I-T:                                                              ‘child’                         ‘child’
+line=3467 tag=B-L:                        (3.18)   a.  thaa-th-             b.   nal-daa-th-
+line=3468 tag=I-L:                                     t#aat#-                   &altaat#-
+line=3469 tag=I-L:                                     t#aa-t#-                  &al-"aa-t#-
+line=3470 tag=I-G:                                     return-TH                 head-bobNL-TH
+line=3748 tag=B-L:                     (3.28) a.  dangka-karrany-
+line=3749 tag=I-G:                                "a!kakara'-
+line=3750 tag=I-L:                                "a!ka-kara'-
+line=3751 tag=I-G:                                ‘man-fGEN-’
+line=3752 tag=B-L:                                                  b. maku-karrany-    c. nal-karrany-
+line=3753 tag=I-G:                                                     makukara'-          &alkara'-
+line=3754 tag=B-L:                                                     maku-kara'-         &al-kara'-
+line=3755 tag=I-T:                                                     ‘woman-fPRIV-’      ‘head-fGEN-’
+line=3756 tag=B-L:                              d.  thawurr-karrany-   e.   yarbu-karrany-
+line=3757 tag=B-L:                                  t#aurkara'-             ja%pukara'-
+line=3758 tag=B-L:                                  t#aur-kara'-            ja%put#-kara'-
+line=3759 tag=I-T:                                  ‘stream-fGEN-’          ‘animal-fGEN-’
+line=3760 tag=B-L:                                                                      f. yarraman-karrany-
+line=3761 tag=I-G:                                                                         jaramankara'-
+line=3762 tag=I-L:                                                                         jaraman-kara'-
+line=3763 tag=I-G:                                                                         ‘stockman-fGEN-’
+line=3764 tag=B-L:                              g.   duujin-karrany-
+line=3765 tag=I-G:                                   "u(cinkara'-
+line=3766 tag=I-L:                                   "u(ci'-kara'-
+line=3767 tag=I-G:                                   ‘y.Br-fGEN-’
+line=3793 tag=B-L:                      (3.30)   a.  bith-arri-           b.   mibur-warri-
+line=3794 tag=I-L:                                   *bi-yarri-                *mibur-arri
+line=3795 tag=I-L:                                   pit#-wari-                mipu%-wari-
+line=3796 tag=I-G:                                   (good) smell-fPRIV-       eye-fPRIV-
+line=3797 tag=I-T:                                   ‘stinking’                ‘blind’
+line=3804 tag=B-L:                       (3.31)   a.  riya-th-iy-a                 b.   kala-tha
+line=3805 tag=I-L:                                    %iat#ia                           kalat#a
+line=3806 tag=I-L:                                    %ia-t#-ki-a                       kala-t#a
+line=3807 tag=I-G:                                    east.fLOC-fREM-fLOC-T             cut-TH.T
+line=3808 tag=B-L:                               c.  rar-i-j-iy-a                 d.  kalaa--ja
+line=3809 tag=I-G:                                   %a%icia                          kala(ca
+line=3810 tag=I-L:                                   %a%-ki-t#-ki-a                   kala-i-t#a
+line=3811 tag=I-G:                                   south-fLOC-fREM-fLOC-T           cut-fMID-TH.T
+line=3823 tag=B-L:                        (3.32)  a.   birji-n-ij-
+line=3824 tag=I-G:                                     pi%cinic-
+line=3825 tag=B-L:                                     pi%ci-c-n-ic-
+line=3826 tag=I-G:                                     be alive-TH-fN-fSAME-
+line=3827 tag=I-T:                                     ‘still alive’
+line=3828 tag=B-L:                                                            b.  warirra-j-           c.  ngarrwarri-j-
+line=3829 tag=I-L:                                                                wa%irac-                 !arwaric-
+line=3830 tag=I-L:                                                                wa%ira-ic-               !arwari-ic-
+line=3831 tag=I-G:                                                                nothing-fSAME-           alive-fSAME-
+line=3832 tag=I-T:                                                                ‘still nothing’          ‘still alive’
+line=3979 tag=B-L:                    (3.35) a. warra--nang-ku-      b. warra--na
+line=3980 tag=I-L:                              warana!kuu              warana
+line=3981 tag=B-L:                              wara-c-na!-kuu-ø        wara-c-na
+line=3982 tag=I-G:                              go-TH-fNEG-fPROP-T      go-TH-fNEG.T
+line=4081 tag=B-L:                      (3.40)  a.  dathin-kiy-a
+line=4082 tag=I-L:                                  "at#in-ki-a
+line=4083 tag=I-G:                                  that-fLOC-T
+line=4121 tag=B-L:                      (3.42)  a.  dathin-kuruw-a
+line=4122 tag=I-L:                                  "at#in-ku%u-a
+line=4123 tag=I-G:                                  that-fPROP-T
+line=4124 tag=I-T:                                  that-FUT18-ø
+line=4125 tag=B-L:                                                      b.  dathin-kuruw-a
+line=4126 tag=I-L:                                                          "at#in-ku%u-a
+line=4127 tag=I-G:                                                          that-MODAL.PROP-(?)
+line=4128 tag=I-T:                                                          (after Evans 1995a)
+line=4183 tag=B-L:                       (3.43)   a.  dathin-ki-a             b.   dathin-ki-ri
+line=4184 tag=B-L:                                    "at#in-ki-a                  "at#in-ki-%i
+line=4185 tag=I-G:                                    that-fLOC-T                  that-fLOC-fALL.T
+line=4272 tag=B-L:                       (3.46)   a.   dathin-kiy-a
+line=4273 tag=I-L:                                     "at#inkia
+line=4274 tag=B-L:                                     "at#in-ki-a
+line=4275 tag=I-G:                                     that-fLOC-T
+line=4276 tag=I-T:                                     that-INS-Ø
+line=4277 tag=B-L:                               d.  yarbuth-iy-a
+line=4278 tag=I-L:                                   ja%put#ia
+line=4279 tag=I-L:                                   ja%put#-ki-a
+line=4280 tag=I-L:                                   animal-fLOC-T
+line=4281 tag=I-G:                                   animal-INS-Ø
+line=4282 tag=B-L:                                                      b.  duujin-jiy-a              c.  burung-ki-na-
+line=4283 tag=I-L:                                                          "u(ci'cia                     pu%u!kinaa
+line=4284 tag=I-L:                                                          "u(ci'-ki-a                   pu%u!-ki-naa-ø
+line=4285 tag=I-G:                                                          younger  sibling-fLOC-T       ripe-fLOC-fABL-T
+line=4286 tag=I-T:                                                          younger  sibling-INS-Ø        ripe-Ø-ABL-Ø
+line=4287 tag=B-L:                                                     e. dangka-y-a               f.  dangka--na-
+line=4288 tag=B-L:                                                        "a!kaja                      "a!kanaa
+line=4289 tag=B-L:                                                        "a!ka-ki-a                   "a!ka-ki-naa-ø
+line=4290 tag=I-G:                                                        person-fLOC-T                person-fLOC-fABL-T
+line=4291 tag=I-T:                                                        person-INS-Ø                 person-Ø-ABL-Ø
+line=4307 tag=B-L:                             c.  buru-tharra   pu%u-t#ara   warra-jarra    wara-cara
+line=4308 tag=I-L:                             d.  buru-nharra   pu%u-n#ara   warra-nyarra   wara-'ara
+line=4309 tag=B-L:                             e.  buru-da       pu%u-ta      warra-da       wara-ta
+line=4310 tag=I-G:                             f.  buru-n-       pu%u-n-      warra-n-       wara-n-
+line=4362 tag=B-L:                     (3.48)  a. budii-j~budii-j-u-
+line=4363 tag=I-L:                                puti(cputi(cuu
+line=4364 tag=B-L:                                puti(-c-puti(-c-kuu-ø
+line=4365 tag=I-G:                                run away-TH-run  away-TH-fPROP-T
+line=4366 tag=I-T:                                run away-Ø-run  away-Ø-POT-Ø
+line=4367 tag=B-L:                                                                    b. budii-j~budii--n-da
+line=4368 tag=I-G:                                                                       puti(cputi(nta
+line=4369 tag=B-L:                                                                       puti(-c-puti(-c-n-ta
+line=4370 tag=I-G:                                                                       run away-TH-run  away-TH-fN-T
+line=4371 tag=I-T:                                                                       run away-Ø-run  away-Ø-CONT-Ø
+line=4453 tag=B-L:                     (3.53)  a.  bi-l-i-da       b.  [DP ni-wan-ij-iy-a           yubu-yubu-y-a ]
+line=4454 tag=I-L:                                 pi-l-ic-ta             &i-pa'-ic-ki-a            jupu-jupu-ki-a
+line=4455 tag=I-G:                                 3-pl-fSAME-T            3sg-fPOSS-fSAME-fLOC-T   ‹roadNL-roadNL›-fLOC-T
+line=4456 tag=I-G:                                 3-pl-SAME-ø             3sg-ø-SAME-INS-ø         ‹road›-INS-ø
+line=4457 tag=I-T:                                 ‘the same’ (PL)     ‘on the same road (A-TAM:instantiated)’
+line=4466 tag=B-L:                    Yangkaal       !ici'-pa-kara            !amat#u-kara        "a!ka-a
+line=4467 tag=I-G:                                   1sg.fPOSS-fGENLIG-fGEN.T mother-fGEN.T       person-T
+line=4468 tag=I-G:                                   1sg.POSS-Ø-GEN           mother-GEN          person-Ø
+line=4469 tag=I-T:                               ‘my mother’s people’ [Hale 1940, p4]
+line=4475 tag=B-L:                     (3.55)  a. Ngij-in-thabuju-karra   maku-.
+line=4476 tag=B-L:                                !icu-i'-t#apucu-kara    maku-a
+line=4477 tag=I-G:                                1sg-fINY-e.Br-fGEN.T    wife-T
+line=4478 tag=I-G:                                1sg-POSS-e.Br-GEN       wife-Ø
+line=4479 tag=I-T:                                ‘My  elder brother’s wife.’
+line=4488 tag=B-L:                    (3.56)  Dathin-ba-karr       kiyarr-ba-karr       dangka-karr
+line=4489 tag=B-L:                            "at#in-pa-kara       k#iar!-pa-kara       "a!ka-kara
+line=4490 tag=I-G:                            that-fGENLIG-fGEN.T  two-fGENLIG-fGEN.T   man-fGEN.T
+line=4491 tag=I-T:                            that-Ø-GEN           two-Ø-GEN            man-GEN
+line=4593 tag=B-L:                              c.  cirka%i'in       %a%i'in             %ia'in-              pat#i'in-
+line=4594 tag=B-L:                                  cirka%i-i'in-    %a%-ki-i'in-        %ia-i'in-            pat#-ki-i'in-
+line=4595 tag=I-G:                                  N.fLOC-fEND      S-fLOC-fEND         E.fLOC-fEND          W-fLOC-fEND
+line=4596 tag=I-T:                                                                                        179
+line=4597 tag=B-L:                    (3.62) Here                          Evans (1995a)
+line=4598 tag=I-G:                           Allative stem (root+fALL)     Allative stem
+line=4630 tag=B-L:                     (3.63) a.  ngij-in-jiy-a=rna-
+line=4631 tag=I-L:                                !icu-i'-ki-a=&a-a
+line=4632 tag=I-G:                                1sg-fPOSS-fLOC-T=now-T
+line=4633 tag=I-G:                                ‘1sg-Ø-EMP-Ø=now-Ø’
+line=4634 tag=I-T:                                [R2006-jul19a]
+line=4635 tag=B-L:                                                        b.  ngudi-ja=rna-
+line=4636 tag=I-L:                                                            !uti-ca=&a-a
+line=4637 tag=I-L:                                                            throw-TH.T=now-T
+line=4638 tag=I-G:                                                            ‘throw-ACT=now-Ø’
+line=4639 tag=I-T:                                                            [R2006-jul19a]
+line=4645 tag=B-L:                      (3.64)  a.  darirr-ij-iy-a               b.   ngarrku--da
+line=4646 tag=I-L:                                  "a%ir-ic-ki-a                     !arku-ic-ta
+line=4647 tag=I-L:                                  infant-fSAME-fLOC-T               strong-fSAME-T
+line=4648 tag=I-G:                                  ‘infant-SAME-EMP-Ø,               ‘strong-SAME-Ø,
+line=4649 tag=I-T:                                  i.e., still an infant!’           i.e., still strong’
+line=4666 tag=B-L:                     (3.65)   a. wululbu-y-a=-da23
+line=4667 tag=B-L:                                 wululpu-ki-a=ic-ta
+line=4668 tag=I-L:                                 bait-fLOC-T=fSAME-T
+line=4669 tag=I-G:                                 ‘bait-LOC-Ø=SAME-Ø,
+line=4670 tag=I-T:                                 i.e., still at the bait’
+line=4671 tag=I-T:                                 [E390]
+line=4672 tag=B-L:                             c.  wirdi-ja=-da
+line=4673 tag=I-L:                                 wi"i-ca=ic-ta
+line=4674 tag=I-L:                                 stay-TH.T=fSAME-T
+line=4675 tag=I-G:                                 ‘stay-ACT=SAME-Ø,
+line=4676 tag=I-T:                                 i.e., still remaining’
+line=4764 tag=B-L:                     (3.69)  a.  ja-r-marra-          b.  ja-wuu-
+line=4765 tag=I-L:                                 ca-%-mara-ø              ca-kuu-ø
+line=4766 tag=I-G:                                 foot-INC-fUTIL-T         foot-fPROP-T
+line=4767 tag=I-T:                                 ‘foot-ø-UTIL-ø’          ‘foot-FUT-ø’
+line=4768 tag=B-L:                                                                              c.  ja-muthan-d
+line=4769 tag=I-L:                                                                                  ca-mut#a'-ta
+line=4770 tag=I-G:                                                                                  foot-fEXS-T
+line=4771 tag=I-T:                                                                                  ‘excessive wanderer’
+line=4772 tag=B-L:                              e.  ja-thungal-uru-a     f.
+line=4773 tag=I-L:                                  ca-t#u!al-ku%u-a
+line=4774 tag=I-G:                                  foot-thing-fPROP-T
+line=4775 tag=I-T:                                  ‘having something
+line=4776 tag=I-T:                                  on his feet’
+line=4848 tag=B-L:                      (3.73)  a.  ru-r-i-          b.   rururu-           c.  ru-marr-
+line=4849 tag=I-L:                                  %u-%-ki-a             %u-%-ku%u-            %u-mara-
+line=4850 tag=I-G:                                  fat-INC-fLOC-T        fat-INC-fPROP-T       fat-fUTIL-T
+line=4851 tag=I-T:                                  ‘fat-Ø-INS-Ø’         ‘fat-PROP-Ø’          ‘fat-UTIL-Ø’
+line=4865 tag=B-L:                      (3.74)  a.   jingka-ra          b.  dawarl-da
+line=4866 tag=I-L:                                   ci!ka-%a               "awa%-ta
+line=4867 tag=I-G:                                   scrub-INC.T            tree  sp.-T
+line=4868 tag=I-T:                                   ‘scrub-ø’              ‘tree sp.-ø’
+line=4869 tag=B-L:                                                                          c. jingka-r-maru-th-uu-
+line=4870 tag=I-L:                                                                             ci!ka-%-ma%u-t#-kuu-ø
+line=4871 tag=I-G:                                                                             scrub-INC-fDAT-TH-fPROP-T
+line=4872 tag=I-T:                                                                             ‘scrub-ø-DAT-ø-POT-ø’
+line=4873 tag=B-L:                              d.  jingka-r-i-        e.   jingka-r-nguni-
+line=4874 tag=I-L:                                  ci!ka-%-ki-a            ci!ka-%-!uni-a
+line=4875 tag=I-G:                                  scrub-INC-fLOC-T        scrub-INC-fINST-T
+line=4876 tag=I-T:                                  ‘scrub-ø-LOC-ø’         ‘scrub-ø-INST’
+line=4877 tag=B-L:                                                                                 jingka-r-ii-wa-tha
+line=4878 tag=I-L:                                                                                 ci!ka-%-ki(wa-t#a
+line=4879 tag=I-G:                                                                                 scrub-INC-‹fLLOC-fINCH›-TH.T
+line=4880 tag=I-T:                                                                                 ‘scrub-ø-‹COLL›-ACT’
+line=4899 tag=B-L:                    (3.75)  a. buny-maru-tha
+line=4900 tag=I-L:                               ~bun-maru-tha
+line=4901 tag=I-L:                               put#-ma%u-t#a
+line=4902 tag=I-G:                               behind-fDAT-TH.T
+line=4903 tag=I-T:                               ‘come  behind OBJ’
+line=4904 tag=B-L:                                                      b.  buny-murra-tha        c.  yany-maru-tha
+line=4905 tag=I-L:                                                          ~bun-murra-tha            ~yan-maru-tha26
+line=4906 tag=I-L:                                                          put#-mura-t#a             jat#-ma%u-t#a
+line=4907 tag=I-G:                                                          behind-break-TH.T         laugh-fDAT-TH.T
+line=4908 tag=I-T:                                                          ‘inherit (OBJ=widow)’     ‘make OBJ laugh’
+line=4910 tag=B-L:                     (3.76)  a. ban-maru-tha
+line=4911 tag=I-L:                                *~bany-maru-tha
+line=4912 tag=I-L:                                pat#-ma%u-t#a
+line=4913 tag=I-G:                                west-fDAT-TH.T
+line=4914 tag=I-T:                                ‘put OBJ to the west’
+line=4915 tag=B-L:                                                      b.  ban-mali-
+line=4916 tag=I-L:                                                          *~bany-mali-
+line=4917 tag=I-L:                                                          pat#-mali
+line=4918 tag=I-G:                                                          west-fHAIL-
+line=4919 tag=I-T:                                                          ‘hey you in the west’
+line=4928 tag=B-L:                     (3.77)  a.  ?niny-marra-          b.  ?niny-nguni-
+line=4929 tag=I-L:                                 &it#-mara-                &it#-!uni-
+line=4930 tag=I-G:                                 name-fUTIL-               name-fINST-
+line=4931 tag=I-T:                                 ‘name-UTIL’               ‘name-INST’
+line=4935 tag=B-L:                      (3.78)   a.  bin-ngarrba-           b.  bin-nguni-
+line=4936 tag=I-L:                                   pit#-!arpa-                pit#-!uni-
+line=4937 tag=I-G:                                   smell-fCONS-               smell-fINST-
+line=4938 tag=I-T:                                   ‘smell-CONS’               ‘smell-INST’
+line=4943 tag=B-L:                     (3.79)  a.  yarbu-nyarrba-
+line=4944 tag=I-L:                                 ja%put#-!arpa-
+line=4945 tag=I-G:                                 animal-fCONS-
+line=4946 tag=I-T:                                 ‘animal-CONS’
+line=4947 tag=B-L:                                                          b.  ngi-nyuni-        c.  biriij-birii-nyarrba-
+line=4948 tag=I-G:                                                              !ic-!uni-             pi%i(c-pi%i(c-!arpa-
+line=4949 tag=I-L:                                                              wood-fINST-           ‹Fa-Fa›-fCONS-
+line=4950 tag=I-T:                                                              ‘wood-INST’           ‘fathers-DYAD’
+line=5063 tag=B-L:                       (3.81)  a.  nal-birdi~nal-birdi-
+line=5064 tag=I-L:                                   &al-pi"i-&al-pi"i-
+line=5065 tag=I-G:                                   ‹head-bad›-‹head-bad›-
+line=5066 tag=I-T:                                   ‘very crazy’
+line=5067 tag=B-L:                                                                      b. bardi-wuru~bardi-wuru-
+line=5068 tag=I-L:                                                                         pa"i-ku%u-pa"i-ku%u-
+line=5069 tag=I-G:                                                                         ‹whisker-fPROP›-‹whisker-fPROP›-
+line=5070 tag=I-T:                                                                         ‘old man’
+line=5071 tag=B-L:                             c.  ra-rum-ba~la-rum-ban-                d.  nga-ku-lu-wan~nga-ku-lu-wan-
+line=5072 tag=I-L:                                 %a-%u!-pa'-%a-%u!-pa'-                   !a-ku-lu-pa'-!a-ku-lu-pa'-
+line=5073 tag=I-G:                                 ‹south-fALL-fPOSS›-‹south-fALL-fPOSS›-   ‹1-2-pl-fPOSS›-‹1-2-pl-fPOSS›-
+line=5074 tag=I-T:                                 ‘southerners’                            ‘our many’
+line=5092 tag=B-L:                      (3.83)  a.  nal-daa~rnal-daa-th-
+line=5093 tag=I-L:                                  &al-"aa-&al-"aa-t#
+line=5094 tag=I-G:                                  head-bobNL-head-bobNL-
+line=5095 tag=I-T:                                  ‘loll one’s head’
+line=5096 tag=B-L:                                                                 b.  kam-buri-~kam-buri-j-
+line=5097 tag=B-L:                                                                     ka!-bu%i-c-ka!-bu%i-c-
+line=5098 tag=I-G:                                                                     speech-ROOTNL-speech-ROOTNL-
+line=5099 tag=I-T:                                                                     ‘talking’
+line=5100 tag=B-L:                             c. karnaa--j~arnaa--j-
+line=5101 tag=I-L:                                ka&a-i-c-ka&a-i-c-
+line=5102 tag=I-G:                                cook-fMID-TH-cook-fMID-TH-
+line=5103 tag=I-T:                                ‘being cooked’
+line=5104 tag=B-L:                                                                   d.  tharda-wi-~tharda-wi-j-
+line=5105 tag=B-L:                                                                       t#a"a-wi-c-t#a"a-wi-c-
+line=5106 tag=I-G:                                                                       shoulder-fLWR-TH-shoulder-fLWR-TH-
+line=5107 tag=I-T:                                                                       ‘swinging one’s shoulder’
+line=5108 tag=B-L:                            e.  mibur-maru-ny~mibur-maru-th-   f.
+line=5109 tag=I-L:                                mipu%-ma%u-t#-mipu%-ma%u-t#-
+line=5110 tag=I-G:                                eye-fDAT-TH-eye-fDAT-TH-
+line=5111 tag=I-T:                                ‘look and look’
+line=5122 tag=B-L:                     (3.84)  a.  kunya-ru-th-
+line=5123 tag=I-L:                                 ku'a-%u-t#-
+line=5124 tag=I-G:                                 small-fFACT-TH-
+line=5125 tag=I-T:                                 ‘make  OBJ small’
+line=5126 tag=B-L:                             c.  maka--lu-th
+line=5127 tag=I-G:                                 maka-t#-%u-t#-
+line=5176 tag=B-L:                    (3.88)  a. ni-wan-marndi--n-
+line=5177 tag=I-L:                               &i-pa'-ma&ti-c-n-
+line=5178 tag=I-G:                               3sg-fPOSS-rob-TH-fCONS-
+line=5179 tag=I-T:                               ‘the one who robbed him’
+line=5271 tag=B-L:                     (3.93) a.  Makarrk-i-
+line=5272 tag=I-L:                                makark-ki-
+line=5273 tag=I-G:                                anthill-fLOC-
+line=5274 tag=I-T:                                (Place name)
+line=5275 tag=B-L:                             c. Makarrk-i-ngathi-
+line=5276 tag=I-G:                                ~ Makarr-ngathi
+line=5277 tag=I-L:                                makark(-ki)-!at#i-
+line=5278 tag=I-G:                                anthill(-fLOC)-fBORN-
+line=5279 tag=I-T:                                (Person’s name)
+line=5280 tag=B-L:                                                         b.  Murdu-murdu-
+line=5281 tag=I-G:                                                             mu"u-mu"u-
+line=5282 tag=I-T:                                                             tree sp.-tree sp.-
+line=5283 tag=I-T:                                                             (Place name)
+line=5284 tag=B-L:                                                           d.  Murdu-murdu-ngathi-
+line=5285 tag=I-G:                                                               ~ Murdu-ngathi
+line=5286 tag=I-L:                                                               mu"u(-mu"u)-!at#i-
+line=5287 tag=I-G:                                                               tree sp.(-tree sp.)-fBORN-
+line=5288 tag=I-T:                                                               (Person’s name)
+line=5310 tag=B-L:                     (3.94)  a. ngarn-ki-c-
+line=5311 tag=I-L:                                !a&-ki-ic-
+line=5312 tag=I-L:                                beach-fLOC-fSAME-
+line=5313 tag=I-G:                                beach-‹PERLATIVE›-
+line=5314 tag=I-T:                                ‘moving  along the beach’
+line=5315 tag=B-L:                                c.  kalkan-balath-ic-
+line=5316 tag=I-L:                                    kalkan-palat#-ic-
+line=5317 tag=I-G:                                    sick-‹fPL-fSAME›-
+line=5318 tag=I-T:                                    sick-‹EVERY›-
+line=5319 tag=I-T:                                    ‘all sick’
+line=5320 tag=B-L:                                                            b.  ra-yin-ki-ri-c-
+line=5321 tag=I-L:                                                                %a-in-ki-%i!-ic-
+line=5322 tag=I-G:                                                                south-fFRM-fLOC-fALL-fSAME-
+line=5323 tag=I-T:                                                                south-‹CENTRIPETAL  BOUNDARY›-
+line=5324 tag=I-T:                                                                ‘thing located to the south across a
+line=5448 tag=B-L:                                 e.   ‘kiss’            wa%a-pa(-c-    ‘lit. mouth-bite-TH’    wa%a-pa-n#t#u-t#-
+line=5449 tag=B-L:                                 f.   ‘pull’            "ar-pu(-c-     ‘lit. thigh-pull-TH’    "ar-pu(-'cu-t#-
+line=5469 tag=B-L:                       (3.100)   wu-th-u-nthu-th-
+line=5470 tag=I-L:                                 wut#un#t#ut#-
+line=5471 tag=I-L:                                 wu-t#-wu-n#t#u-t#-
+line=5472 tag=I-G:                                 give-TH-give-fRCP-TH-
+line=5595 tag=B-L:                     (3.107)   Spoken:   a. mala-ri          b. dulk-i-ri
+line=5596 tag=I-L:                               Song:        mala-ru             dulk-i-ri
+line=5597 tag=I-G:                                            mala-ki-%V!-        "ulk-ki-%V!-
+line=5598 tag=I-G:                                            sea-fLOC-fALL-      country-fLOC-fALL-
+line=5599 tag=I-T:                                            ‘sea-Ø-DIR’         ‘country-Ø-DIR’
+line=5613 tag=B-L:                     (3.108)  a.  dan-ba-karrany-
+line=5614 tag=I-L:                                  "an-pa-kara'-
+line=5615 tag=I-G:                                  this-fGENL-fGEN-
+line=5616 tag=I-T:                                  ‘this-Ø-GEN’
+line=5617 tag=B-L:                                                      b.  dathin-ba-karrany-
+line=5618 tag=I-G:                                                          "at#in-pa-kara'-
+line=5619 tag=I-L:                                                          that-fGENL-fGEN-
+line=5620 tag=I-G:                                                          ‘that-Ø-GEN’
+line=5621 tag=B-L:                               c.  dan-ba-karra       d.  dathin-ba-karra
+line=5622 tag=I-L:                                   "an-pa-kara            "at#in-pa-kara
+line=5623 tag=I-G:                                   this-fGENL-fGEN.T      that-fGENL-fGEN.T
+line=5624 tag=I-T:                                   ‘this-Ø-GEN’           ‘that-Ø-GEN’
+line=5625 tag=B-L:                                                                            e.  kiyarr-ba-karra
+line=5626 tag=I-L:                                                                                kiar!-pa-kara
+line=5627 tag=I-L:                                                                                two-fGENL-fGEN.T
+line=5628 tag=I-G:                                                                                ‘two-Ø-GEN’
+line=5629 tag=I-T:                     The  strings /pakaAra'/ and /pakaAra/ are stressed on the second syllable. They could each be
+line=5671 tag=B-L:                   (3.111)  a. wuran-kuruw-a  ~ wuran-kuu-
+line=5672 tag=I-L:                               wu%an-ku%u-a ~ wu%an-kuu-ø
+line=5673 tag=I-G:                               food-fPROP-T
+line=5674 tag=I-T:                               ‘food-PROP-Ø’
+line=5675 tag=B-L:                                                                    b.  wuran-kuru-ntha-  (*-kuu-)
+line=5676 tag=I-L:                                                                        wu%an-ku%u-in#t#a-ø
+line=5677 tag=I-G:                                                                        food-fPROP-fOBL-T
+line=5678 tag=I-T:                                                                        ‘food-PROP-COMP-Ø’
+line=5679 tag=B-L:                             c.  karwa-wuru1-uruw2-a (*-wuu1-)
+line=5680 tag=I-L:                                 ka%wa-ku%u-ku%u-a
+line=5681 tag=I-G:                                 club-fPROP-fPROP-T
+line=5682 tag=I-T:                                 ‘club-Ø-PROP-POT-Ø’
+line=5683 tag=B-L:                                                                   d.  dun-kuru-y-a (*-kuu-)
+line=5684 tag=I-L:                                                                       "un-ku%u-ki-a
+line=5685 tag=I-G:                                                                       husband-fPROP-fLOC-T
+line=5686 tag=I-T:                                                                       ‘husband-PROP-INS-Ø’
+line=5687 tag=B-L:                             e.  mawurraji-wuru-wurrka-  (*-wuu-)  f.
+line=5688 tag=I-L:                                 mauraci-ku%u-kurka-ø
+line=5689 tag=I-G:                                 spear-fPROP-fLOC.fOBL-T
+line=5690 tag=I-G:                                 ‘spear-PROP-PRES.COMP-Ø’
+line=5691 tag=I-L:                                                                     wumburung-kuru--na-  (*-kuu-)
+line=5692 tag=I-L:                                                                     wumpu%u!-ku%u-ki-naa-ø
+line=5693 tag=I-G:                                                                     spear-fPROP-fLOC-fABL-T
+line=5694 tag=I-T:                                                                     ‘spear-Ø-PROP-Ø-PRIOR-Ø’
+line=5724 tag=B-L:                    (3.113)  a. wuran-kuru-y-a     *~ wuran-kuu-y-a
+line=5725 tag=I-L:                                wu%an-ku%u-ki-a    *~ wu%an-kuu-ki-a
+line=5726 tag=I-G:                                food-fPROP-fLOC-T
+line=5727 tag=I-T:                                ‘food-FUT-EMP-Ø’
+line=5728 tag=B-L:                               c.  kala-th-uru-y-a     *~ kala-th-uu-y-a
+line=5729 tag=I-L:                                   kala-t#-ku%u-ki-a   *~ kala-t#-kuu-ki-a
+line=5730 tag=I-G:                                   cut-TH-fPROP-fLOC-T
+line=5731 tag=I-T:                                   ‘cut-Ø-POT-EMP-Ø’
+line=5732 tag=B-L:                                                                            b.  wuran-kuu-ntha-
+line=5733 tag=I-L:                                                                                wu%an-ku%u-in#t#a-ø
+line=5734 tag=I-G:                                                                                food-fPROP-fOBL-T
+line=5756 tag=B-L:                     (3.115)  a. kangku-naa-  (*-naba-)
+line=5757 tag=I-L:                                 ka!ku-ki-naa-ø
+line=5758 tag=I-G:                                 grandfather-fLOC-fABL-T
+line=5759 tag=I-T:                                 ‘grandfather-Ø-ABL-Ø’
+line=5760 tag=B-L:                                                                 b.  dan-ki-naba-nguniy-a  (*-naa-)
+line=5761 tag=I-G:                                                                     "an-ki-napa-!uni-a
+line=5762 tag=I-L:                                                                     this- fLOC-fABL-fINST-T
+line=5763 tag=I-G:                                                                     ‘this-Ø-ABL-INST-Ø’
+line=5764 tag=B-L:                             c. ngamathu-naba-na-   (*-naa-)  d. kakuju-naba-wu-  (*-naa-)
+line=5765 tag=I-L:                                !amat#u-ki-napa-naa-ø            kakucu-ki-napa-kuu-ø
+line=5766 tag=I-G:                                mother-fLOC-fABL-fABL-T          uncle-fLOC-fABL-fPROP-T
+line=5767 tag=I-T:                                ‘mother-Ø-ABL-PRIOR-Ø’           ‘uncle-Ø-ABL-POT-Ø’
+line=5768 tag=B-L:                              e. balarr-i-naba-wu-  (*-naa-)
+line=5769 tag=I-G:                                 palar-ki-napa-kuu-ø
+line=5770 tag=I-L:                                 white-fLOC-fABL-fPROP-T
+line=5771 tag=I-G:                                 ‘white-Ø-ABL-PROP-Ø’
+line=5777 tag=B-L:                     (3.116)  a.  dan-ki-naba-y-a   *~ dan-ki-naa-y-a
+line=5778 tag=I-L:                                  "an-ki-napa-ki-a  *~ "an-ki-naa-ki-a
+line=5779 tag=I-G:                                  here-fLOC-fABL-fLOC-T
+line=5780 tag=I-T:                                  ‘here-Ø-PRIOR-EMP-Ø’
+line=5781 tag=B-L:                                                                                b.  dan-ki-naa-ntha-
+line=5782 tag=I-L:                                                                                    "an-ki-naa-in#t#a-ø
+line=5783 tag=I-G:                                                                                    here-fLOC-fABL-fOBL-T
+line=5784 tag=I-T:                                                                                    ‘here-Ø-PRIOR-COMP-Ø’
+line=6833 tag=B-L:                                 "u%-par-par-                t#aur-kara'-ki-            wu%an-&uru-palat#-
+line=6834 tag=I-G:                                 faeces-weak-weak-           stream-fGEN-fLOC-          food-fASSOC-fPL-
+line=6835 tag=I-T:                                 ‘suffering diarhoea’        ‘stream-GEN-INS’           ‘food-ASSOC-PL’
+line=6836 tag=B-L:                            d.  Deleting, Regular      e.  Deleting, Deleting
+line=6837 tag=I-L:                                kamarr-amarr-karrany-      kamarr-uru-y-
+line=6838 tag=B-L:                                kamaramarkara'-            kamaru%uj-
+line=6839 tag=I-L:                                kamar-kamar-kara'-         kamar-ku%u-ki-
+line=6840 tag=I-G:                                ‹stone-stone›-fGEN-        stone-fPROP-fLOC-
+line=6841 tag=I-T:                                ‘‹gravel›-GEN’             ‘stone-FUT-EMP’
+line=6842 tag=B-L:                                                                                  f. Deleting, Leniting
+line=6843 tag=I-L:                                                                                     maku-wuru-walath-
+line=6844 tag=I-L:                                                                                     makuu%uwalat#-
+line=6845 tag=B-L:                                                                                     maku-ku%u-palat#-
+line=6846 tag=I-G:                                                                                     ‹woman-fPROP›-fPL-
+line=6847 tag=I-T:                                                                                     ‘‹married›-PL’
+line=6848 tag=B-L:                             g.  Leniting, Regular
+line=6849 tag=I-G:                                 kuna-wala-nurru-
+line=6850 tag=I-L:                                 kunawalanuru-
+line=6851 tag=I-G:                                 kuna-palat#-&uru-
+line=6852 tag=I-L:                                 childNL-fPL-fASSOC-
+line=6853 tag=I-G:                                 ‘children-ASSOC’
+line=6854 tag=I-T:                                                            h.  Leniting, Deleting     i.  Leniting, Leniting
+line=6855 tag=I-L:                                                                jalji-walath-urrka-        bardi-wardi-walath-
+line=6856 tag=I-L:                                                                calciwalat#urka-           pa"iwa"iwalat#-
+line=6857 tag=I-L:                                                                calci-palat#-kurka-        pa"i-pa"i-palat#-
+line=6858 tag=I-G:                                                                shade-fPL-fLOC.fOBL-       ‹whisker-wh.›-fPL-
+line=6859 tag=I-T:                                                                ‘shade-pl-PRES.COMP’       ‘‹Lardil man›-PL’
+line=6912 tag=B-L:                     (4.13)  a.  yarbu-nyarrba-
+line=6913 tag=I-L:                                 ja%pu'arpa-
+line=6914 tag=I-L:                                 *ja%put#arpa-
+line=6915 tag=I-L:                                 ja%put#-R!arpa-
+line=6916 tag=I-G:                                 animal-fCONS-
+line=6917 tag=I-T:                                 ‘animal-CONS’
+line=6918 tag=B-L:                                                      b.  buru-th-arrba-
+line=6919 tag=I-L:                                                          pu%ut#arpa-
+line=6920 tag=I-L:                                                          *pu%u'arpa-
+line=6921 tag=I-G:                                                          pu%u-t#-D!arpa-
+line=6979 tag=B-L:                                4.   &at#a"a!kau%uwalat# +ki        D      &at#a"a!kau%uwalat#i
+line=6980 tag=B-L:                                5.   &at#a"a!kau%uwalat#i +naa      R      &at#a"a!kau%uwalat#inaa
+line=6981 tag=I-G:                    In an architecture of this type, a method must be found to ensure that at each pass though
+line=6982 tag=I-T:                     a stratum, phonological modifications apply only in the correct location, namely in the
+line=7426 tag=B-L:                     (4.46)  a.  wuyirr-nurru-ntha        b.  bayi-marra-y-a        c.  wayikuku-y-a
+line=7427 tag=I-L:                                 wuirnurun#t#a                paimaraja                 waikukuja
+line=7428 tag=I-L:                                 *wurnurun#t#a                *pamaraja                 *wakukuja
+line=7429 tag=I-G:                                 wuir-&uru-Iin#t#a-ø          pai-mara-Iki-a            waikuku-Iki-a
+line=7430 tag=I-G:                                 tree sp.-fASSOC-fOBL-T       angry-fASSOC-fLOC-T       rip-fLOC-T
+line=7431 tag=I-T:                                 ‘tree sp.-ASSOC-COMP-Ø’      ‘angry-ASSOC-INS-Ø’       ‘rip-INS-Ø’
+line=7705 tag=B-L:                     (4.60)       /"a!ka-{a>Ø}/  ‘man-T’
+line=7706 tag=I-L:                             !    /"a!ka-a/   :: a  kaa
+line=7707 tag=B-L:                             a.   /"a!ka-/    :: a  ka
+line=7708 tag=I-L:                                       P
+line=7709 tag=I-G:                                  L    O
+line=7710 tag=I-T:                             VVV*&& SVV*&& f-PBAROIR aaµµ* f-PRPROIR -PTROIRV
+line=7730 tag=B-L:                            c.   /"an-ki-naa-a/  :: "a!kinaaa  W1
+line=7731 tag=B-L:                            d.   /"an-ki-naa-a/  :: "a!kinaa        W1
+line=7732 tag=B-L:                            e.   /"an-ki-napa-a/ :: "a!kinapaa
+line=7733 tag=I-M:                                            P
+line=7734 tag=I-L:                                       L    O
+line=7735 tag=I-G:                                     SVV*&& f-PBAROIR aaµµ* f-PRPROIR -PTROIRV
+line=7736 tag=I-L:                                                                           1         1
+line=7737 tag=I-G:                                                                           L         1
+line=7788 tag=B-L:                            c.   /"a!ka-ku%u-a/ :: "a!kau%ua
+line=7789 tag=I-G:                                              P
+line=7790 tag=I-L:                                         L    O
+line=7791 tag=I-G:                                 VVV*&& PNOH SVV*&& f-PBAROIR aaµµ* f-PRPROIR -PTROIRV
+line=7792 tag=I-L:                                                                             1
+line=7793 tag=I-G:                                                    W1                       L
+line=7794 tag=I-L:                                                                        W1   1
+line=7795 tag=I-G:                                                                        W1   L
+line=7796 tag=I-L:                                                                             1
+line=7797 tag=I-G:                                                    W1                       L
+line=7798 tag=I-L:                                                                        W1   1
+line=7799 tag=I-G:                                                                        W1   L
+line=7800 tag=I-L:                              /maku-{kuu>ku%u}-{a>Ø}/
+line=7801 tag=I-G:                   (4.68)     woman-fPROP-T ‘woman-FUT-Ø’
+line=7802 tag=I-L:                          !   /maku-ku%u-a/ :: makuu%ua                             1
+line=7803 tag=I-G:                          a.  /maku-ku%u-/  :: makuu%u                              1   W1
+line=7804 tag=I-L:                          b.  /maku-kuu-a/  :: makuuua      W2                      L
+line=7805 tag=I-G:                          c.  /maku-kuu-/   :: makuuu       W1                      L   W1
+line=8110 tag=B-L:                       (4.80)  a.  dan-inja-
+line=8111 tag=I-L:                                   "ani'ca
+line=8112 tag=I-L:                                   "an-in#t#a-ø
+line=8113 tag=I-G:                                   this-fOBL-T
+line=8537 tag=B-L:                                                     c.   ‘grown  up.T’              [Rt (cuBm pu) ru! (kaA ra) ]
+line=8538 tag=B-L:                                                     d.   ‘shoe.T’                   [Rt (caB pu) &a  (!aA' ci) ] a
+line=8539 tag=B-L:                               Verbal  roots         e.   ‘walk around.fACT.T’       [Rt (%aB cu) (rì ] ca)
+line=8540 tag=B-L:                                                     f.   ‘walk around.fCONS.T’      [Rt (%aB cu) (rì ] ca) ra
+line=8541 tag=B-L:                                                     g.   ‘scratch.fACT.T’           [Rt (puB %u) ku (%aA ] t#a)
+line=8542 tag=B-L:                                                     h.   ‘scratch.fCONS.T’          [Rt (puB %u) ku (%aA ] t#a) ra
+line=8543 tag=I-L:                               No  stressed suffix   i.   ‘fire.T’                   [Rt (jaB lu) (luA ] a)
+line=8544 tag=I-G:                                                     j.   ‘fire.fDU.T’               [Rt (jaB lu) (luA ] jar!) ka
+line=8688 tag=B-L:                             d.  ‘grown up’     /cumpu%u!kara/
+line=8689 tag=B-L:                             e.  ‘shoe’         /capu&a!a'ci/
+line=8826 tag=B-L:                               a.  ‘walk around’   /%acuri-c/            [(%aB cu) (rì ca)]
+line=8827 tag=B-L:                               b.  ‘scratch’       /pu%uku%a-t#/         [(puB %u) ku  (%aA t#a)]
+line=8835 tag=B-L:                              a.  ‘walk around’   /%acuri-c/            [(%aB cu) (rì ca)  ra]
+line=8922 tag=B-L:                                j.  ‘middle-fORIG-T’      /!a%uwara-waA('-ta/      [(!aB %u) (waA ra) (waA(n  ta)]
+line=8923 tag=I-L:                                k.  ‘grown  up-           /cumpu%u!kara            [(cuBm pu) ru! (kaA ra) (mì ra)]
+line=8924 tag=I-G:                                    fINTENS-T’            -mìra-ø/
+line=8925 tag=I-T:                                l.  ‘shoe-fASSOC-T’       /capu&a!a'ci-&uAru-a/    [(caB pu) &a (!aA' ci) (&uA ru) a]
+line=8998 tag=B-L:                                  n.   ‘chase-fMID-TH.T’        /"urua(-ì-ca/          [("uB ru) a (ì( ca)]
+line=8999 tag=B-L:                                  o.   ‘scratch-TH-fPRIV-T’     /pu%uku%a-t#-waAri-a/  [(puB %u) ku %a (t#aA ri) a]
+line=9000 tag=B-L:                                  p.   ‘scratch-TH-fRES-T’      /pu%uku%a-t#-irì'-ta/  [(puB %u) ku (%aA t#i) (rìn ta)]
+line=9001 tag=B-L:                                  q.   ‘scratch-fRCP-TH.T’      /pu%uku%a-t#uA-t#a/    [(puB %u) ku %a (t#uA t#a)]
+line=9002 tag=I-L:                                  r.   ‘scratch-fMID-TH.T’      /pu%uku%a-ì-ca/        [(puB %u) ku (%aA( ca)]
+line=9052 tag=B-L:                          (5.45)          /ku%ir-%uA-t#uA-t#a/
+line=9053 tag=I-G:                                          ‘dead-fFACT-fRCP-TH.T’
+line=9054 tag=I-L:                                    !     [(kuB %i) lu (t#uA t#a)]
+line=9055 tag=I-G:                                    a.    [(kuB %i) (luA t#u) t#a]
+line=9056 tag=B-L:                                    b.    [(kuB %i) lu t#u t#a]
+line=9057 tag=I-G:                                                                  R-ANCH        R-ALIGN
+line=9058 tag=I-T:                                                   FTBIN  MAX-#A   (nRt,Σ) *Σ  (Σ,GrW)
+line=9071 tag=B-L:                                c.  /!icu-i'-maA%uA-t#-n-waAri-a/            [(!í cin) (maA %un) (maA ri) a] 14
+line=9072 tag=I-G:                                    ‘1sg-fPOSS-fDAT-TH-fN-fPRIV-T’
+line=9073 tag=B-L:                                d.  /"amu%u-caAni-ì-c-kuAu-in#t#a-ø/         [("aB mu) %u (caA ni() (cuA un# t#a)]
+line=9074 tag=I-G:                                    ‘corm-fHALL-fMID-TH-fPROP-fOBL-T’
+line=9213 tag=B-L:                               a.  ‘very greedy-T’            /ci"a-cu!ara-ø/
+line=9214 tag=I-G:                                                              ‘greedy-big-T’
+line=9215 tag=I-T:                               b.  ‘trigger happy-T’          /t#a"a-cila%i-a/
+line=9217 tag=B-L:                               c.  ‘dim-T’                    /jalulu-ku'a-ø/
+line=9218 tag=I-G:                                                              ‘fire-small-T’
+line=9219 tag=B-L:                               d.  ‘long tailed-T’            /ku%t#ura-"i!kar-ta/
+line=9220 tag=I-G:                                                              ‘tail-long-T’
+line=9221 tag=B-L:                               e.  ‘bright-T’                 /jalulu-cu!ara-ø/
+line=9222 tag=I-G:                                                              ‘fire-big-T’
+line=9223 tag=B-L:                               f.  ‘large bellied-T’          /pa"aka-pa"a!u-a/
+line=9224 tag=I-G:                                                              ‘belly-large-T’
+line=9225 tag=B-L:                               g.  ‘kiss-TH.T’                /wa%a-pa(-ca/
+line=9226 tag=I-G:                                                              ‘mouth-bite-TH.T’
+line=9227 tag=B-L:                               h.  ‘look hard-TH.T’           /ku&tu!-kuri-ca/
+line=9228 tag=I-G:                                                              ‘chest-look-TH.T’
+line=9229 tag=B-L:                               i.  ‘go the wrong  way-TH.T’   /pi"in-wara-ca/
+line=9230 tag=I-G:                                                              ‘mis-go-TH.T’
+line=9231 tag=B-L:                               j.  ‘impregnate-TH.T’          /pa"aka-pu%ti-ca/
+line=9232 tag=I-G:                                                              ‘stomach-hit-TH.T’
+line=9233 tag=B-M:                                                                                       Surface (lexical repr.)
+line=9234 tag=I-M:                                                                                       [(cí "a) (cuA !a) ra]
+line=9235 tag=I-L:                                                                                                         [(t#aB "a) (cì la) %i a]
+line=9236 tag=I-G:                                                                                               [(jaB lu) lu (kuA 'a)]
+line=9237 tag=I-L:                                                                                              [(kuB% t#u) ra ("ì! ka) ra]
+line=9238 tag=I-G:                                                                                              [(jaB lu) lu (cuA !a) ra]
+line=9239 tag=I-T:                                                                                         [(paB "a) ka (paA "a) !u a]
+line=9260 tag=B-L:                              c.  ‘big headed-T’              /&al-cu!ara-ø/          [(&aBl cu) (!aA ra)]
+line=9261 tag=I-G:                                                              ‘head-big-T’
+line=9262 tag=I-T:                              d.  ‘deft handed-T’             /ma%-mu!uru-a/          [(maB% mu) (!uA ru) a]
+line=9266 tag=B-L:                              f.  ‘yonder south-T’            /!anikin-%a(-ø/         [(!aB ni) (kì la()]
+line=9267 tag=I-G:                                                              ‘yonder-south-T’
+line=9268 tag=I-T:                              g.  ‘nod off to sleep-TH.T’     /&al-"aa-t#a/           [(&aBl ta) a t#a]
+line=9270 tag=B-L:                              h.  ‘carry on one’s head-TH.T’  /&al-pati-ca/           [(&aBl pa) (tì ca)]
+line=9271 tag=I-G:                                                              ‘head-carry-TH.T’
+line=9272 tag=I-T:                              i.  ‘blow one’s nose-TH.T’      /kirk-pu(-ì-ca/         [(kír pu) (ì( ca)]
+line=9363 tag=B-L:                              a.  /wir-wir-ta/                                [(wír wi) ra]
+line=9364 tag=I-T:                                  ‘rib-rib-T’                                 ‘rib cage’
+line=9365 tag=B-L:                              b.  /ca(-c-ca(-ca/                              [(caB( ca() ca]
+line=9366 tag=I-T:                                  ‘poke into-TH-poke  into-TH.T’              ‘repeatedly poke into-ACT’
+line=9367 tag=B-L:                              c.  /ma%!an-ma%!an-ta/                          [(maB% !an)][(maB% !an) ta]
+line=9368 tag=I-T:                                  ‘girl-girl-T’                               ‘girls’
+line=9369 tag=B-L:                              d.  /kantu-kantu-a/                             [(kaBn tu)][(kaBn tu) a]
+line=9370 tag=I-T:                                  ‘blood-blood-T’                             ‘red’
+line=9371 tag=B-L:                              e.  /pati-c-pati-ca/                            [(paB tic)][(paB ti) ca]
+line=9372 tag=I-T:                                  ‘carry-TH-carry-TH.T’                       ‘repeatedly carry-ACT’
+line=9373 tag=B-L:                              f.  /ku&tu!kal-ku&tu!kal-ta/                    [(kuB& tu!) kal][(kuB& tu!) kal ta]
+line=9374 tag=I-G:                                  ‘mottled mudstone-mottled    mudstone-T’    ‘multicoloured’
+line=9375 tag=B-L:                              g.  /ku"ala-ku"ala-t#a/                         [(kuB "a) la][(kuB "a) (laA t#a)]
+line=9376 tag=I-T:                                  ‘spear at-spear at-TH.T’                    ‘repeatedly spear at-ACT’
+line=9381 tag=B-L:                              a.  /"ulk-kuA%u-"ulk-kuA%u-a/               [("uBl ku) %u][("uBl ku) %u a]
+line=9382 tag=I-T:                                  ‘country-fPROP-country-fPROP-T’         ‘country owners;  ghosts’
+line=9383 tag=B-L:                              b.  /kiar!-wuAt#i'-kiar!-wuAt#i'-ta/        [(kí ar) (wuA t#in)][(kí ar) (wuA t#in) ta]
+line=9384 tag=I-T:                                  ‘two-fPLENTY-two-fPLENTY-T’             ‘two each’
+line=9385 tag=B-L:                              c.  /karma-t#uA-karma-t#uA-t#a/             [(kaBr ma) t#u][(kaBr ma) (t#uA t#a)]
+line=9386 tag=I-G:                                  ‘grasp-fRCP-grasp-fRCP-TH.T’            ‘hold  one another    in place-ACT’
+line=9387 tag=B-L:                              d.  /!arku-waA-t#-!arku-waA-t#a             [(!aBr ku) wa][('aBr  ku) (waA t#a)]
+line=9388 tag=I-T:                                  ‘strong-fINCH-TH-strong-fINCH-TH.T      ‘recover-ACT’
+line=9402 tag=B-L:                                                                       [(kí "il) (taA a)][(kí "il) (taA a) t#a]
+line=9443 tag=B-L:                                 a.   [(&aBl pi) "i &al (pì "i)  a]
+line=9444 tag=B-L:                                 b.   [(&aBl pi) "i (&aAl pi) "i a]
+line=9445 tag=B-L:                                 c.   [(&aBl pi) "i &al][(pí  "i) a]
+line=9446 tag=B-L:                                 d.   [(&aBl pi) "i &al]  (pì "i) a
+line=9447 tag=I-L:                                   )
+line=9448 tag=I-G:                                   ,t
+line=9449 tag=I-T:                           BFINT A-LHCN ,)ωpudeR( A-RNGIL )dWrGω(, R(A-LHCN A-RHCN )Σ,tRn( A-RNGIL )WrGΣ(, Σ*
+line=9546 tag=B-L:                              b. /pa"u-pa"u-a/                           [(paB "u)][(paB "u) a]
+line=9547 tag=I-T:                                 ‘tough-tough-T’                         ‘sparsely vegetated’
+line=9548 tag=B-L:                              c. /ku(-c-ku(-ca/                          [(kuB( cu() ca]
+line=9549 tag=I-T:                                 ‘bathe-TH-bathe-TH.T’                   ‘swim-ACT’
+line=9550 tag=B-L:                              d. /cari(-c-cari(-ca/                      [(caB ri()][(caB ri() ca]
+line=9551 tag=I-T:                                 ‘flee-TH-flee-TH.T’                     ‘limp-ACT’
+line=9555 tag=B-L:                              a. /mala-mala-ø/                           [(maB  la)][(maB la)]
+line=9556 tag=I-T:                                 ‘sea-sea-T’                             ‘shell sp.’
+line=9557 tag=B-L:                              b. /kala-c-kala-ca/                        [(kaB la)][(caB la) ca]
+line=9558 tag=I-T:                                 ‘fly-TH-fly-TH.T’                       ‘do all over-ACT’
+line=9599 tag=B-L:                              a.  /kamar-kamar-ta/                 [(kaB ma)][(raB ma) ra]
+line=9600 tag=I-G:                                  ‘stone-stone-T’                  ‘gravel-T’
+line=9601 tag=B-L:                              b.  /pa"a!u-pa"a!u-a/                [(paB "a) !u][(waB "a) !u a]
+line=9602 tag=I-T:                                  ‘large-large-T’                  ‘very large-T’
+line=9603 tag=B-L:                              c.  /palar-palar-ta/                 [(paB lar)][(waB la) ra]
+line=9604 tag=I-T:                                  ‘white-white-T’                  ‘egg  white-T’
+line=9605 tag=B-L:                              d.  /cunku-cunku-a/                  [(cuBn ku)][(juBn ku) a]
+line=9606 tag=I-T:                                  ‘straight-straight-T’            ‘in return-T’
+line=9607 tag=B-L:                              e.  /kulur-kulur-ta/                 [(kuB lu)][(ruB lu) ra]
+line=9608 tag=I-T:                                  ‘intestineNL-intestineNL-T’      ‘intestine-T’
+line=9609 tag=B-L:                              f.  /puku-puku-a/                    [(puB ku)][(wuB ku) a]
+line=9610 tag=I-T:                                  ‘vineNL-vineNL-T’                ‘vine sp.-T’
+line=9640 tag=B-L:                                a.  /"a!ka-kuAu-ø/                     b.  /"an-ki-naAa-ø/
+line=9641 tag=I-G:                                    ‘man-fPROP-T’                          ‘here-fLOC-fABL-T’
+line=9642 tag=B-L:                                    !  [("aB! ka) (uA u)]                  !  [("aBn ki) (naA a)]
+line=9643 tag=I-L:                                    !  [("aB! ka) u]                       !  [("aBn ki) na]
+line=9644 tag=B-L:                                c.  /kapa-t#-t#aa-t#-wari-a/           d.  /%a-a/
+line=9645 tag=I-T:                                    ‘find-TH-return-TH-fPRIV-T’            ‘south-T’
+line=9646 tag=B-L:                                    !  [(kaB pa) (t#aB a)   (t#aB ri) a]   !  [(%aB a)]
+line=9647 tag=I-G:                                    !  [(kaB pa) t#a( (t#aB ri)   a]       !  [(%aB()]
+line=9692 tag=B-L:                               c.   /"at#in-ki-a/                       d.  /kala!i'-ki-a/
+line=9693 tag=I-G:                                    ‘that-fLOC-T’                           ‘old-fLOC-T’
+line=9694 tag=B-L:                                    !  [("aB tin) ki a]                     !  [(kaB la) !i' ci a]
+line=9695 tag=B-L:                                    !  [("aB tin) (kì a)]                   !  [(kaB la) (!ì' ci) a]
+line=9696 tag=B-L:                               e.   /kamar-in#t#a-ø/                    f.  /wumpu%u!-in#t#a-ø/
+line=9697 tag=I-T:                                    ‘stone-fOBL-T’                          ‘shark-fOBL-T’
+line=9700 tag=B-L:                                g.   /ca"i-ki-%i!-ki-naAa-ø/              h.  /"at#in-ki-%i!-ki-naAa-ø/
+line=9701 tag=I-G:                                     ‘group-fLOC-fALL-fLOC-fABL-T’            ‘that-fLOC-fALL-fLOC-fABL-T’
+line=9702 tag=B-L:                                     !  [(caB "i) %i! ki (naA a)]             !   [("aB tin) ki %i! ki (naA a)]
+line=9703 tag=B-L:                                     !  [(caB "i) (%ì! ki) na]                !   [("aB tin) (kì %i!) (kì na)]
+line=9704 tag=B-L:                                i.   /ji(-c-arma-t#-!ara-in#t#a-ø/        j.  /wa%i-c-arma-t#-!ara-n#t#a-ø/
+line=9705 tag=I-G:                                     ‘put-TH-fCAUS-TH-fCONS-fOBL-T’           ‘remove-TH-fCAUS-TH-fCONS-fOBL-T’
+line=9706 tag=I-T:                                     !  [(jí( car) ma t#a ran# t#a]           !   [(waB %i) car   ma t#a ran# t#a]
+line=9707 tag=B-L:                                     !  [(jí( car) (maA t#a) (raAn# t#a)]     !   [(waB %i) (caAr ma) (t#aA ran#) t#a]
+line=9708 tag=B-L:                                k.   /pu%uku%a-t#u-t#a/                   l.  /"at#in-kiar!-ki-naApa-kuu-ø/
+line=9709 tag=I-T:                                     ‘scratch-fRCP-TH.T’                      ‘that-fDU-fLOC-fABL-fPROP-T’
+line=9710 tag=B-L:                                     !  [(puB %u) ku %a (t#uA t#a)]           !   [("aB t#in) ki ar! ki (naA pa) (uA u)]
+line=9711 tag=I-M:                                     !  [(puB %u) (kuA %a) (t#uA t#a)]        !   [("aB t#in) (kì ar!) ki (naA pa) u]
+line=9777 tag=B-L:                              a.  /mut#a-a/      /&a-a/              b.  /"an-ta/      /&a-a/
+line=9778 tag=I-G:                                  ‘much-T’       ‘now-T’                 ‘here-T’      ‘now-T’
+line=9779 tag=I-L:                                  !  [(muB t#a)] &aa                     !  [("aBn ta)] &aa
+line=9780 tag=I-L:                                  !  [(muB t#a) &a]                      !  [("aBn ta) &a]
+line=9781 tag=B-L:                              c.  /pari-ca/          /&a-a/          d.  /"an-ki-a/     /&a-a/
+line=9782 tag=I-G:                                  ‘crawl-TH.T’       ‘now-T’             ‘here-fLOC-T’  ‘now-T’
+line=9783 tag=B-L:                                  !  [(paB ri) ca]   &aa                 !  [("aBn ki) a]  &aa
+line=9784 tag=I-T:                                  !  [(paB ri) (caA &a)]                 !  [("aBn ki) (aA &a)]
+line=9785 tag=B-L:                              e.  /kampu%i-c-ta-ø/      /&a-a/       f.  /picarpa-in#t#a-ø/    /&a-a/
+line=9786 tag=I-G:                                  ‘talk-TH-fDES-T’      ‘now-T’          ‘dugong-fOBL-T’       ‘now-T’
+line=9787 tag=B-L:                                  !  [(kaBm pu) (%ì ta)] &aa             !  [(pí ca) pan# t#a] &aa
+line=9788 tag=I-L:                                  !  [(kaBm pu) (%ì ta) &a]              !  [(pí ca) (paAn# t#a) &a(]
+line=9789 tag=B-L:                              e.  /kuri-c-'ara-ki-a/      /&a-a/     f.  /kamar-wari-a/           /&a-a/
+line=9790 tag=I-G:                                  ‘see-TH-fAPPR-fLOC-T’   ‘now-T’        ‘stone-fPRIV-T’          ‘now-T’
+line=9791 tag=I-L:                                  !  [(kuB ri) &a   ra ja] &aa           !  [(kaB mar) (waA ri) a] &aa
+line=9792 tag=I-G:                                  !  [(kuB ri) (&aA ra) (jaA &a)]        !  [(kaB mar) (waA ri) (aA &a)]
+line=9999 tag=B-L:                                      F0           !at"ina     !a#ka$        #i%ana#ku&ua          #ici%ci&i           jat"ui$ci&
+line=10000 tag=B-L:                                          140      !at"in      !a#ka          #i%ana#ku'u         #ici%-ki'i#        jat"-wui$c-ki'i#
+line=10001 tag=B-L:                                                   !at"ina     !a#ka$        #i%ana#ku&ua          #ici%ci&i           jat"ui$ci&
+line=10002 tag=I-G:                                                 thatthat"at!thatthatthatat.NOM#ina"in.T man!"manmanmanmanaa!#.NOMkaka---ØTa !i#'ian%whywhyanawhywhywhya!ku#--ØkuT%u'u-a 1sg1sg1sg-!1sg1sg..f#icuPOSSPOSSINYici--%Ø--MALL-if-ki'LOCØ--'-ki-FALLFALLi#DI--fALL%Ri .T laughlaughlaughlaughjatlaugh--givegive"-jatwui.at-#ui-DIREC...$THaMIDMIDc(t---ki-cØf-'LOCki---iFALLFALL#Ø--%-DIRifALL.T
+line=10003 tag=I-T:                                                                     ‘Why is!Whythat manis thatlaughiman nglaughingat me?at’ [meW1960?" /AD]
+line=10024 tag=B-L:                                      150       Múthmutmuta!a!a-"a wúranwuwu#anta%an-da $ngáa$alawa-la-la-pa-wa& kikíraki%at#at!--kurkath!urk-urrk
+line=10025 tag=I-G:                                               muchmuchmuchmutmuchmuchmut#a.NOM---!aaØT foodwufoodfoodwufoodfood%.an%NOMan---ØTta 1pl111--1$plpl-.!-aSUBJOBLplpla---FPOSSFPOSSla---lfCOMPa-COMPpa-pa& gathergathergathergathergatherki-ki-Ø%IMMED-at--%TH-FLOCFLOCaIMMED!--kurka-t#-fkurkaLOC:::COBLOBLOBL-.COMfOBL-PT-Ø
+line=10026 tag=I-T:                                               much.NOM       ‘muchfood!foodmuch.NOMwhichfood whichwe arewe1plgathering.areSUBJOBLgathering’ [W1960" /AgatherD] -IMMED:COBL
+line=10089 tag=B-L:                                                     Ní!!-íwantaiw-paan%-da mákuwmákuamaku-a búdiiputipúti""c-caj-aa dána##anatánat-tha$-$aa ní!!i-íwa-pawan%%-ciki-ji-
+line=10090 tag=I-G:                                                   3sg3sg3sg3sg3sg&-POSSi!--i-w---fPOSSPOSSPOSSpaPOSSa'%.NOM-ta--ØT wifemakuwifewifemakuwifewife.NOM--Ø-Ta runrunrunfleefleeputi___putiawayawayaway--TH(ACT"-cca----.aTACTACTACT leaveleaveleaveleaveleave"#ananata-----TH-ACTACTACTACT$-ta#a.T 3sg3sg3sg3sg&3sg---POSSPOSS!if-iPOSS-w-pa-MLOCØa%-'-INS----kiFLOCFLOCfkiLOC--Øa -T
+line=10091 tag=I-T:                                                   3sg-POSS.NOM      wife.NOM  ‘His wife!Hisrunwiferan_awayranoff-ACToffononhihimm’ .["W1960leave-ACT/AD] 3sg-MLOC
+line=10092 tag=B-M:                                            88.22                                   !His wifeTimeran off(son) him."                          91.26
+line=10093 tag=I-L:                                            88.22                                                                                            91.26
+line=10094 tag=I-G:                                                                                           Time (s)
+line=11546 tag=B-L:                     (6.12)  a.  yarbuth-iy-a
+line=11547 tag=I-L:                                 ja%put#-ki-a
+line=11548 tag=I-L:                                 animal-fLOC-T
+line=11549 tag=I-G:                                 animal-LOC-Ø
+line=11550 tag=I-T:                                 ‘at an animal’
+line=11551 tag=B-L:                              c. buru-th-iy-a
+line=11552 tag=I-L:                                 pu%u-t#-ki-a
+line=11553 tag=I-L:                                 gather-TH-fLOC-T
+line=11554 tag=I-G:                                 gather-Ø-IMMED-Ø
+line=11555 tag=I-T:                                 ‘is gathering’
+line=11556 tag=B-L:                                                            b.  yarbuth-iy-a
+line=11557 tag=I-L:                                                                ja%put#-ki-a
+line=11558 tag=I-L:                                                                animal-fLOC-T
+line=11559 tag=I-G:                                                                animal-INS-Ø
+line=11560 tag=I-T:                                                                ‘an animal (INS)’
+line=11561 tag=B-L:                                                           d. yarbuth-iy-a
+line=11562 tag=I-L:                                                              ja%put#-ki-a
+line=11563 tag=I-L:                                                              animal-fLOC-T
+line=11564 tag=I-G:                                                              animal-EMP-Ø
+line=11565 tag=I-T:                                                              ‘an animal (EMP)’
+line=11615 tag=B-L:                     (6.14)  a.  wuran-kuru-ntha-
+line=11616 tag=I-L:                                 wu%an-ku%u-in#t#a-ø
+line=11617 tag=I-G:                                 food-fPROP(STRONG)-fOBL-T
+line=11618 tag=I-T:                                 ‘food-PROP-COMP-Ø’
+line=11619 tag=B-L:                                                              b.  wuran-kuu-ntha-
+line=11620 tag=I-L:                                                                  wu%an-kuu-in#t#a-ø
+line=11621 tag=I-G:                                                                  food-fPROP(WEAK)-fOBL-T
+line=11622 tag=I-G:                                                                  ‘food-FUT-COMP-Ø’
+line=11623 tag=I-T:                                                                                        445
+line=11833 tag=B-L:                    (6.16)  Waa-ju-          nga-da  ngum-ban-ju-
+line=11834 tag=B-L:                            wa(-c-kuu-ø      !at#-ta !u!-pa'-kuu-ø
+line=11835 tag=I-L:                            sing-TH-fPROP-T  1sg-T   2sg-fPOSS-fPROP-T
+line=11836 tag=I-G:                            sing-Ø-POT-Ø     1sg-Ø   2sg-Ø-FUT-Ø
+line=11837 tag=I-L:                           [ kalangin-mu-ju-      wangarr-wu-ju- DON].
+line=11838 tag=I-G:                             kala!i'-wu-c-kuu-ø   wa!ar-wu-c-kuu-ø
+line=11839 tag=I-L:                             old-fDON-TH-fPROP-T  song-fDON-TH-fPROP-T
+line=11840 tag=I-G:                             old-DON-Ø-POT-Ø      song-DON-Ø-POT-Ø
+line=11841 tag=I-T:                           ‘I’ll sing you an old song.’ [E337.ex.9-100]
+line=11887 tag=B-L:                            !at#-ta wa(-c-na!-kuu-ø          wa!ar-kuu
+line=11888 tag=I-G:                            1sg-T   sing-TH-fNEG-fPROP-T     song-fPROP-T
+line=11889 tag=I-G:                            1sg-Ø   sing-Ø-NEG-POT-Ø         song-FUT-Ø
+line=11890 tag=I-M:                            [ ngij-in-maru--nang-ku-         thabuju-maru--nang-ku- CASE:DAT]
+line=11891 tag=I-L:                              !icu-i'-ma%u-t#-na!-kuu-ø      t#apucu-ma%u-t#-na!-kuu-ø
+line=11892 tag=I-G:                              1sg-fINY-fDAT-TH-fNEG-fPROP-T  e.brother-fDAT-TH-fNEG-fPROP-T
+line=11893 tag=I-G:                              1sg-POSS-DAT-Ø-NEG-POT-Ø       e.brother-DAT-Ø-NEG-POT-Ø
+line=11894 tag=I-T:                            ‘I won’t sing a song for my brother’ [Evans 2003:215.ex.8b]
+line=11904 tag=B-L:                     (6.18)  Nga-da    yuu-da     bula-th       yarbuth-iy-a
+line=11905 tag=B-L:                             !at#-ta   ju(t#-ta   pula-t#a      ja%put#-ki-a
+line=11906 tag=I-L:                             1sg-T     already-T  remove-TH.T   animal-fLOC-T
+line=11907 tag=I-G:                             1sg-Ø     already-ø  remove-ACT    animal-INS-Ø
+line=11908 tag=I-M:                             [ ngij-in-mula-th           tharda-wula-th OABL].
+line=11909 tag=I-L:                               !icu-i'-wula-t#a          t#a"a-wula-t#a
+line=11910 tag=I-G:                               1sg-fPOSS-fOABL-TH.T      shoulder-fOABL-TH.T
+line=11911 tag=I-G:                               1sg-Ø-OABL-ACT            shoulder -OABL-ACT
+line=11912 tag=I-T:                             ‘I already brushed the insect off my shoulder.’ [W1960]
+line=11997 tag=B-L:                       (6.20)  a.  ngarii--n-da
+line=11998 tag=B-L:                                   !a%i(-c-n-ta
+line=11999 tag=I-G:                                   ‹come  first-TH-fN›-T
+line=12019 tag=B-L:                    (6.21)  Nying-ka  kamburi--n-da    kang-inj-          bandika-waan-inj-.
+line=12020 tag=B-L:                            'i!-ka    kampu%i-c-n-ta   ka!-in#t#a-ø       pantika-wa('-in#t#a-ø
+line=12021 tag=I-G:                            2sg-T     speak-TH-fN-T    language-fOBL-T    Bentinck-fORIG-fOBL-T
+line=12025 tag=B-L:                     (6.22)  Bi-rr-a  bula--n-da         thungal-wula--n-da13  kurda-nth.
+line=12026 tag=I-L:                             pi-r-ta  pula-t#-n-ta       t#u!al-wula-t#-n-ta   ku"a-in#t#a-ø
+line=12027 tag=I-G:                             2-du-T   remove-TH-fN-T     tree-fOABL-TH-fN-T    paperbark-fOBL-T
+line=12028 tag=I-G:                             2-du-Ø   remove-Ø-PROG-Ø    tree-OABL-Ø-PROG-Ø    paperbark-CONT-Ø
+line=12029 tag=I-T:                             ‘Those two are pulling paperbark off the trees.’ [E472.ex.11-27]
+line=12051 tag=B-L:                     (6.23)  Dangka-wala-da    kurri--n-da      bakii--n-da       wirrkan-inj-.
+line=12052 tag=B-L:                             "a!ka-palat#-ta   kuri-c-n-ta      paki(-c-n-ta      wirkan-in#t#a-ø
+line=12053 tag=I-G:                             person-fPL-T      watch-TH-fN-T    all do-TH-fN-T    corroboree-fOBL-T
+line=12054 tag=I-G:                             person-PL-Ø       watch-Ø-PROG-Ø   all do-Ø-PROG-Ø   corroboree-CONT-Ø
+line=12055 tag=I-T:                             ‘The people are all watching the corroboree.’ [W1960]
+line=12056 tag=B-L:                    (6.24)  Jungarra-wu-   wirrkan-ku-         kurri-j-u-         bakii-j-u-.
+line=12057 tag=B-L:                            cu!ara-kuu-ø   wirkan-kuu-ø        kuri-c-kuu-ø       paki(-c-kuu-
+line=12058 tag=I-G:                            big-fPROP-T    corroboree-fPROP-T  watch-TH-fPROP-T   all do-TH-fPROP-T
+line=12059 tag=I-T:                            big-FUT-Ø      corroboree-FUT-Ø    watch-Ø-POT-Ø      all do-Ø-POT-Ø
+line=12060 tag=I-T:                            ‘(We) will all watch the big corroboree.’ [W1960]
+line=12108 tag=B-L:                       (6.25)   Dathina    birndi~birndiy-
+line=12109 tag=B-L:                                "at#ina    pi&"i-pi&"i-a
+line=12110 tag=B-L:                                that.T     ‹shellNL-shellNL›-T
+line=12111 tag=I-G:                                that       ‹baler shell›-Ø
+line=12112 tag=I-L:                            thungal-marra-   kala--n-d-,    wumburu-marr-.
+line=12113 tag=I-L:                            t#u!al-mara-ø    kala-c-n-ta    wumpu%u!-mara-ø
+line=12114 tag=I-G:                            tree-fUTIL-T     cut-TH-fN-T    spear-fUTIL-T
+line=12115 tag=I-G:                            tree-FUNC-Ø      cut-Ø-PROG-Ø   spear-FUNC-Ø
+line=12116 tag=I-T:                              ‘That baler shell is for cutting trees down, for making spears.’ [E161.ex.4-103;
+line=12117 tag=I-T:                              W1960]   (lit. ‘That baler shell is for cutting trees and spears.’)
+line=12168 tag=B-L:                     (6.28)  Nga-da    kurri--n-marri-     dathin-ki-    bijarrba-y-.
+line=12169 tag=B-L:                             !at#-ta   kuri-c-n-wari-a     "at#in-ki-a   picarpa-ki-a
+line=12170 tag=I-G:                             1sg-T     see-TH-‹fN-fPRIV›-T that-fLOC-T   dugong-fLOC-T
+line=12171 tag=I-G:                             1sg-Ø     see-Ø-‹NONVER›-Ø    that-INS-Ø    dugong-INS-Ø
+line=12172 tag=I-T:                             ‘I didn’t see that dugong.’ [E374.ex.9-237]
+line=12173 tag=B-L:                     (6.29)  Niy-a   wa-yii-j,
+line=12174 tag=I-L:                             &i-a    wa(-i-ca
+line=12175 tag=I-G:                             3sg-T   sing-fMID-TH.T
+line=12176 tag=I-G:                             3sg-Ø   sing-MID-ACT
+line=12177 tag=I-M:                             dangka-ngarrba-   bala-n-ngarrba-      dana-n-ngarrb-
+line=12178 tag=I-L:                             "a!ka-!arpa-      pala-t#-n-!arpa-     "ana-t#-n-!arpa-
+line=12179 tag=I-G:                             person-fCONS-T    kill-TH-‹fN-fCONS›-T leave-TH-‹fN-fCONS›-T
+line=12180 tag=I-G:                             person-ANTE-Ø     kill-Ø-‹ANTE›-Ø      leave-Ø-‹ANTE›-Ø
+line=12181 tag=I-T:                             ‘He sings to himself, having killed a man and left.’ [R2005-jun29]
+line=12212 tag=B-L:                     (a) Nying-ka   tharda-warriy-a  buru-n-marri-         ngijin-marriy-a
+line=12213 tag=B-L:                         'i!-ka     t#a"a-wari-a     pu%u-t#-n-wari-a      !icin-wari-a
+line=12214 tag=I-G:                         2sg-T      arm-fPRIV-T      hold-TH-‹fN-fPRIV›-T  1sg.fPOSS-fPRIV-T
+line=12222 tag=B-L:                     (6.31) Kinaa-n-marriy-a      dangka-wala-da   ngij-in-maru-n-marri-.
+line=12223 tag=B-L:                            kina(-c-n-wari-a      "a!ka-palat#-ta  !icu-i'-ma%u-t#-n-wari-a
+line=12224 tag=I-G:                            show-TH-‹fN-fPRIV›-T  person-fPL-T     1sg-fPOSS-fDAT-TH-‹fN-fPRIV›-T
+line=12225 tag=I-G:                            show-Ø-‹NONVER›-Ø     person-PL-Ø      1sg-Ø-DAT-Ø-‹NONVER›-Ø
+line=12226 tag=I-T:                            ‘The people didn’t show me.’ [W1960]
+line=12230 tag=B-L:                     (a) nying-ka      barji-j-arr.
+line=12231 tag=B-L:                         'i!-ka        pa%ci-c-!ara-ø
+line=12232 tag=I-G:                         2sg-T         fall-TH-fCONS-T
+line=12233 tag=I-G:                         2sg-Ø         fall-Ø-PST-Ø
+line=12234 tag=I-T:                         ‘If you hadn’t held my arm you would have fallen.’ [W1960]
+line=12243 tag=B-L:                      (6.32)  a.  dathin-ki-na-
+line=12244 tag=I-L:                                  "at#in-ki-naa-
+line=12245 tag=I-G:                                  that-fLOC-fABL-T
+line=12246 tag=I-T:                                   that-Ø-ABL-T      ‘from that’
+line=12247 tag=I-T:                                   that-Ø-PRIOR-T    ‘that (PRIOR)’
+line=12248 tag=B-L:                                                                           b.   dathin-ki-ri
+line=12249 tag=I-L:                                                                                "at#in-ki-%i
+line=12250 tag=I-G:                                                                                that-fLOC-fALL.T
+line=12251 tag=I-T:                                                                                 that-Ø-ALL        ‘to that’
+line=12317 tag=B-L:                    (6.37)  Nga-da  mungurru-,  [S maku-ntha-     [VP yalawu-j-arra-ntha-
+line=12318 tag=B-L:                            !at#-ta mu!uru-a       maku-in#t#a-ø      jalawu-c-!ara-in#t#a-ø
+line=12319 tag=I-G:                            1sg-T   know-T       woman-fOBL-T         catch-TH-fCONS-fOBL-T
+line=12320 tag=I-G:                            1sg-Ø   know-Ø       woman-COMP-Ø         catch-Ø-PST-COMP-Ø
+line=12321 tag=B-M:                              yakuri--naa-ntha-      [DP [DP thabuju-karra22-nguni--naa-ntha- GEN]
+line=12322 tag=I-L:                              jaku%i-ki-naa-in#t#a-ø        t#apucu-kara'-!uni-ki-naa-in#t#a-ø
+line=12323 tag=I-G:                              fish-fLOC-fABL-fOBL-T         brother-fGEN-fINST-fLOC-fABL-fOBL-T
+line=12324 tag=I-G:                              fish-Ø-PRIOR-COMP-Ø           brother-GEN-INST-Ø-PRIOR-COMP-Ø
+line=12325 tag=B-M:                              mijil-nguni--naa-nth- INST] PRIOR, PST] COMP]
+line=12326 tag=I-L:                              micil-!uni-ki-naa-in#t#a-ø
+line=12327 tag=I-G:                              net-fINST-fLOC-fABL-fOBL-T
+line=12328 tag=I-G:                              net-INST-Ø-PRIOR-COMP-Ø
+line=12329 tag=I-T:                              ‘I know that the woman  caught the fish with brother’s net.’ [E5.ex.1-16]
+line=12652 tag=B-L:                     (6.44)  Dathina   kuna~wuna           jungarr-.
+line=12653 tag=B-L:                             "at#ina   kuna-kuna-ø         cu!ara-ø
+line=12654 tag=I-G:                             that.T    ‹childNL-childNL›-T big-T
+line=12655 tag=I-T:                             that      ‹child›-Ø           big-Ø
+line=12656 tag=I-T:                             ‘That child is big.’ [W1960]
+line=12663 tag=B-L:                     (6.45) Darrathi-wu-    nga-ku-l-da  wuran-ku-     diya-j-u-.
+line=12664 tag=B-L:                            "arat#i-kuu-ø   !a-ku-l-ta   wu%an-kuu-ø   "ia-c-kuu-ø
+line=12665 tag=I-G:                            hot-fPROP-T     1-2-pl-T     food-fPROP-T  eat-TH-fPROP-T
+line=12666 tag=I-G:                            hot-FUT-Ø       1-2-pl-Ø     food-FUT-Ø    eat-Ø-POT-Ø
+line=12667 tag=I-T:                            ‘We’ll eat the food hot.’ [R2005-jul21]
+line=12669 tag=B-L:                    (6.46)  Nga-da  kurri-n-ngarrba-     wuran-ngarrb-,  ngum-ban-ju-
+line=12670 tag=B-L:                            !at#-ta kuri-c-n-!arpa-ø     wu%an-!arpa-ø   !u!-pa'-kuu-ø
+line=12671 tag=I-G:                            1sg-T   see-TH-‹fN-fCONS›-T  food-fCONS-T    2sg-fPOSS-fPROP-T
+line=12677 tag=I-T:                            ‘Having seen the food I will give it to you.’ [W1960]
+line=12678 tag=B-L:                    (6.47) Balmbu-            nga-da  dali-j-u-
+line=12679 tag=B-L:                           palmpu(-ø          !at#-ta "ali-c-kuu-ø
+line=12680 tag=I-G:                           tomorrow.fPROP-T   1sg-T   come-TH-fPROP-T
+line=12681 tag=I-G:                           tomorrow.FUT-Ø     1sg-Ø   come-Ø-POT-Ø
+line=12682 tag=I-L:                            ngum-ban-ji-ring-ku-          kamburi-j-i-ring-ku-
+line=12683 tag=B-L:                            !u!-pa'-ki-%i!-kuu-ø          kapu%i-c-ki-%i!-kuu-ø
+line=12684 tag=I-G:                            2sg-fPOSS-fLOC-fALL-fPROP-T   talk-TH-fLOC-fALL-fPROP-T
+line=12685 tag=I-G:                            2sg-Ø-Ø-DIR-FUT-Ø             talk-Ø-Ø-DIR-FUT-Ø
+line=12686 tag=I-T:                            ‘Tomorrow   I’ll come to talk to you.’ [E453.ex.11-8]
+line=12742 tag=B-L:                     (6.49)  Jina-a    bijarrb-,   [ nga-ku-l-da    bakii--n-ki-
+line=12743 tag=B-L:                             cina-a    picarpa-ø     !a-ku-l-ta     paki(-c-n-ki-a
+line=12744 tag=I-G:                             where-T   dugong-T      1-2-pl-T       ‹all do-TH-fN›-fLOC-T
+line=12745 tag=I-T:                             where-Ø   dugong-Ø      1-2-pl(EMP)-Ø  ‹all›-EMP-Ø
+line=12746 tag=I-L:                             kurulu-th-arra-y- ] ?
+line=12747 tag=I-L:                             ku%ulu-t#-!ara-ki-a
+line=12748 tag=I-G:                             kill-TH-fCONS-fLOC-T
+line=12749 tag=I-T:                             kill-Ø-PST-EMP-Ø
+line=12750 tag=I-T:                             ‘Where  is the dugong which we all killed?’ [E493.ex.12-12]
+line=12761 tag=B-L:                     (6.50)  Jina-a    bijarrb-,  [ nying-ka    kurulu-th-arra-y- ] ?
+line=12762 tag=I-L:                             cina-a    picarpa-ø   'i!-ka       ku%ulu-t#-!ara-ki-a
+line=12763 tag=I-G:                             where-T   dugong-T    2sg-T        kill-TH-fCONS-fLOC-T
+line=12764 tag=I-G:                             where-Ø   dugong-Ø    2sg(EMP)-Ø   kill-Ø-PST-EMP-Ø
+line=12765 tag=I-T:                             ‘Where is the dugong which you killed?’ [E493.ex.12-13a]
+line=12768 tag=B-L:                     (6.51) Jina-a    bijarrb,   [ ngum-ba-a     kurulu-th-arra-nth- ] ?
+line=12769 tag=I-L:                            cina-a    picarpa-ø    !u!-pa-a      ku%ulu-t#-!ara-in#t#a-ø
+line=12770 tag=I-G:                            where-T   dugong-T     2sg-fCOMP-T   kill-TH-fCONS-fOBL-T
+line=12771 tag=I-G:                            where-Ø   dugong-Ø     2sg-COMP-Ø    kill-Ø-PST-COMP-Ø
+line=12772 tag=I-T:                            ‘Where  is the dugong which you killed?’ [E493.ex.12-13b]
+line=12785 tag=B-L:                    (6.52)  Ngiju-wa-     bingkurn-da    wungi-j-arra-nth- !
+line=12786 tag=B-L:                            !icu-pa-ø     pi!ku&-ta      wu!i-c-!ara-in#t#a-ø
+line=12787 tag=I-G:                            1sg-fCOMP-T   mud  crab-T    steal-TH-fCONS-fOBL-T
+line=12788 tag=I-G:                            1sg-COMP-Ø    mud  crab-Ø    steal-Ø-PAST-COMP-Ø
+line=12789 tag=I-T:                            ‘So I’ve been stealing mangrove crabs!’ [E536.ex.12-125d]
+line=12790 tag=B-L:                    (6.53)  Kambuda-    kala-th-uru-y-a
+line=12791 tag=I-L:                            kamputa-ø   kala-t#-ku%u-ki-a
+line=12792 tag=I-G:                            nut-T       cut-TH-fPROP-fLOC-T
+line=12793 tag=I-T:                            nut-Ø       cut-Ø-POT-EMP-Ø
+line=12794 tag=I-L:                                                               narra-nguni-wuru-y-a,
+line=12795 tag=I-L:                                                               &ara-!uni-ku%u-ki-a
+line=12796 tag=I-G:                                                               knife-fINST-fPROP-fLOC-T
+line=12797 tag=I-T:                                                               knife-INST-FUT-EMP-Ø
+line=12798 tag=B-L:                           kurda-wu-j-uru-y-
+line=12799 tag=B-L:                           ku"a-wu-c-ku%u-ki-a
+line=12800 tag=I-L:                           coolamon-fDON-TH-fPROP-fLOC-T
+line=12801 tag=I-G:                           coolamon-DON-Ø-POT-EMP-Ø
+line=12802 tag=I-T:                           ‘Pandanus nut we’ll cut with a knife and put in a coolamon.’[R2005-jul08]
+line=12808 tag=B-L:                     (6.54)  Kuna~wuna-ntha-          karii--j-urrk-.
+line=12809 tag=B-L:                             kuna-kuna-in#t#a-ø       ka%i-i-c-kurka-ø
+line=12810 tag=I-L:                             ‹childNL-childNL›-fOBL-T cover-fMID-TH-fLOC.fOBL-T
+line=12811 tag=I-G:                             ‹child›-COMP-Ø           cover-MID-Ø-IMMED.COMP-Ø
+line=12812 tag=I-T:                             Discussing a type of disinfectant leaf: ‘Babies are covered in it’ [E534.ex.12-121]
+line=12816 tag=B-L:                     (6.55) Jungarra-y-a   mindulu-y-a     ngiju-wa-     badi-j-uu-nth-.
+line=12817 tag=B-L:                            cu!ara-ki-a    mintulu-ki-a    !icu-pa-ø     pati-c-kuu-in#t#a-ø
+line=12818 tag=I-G:                            big-fLOC-T     bundle-fLOC-T   1sg-fCOMP-T   carry-TH-fPROP-fOBL-T
+line=12819 tag=I-G:                            big-LOC-Ø      bundle-LOC-Ø    1sg-COMP-Ø    carry-Ø-POT-COMP-Ø
+line=12820 tag=I-T:                            ‘I’ll carry mine in a big bundle.’ [E539.ex.12-132]
+line=12851 tag=B-L:                     (6.56)  Dan-kiy-a    kuna~wuna-y-a            barji-j-arra-nth- !
+line=12852 tag=B-L:                             "an-ki-a     kuna-kuna-ki-a           pa%ci-c-!ara-in#t#a-
+line=12853 tag=I-G:                             this-fLOC-T  ‹childNL-childNL›-fLOC-T fall-TH-fCONS-fOBL-T
+line=12854 tag=I-G:                             this-EMP-Ø   ‹child›-EMP-Ø            fall-Ø-PST-COMP-Ø
+line=12855 tag=I-T:                             ‘This child has been born!’ [R2005-jul21]
+line=12859 tag=B-L:                     (6.57)  Ri-in-kiy-a       bath-in-kiy-a      dangka-walath-iy-a
+line=12860 tag=I-L:                             %i-in-ki-a        pat#-in-ki-a       "a!ka-palat#-ki-a
+line=12861 tag=I-G:                             east-fFRM-fLOC-T  west-fFRM-fLOC-T   person-fPL-fLOC-T
+line=12862 tag=I-T:                             east-ABL-EMP-ø    west-ABL-EMP-ø     person-PL-EMP-Ø
+line=12863 tag=B-G:                             bana   rilum-ban-jiy-a          jardi-wurrka-
+line=12864 tag=B-L:                             pana   %ilu!-pa'-ki-a           ca"i-kurka-ø
+line=12865 tag=I-G:                             and    ‹east.fALL-fPOSS›-fLOC-T group-fLOC.fOBL-T
+line=12866 tag=I-T:                             and    ‹east.C.ORIG›-EMP-ø      group-PRES.COMP-Ø
+line=12867 tag=B-L:                            dardanyi-j-urrka-             nga-ku-lu-wan-jurrk-!
+line=12868 tag=B-L:                            "a"a'i-c-kurka-ø              !a-ku-lu-pa'-kurka-ø
+line=12869 tag=I-L:                            surround-TH-fLOC.fOBL-T       1-2-pl-fPOSS-fLOC.fOBL-T
+line=12870 tag=I-G:                            surround-Ø-IMMED.COMP-Ø       1-2-pl-Ø-PRES.COMP-Ø
+line=12871 tag=I-T:                            ‘People from every which way (lit. from the east and west) and in the east have
+line=12872 tag=I-T:                            surrounded us mob!’ [R2005-aug02a]
+line=12873 tag=B-L:                     (6.58)  Dan-kiy-a    kuna~wuna-y-a            rika-walath-ij-iy-a
+line=12874 tag=B-L:                             "an-ki-a     kuna-kuna-ki-a           %ika-palat#-ic-ki-a
+line=12875 tag=I-L:                             this-fLOC-T  ‹childNL-childNL›-fLOC-T cold-‹fPL-fSAME›-fLOC-T
+line=12876 tag=I-G:                             this-EMP-Ø   ‹child›-EMP-Ø            cold-‹EVERY›-EMP-Ø
+line=12877 tag=I-L:                             ngiju-wa-       kari-j-uu-nth-!
+line=12878 tag=B-L:                             !icu-pa-ø       ka%i-c-kuu-in#t#a-ø
+line=12879 tag=I-G:                             1sg-fCOMP-T     cover-TH-fPROP-fOBL-Ø
+line=12880 tag=I-G:                             1sg-COMP-Ø      cover-Ø-POT-COMP-Ø
+line=12881 tag=I-T:                             ‘I’ll cover up these children who are all cold!’ [R2005-jul19a]
+line=12888 tag=B-L:                    (6.59)  Kurda-y-a          wu-yii-j-uru-y-a                      nga-ku-l-da
+line=12889 tag=I-L:                            ku"a-ki-a          wu(-i-c-ku%u-ki-a                     !a-ku-l-ta
+line=12890 tag=I-G:                            coolamon-fLOC-T    ‹put-fMID›-TH-fPROP-fLOC-T            1-2-pl-T
+line=12891 tag=I-T:                            coolamon-EMP-Ø     ‹place on one’s person›-Ø-POT-EMP-Ø   1-2-pl(EMP)-Ø
+line=12892 tag=I-T:                            Talking about collecting edible foods: ‘We’ll pick them up and carry them on
+line=12893 tag=I-T:                            our person in coolamons’ [R2005-jul08]
+line=12912 tag=B-L:                     (6.60)  Wanku-y-a      dathin-ki-    ri-in-ki- !
+line=12913 tag=I-L:                             wanku-ki-a     "at#in-ki-a   %i-in-ki-a
+line=12914 tag=I-G:                             shark-fLOC-T   that-fLOC-T   east-fFRM-fLOC-T
+line=12915 tag=I-G:                             shark-EMP-Ø    that-EMP-Ø    east-ABL-EMP-Ø
+line=12916 tag=I-T:                             ‘Hey, there’s a shark (coming at you) from the east there!’ [E141.ex.4-28]34
+line=12917 tag=B-L:                    (6.61)  Rajurri--n-ki!
+line=12918 tag=B-L:                            %acuri-c-n-ki-a
+line=12919 tag=I-L:                            walk-TH-fN-fLOC-T
+line=12920 tag=I-G:                            walk-Ø-PROG-EMP-Ø
+line=12921 tag=I-T:                            Granny  to toddler: ‘Hey you can walk!’ [E142.ex.4-31]
+line=12927 tag=B-L:                    (6.62)  Dan-kiy-a    wangarr-i-,  ngij-in-ji-,      bijarrba-wuru-y- !
+line=12928 tag=B-L:                            "an-ki-a     wa!ar-ki-a   !icu-i'-ki-a      picarpa-ku%u-ki-a
+line=12929 tag=I-G:                            this-fLOC-T  song-fLOC-T  1sg-fPOSS-fLOC-T  dugong-fPROP-fLOC-T
+line=12930 tag=I-G:                            this-EMP-Ø   song-EMP-Ø   1sg-POSS-EMP-Ø    dugong-PROP-EMP-Ø
+line=12931 tag=I-T:                            ‘(Hear) this song, of mine, about dugong!’ [R2007-may14a]
+line=12938 tag=B-L:                     (6.63)  Nga-da        ra-rung-ki-!
+line=12939 tag=B-L:                             !at#-ta       %a-%u!-ki-a
+line=12940 tag=I-G:                             1sg-T         south-fALL-fLOC-T
+line=12941 tag=I-T:                             1sg(EMP)-Ø    south-ALL-EMP-Ø
+line=12942 tag=I-T:                             A man  has returned to Bentinck Island (the ‘south’ island) for the first time
+line=12943 tag=I-T:                             in decades: ‘(Look at) me in the south!’ [R2005-jul05b]
+line=12977 tag=B-L:                    (6.64)  Nga-da   kurri-j,  [S ni-wa-a      natha-wurrka-
+line=12978 tag=B-L:                            !at#-ta  kuri-ca      &i-pa-a      &at#a-kurka-ø
+line=12979 tag=I-G:                            sg-T     see-TH.T     3sg-fCOMP-T  camp-fLOC.fOBL-T
+line=12980 tag=I-G:                            sg-Ø     see-ACT      3sg-COMP-Ø   camp-PRES.COMP-Ø
+line=12981 tag=I-T:                             dana-th-urrk- ] .
+line=12982 tag=I-L:                             "ana-t#-kurka-ø
+line=12983 tag=I-G:                             leave-TH-fLOC.fOBL-T
+line=12984 tag=I-G:                             leave-Ø-IMMED.COMP-Ø
+line=12985 tag=I-T:                             ‘I saw him leave the camp.’ [E495.ex.12-20]
+line=12986 tag=B-L:                     (6.65)   Nga-da   warra-j-arra-
+line=12987 tag=B-L:                              !at#-ta  wara-c-!ara-ø
+line=12988 tag=I-G:                              1sg-T    go-TH-fCONS-T
+line=12989 tag=I-G:                              1sg-Ø    go-Ø-PST-Ø
+line=12990 tag=I-L:                              [S kurri-j-u-       dulk-u- ]         Rukuthi-na-.
+line=12991 tag=B-L:                                 kuri-c-kuu-ø     "ulk-kuu-ø        %ukut#i-ki-naa-ø
+line=12992 tag=I-G:                                 look-TH-fPROP-T  country-fPROP-T   (place name)-fLOC-fABL-T
+line=12993 tag=I-G:                                 look-Ø-POT-Ø     country-FUT-Ø     (place name)-Ø-PRIOR-Ø
+line=12994 tag=I-T:                              ‘I went to Rukuthi to see the country.’ [E499.ex.12-30]
+line=13345 tag=B-L:                    (6.74)  [ Nga-da  [ kurri-n-ngarrba-    wuran-ngarrb-  ANTE, ANTE], ngum-ban-ju-
+line=13346 tag=B-L:                             !at#-ta    kuri-c-n-!arpa-ø    wu%an-!arpa-ø             !u!-pa'-kuu-ø
+line=13347 tag=I-G:                             1sg-T      see-TH-‹fN-fCONS›-T food-fCONS-T              2sg-fPOSS-fPROP-T
+line=13392 tag=B-L:                     (6.76) [ Kariya-th-u-        jingkar-maru-th-u-,     [ diya--n-ngarrba-wu-
+line=13393 tag=I-L:                              ka%ia-t#-kuu-ø      ci!ka%-ma%u-t#-kuu-ø      "ia-c-n-!arpa-kuu-ø
+line=13394 tag=I-G:                             conceal-TH-fPROP-T   scrub-fDAT-TH-fPROP-T     eat-TH-‹N-fCONS›-fPROP-T
+line=13395 tag=I-G:                             conceal-Ø-POT-Ø      scrub-DAT-Ø-POT-Ø         eat-Ø-‹ANTE›-FUT-Ø
+line=13396 tag=I-M:                           janangkurri-ngarrba-wu-  ANTE,ANTE]  Murdumurdu-waan-ju-  FUT,POT]
+line=13397 tag=I-L:                           cana!kuri-!arpa-kuu-ø                mu"umu"u-wa('-kuu-ø
+line=13398 tag=I-G:                           goat-fCONS-fPROP-T                   (place name)-fORIG-fPROP-T
+line=13399 tag=I-G:                           goat-ANTE-FUT-Ø                      (place name)-ORIG-FUT-Ø
+line=13400 tag=I-T:                           ‘He will conceal in the scrub (the ones) from Murdumurdu who have eaten
+line=13441 tag=B-L:                    (6.78) [ Balmbu-           nga-da  warra-j-u-
+line=13442 tag=B-L:                             palmpu(-ø         !at#-ta wara-c-kuu-ø
+line=13443 tag=I-G:                             tomorrow.fPROP-T  1sg-T   go-TH-fPROP-T
+line=13444 tag=I-G:                             tomorrow.FUT-Ø    1sg-Ø   go-Ø-POT-Ø
+line=13464 tag=B-L:                     (6.79)  [ Nguku-karran-jiy-a nguku-rnurru-    diya-ja   wirdi-j INS,ACT] .
+line=13465 tag=B-L:                               !uku-kara'-ki-a    !uku-&uru-a      "ia-ca    wi"i-ca
+line=13466 tag=I-L:                               water-fGEN-fLOC-T  water-fASSOC-T   eat-TH.T  stay-TH.T
+line=13467 tag=I-G:                               water-GEN-INS-Ø    water-ASSOC-Ø    eat-ACT   stay-ACT
+line=13468 tag=I-T:                             ‘They ate around the water, at the water.’ [E1984-03-01]
+line=13469 tag=B-L:                    (6.80)  [ Bijarrba-  ra-yii-ja        dangka--na- INS,ACT].
+line=13470 tag=I-L:                              picarpa-ø  %a(-i-ca         "a!ka-ki-naa-ø
+line=13471 tag=I-G:                             dugong-T    spear-fMID-TH.T  man-fLOC-fABL-T
+line=13472 tag=I-G:                             dugong-Ø    spear-MID-ACT    man-Ø-ABL-Ø
+line=13473 tag=I-T:                            ‘The dugong  is/was speared by the man.’ [E2.ex.1-6]
+line=13495 tag=B-L:                            !at#-"a parun#t#a-ki-a     kuri-ca   "a!ka-kiar!-ki-a
+line=13496 tag=B-L:                            1sg-T   yesterday-fLOC-T   see-TH.T  man-fDU-fLOC-T
+line=13497 tag=I-G:                            1sg-Ø   yesterday-INS-Ø    see-ACT   man-DU-INS-Ø
+line=13498 tag=B-M:                     (a)  [ warra-n-ki-       ra-rung-kuu-nth- CONT,PROG] INS,ACT]
+line=13499 tag=I-L:                           wara-c-n-ki-a      %a-%u!-ku(-n#t#a-ø
+line=13500 tag=I-L:                           go-TH-fN-fLOC-T    south-fALL-fPROP-fOBL-T
+line=13501 tag=I-G:                           go-Ø-PROG-INS-Ø    south-C.ALL-PROP-CONT-Ø
+line=13502 tag=I-T:                          ‘Yesterday I saw the two men going to the south.’ [E113.ex.3-45]
+line=13509 tag=B-L:                     (6.81)  [ Nga-da  kiyarrng-kiy-a  wurkara-y-a   kurri-j,
+line=13510 tag=B-L:                               !at#-ta kiar!-ki-a      wu%ka%a-ki-a  kuri-ca
+line=13511 tag=I-G:                               1sg-T   two-fLOC-T      boy-fLOC-T    see-TH.T
+line=13512 tag=I-G:                               1sg-Ø   two-INS-Ø       boy-INS-Ø     see-ACT
+line=13513 tag=I-M:                             [ jirrkara-rnurru-y-a   jalji-rnurru-y-a    wirdi--n-ki- CONT,PROG] INS,ACT]
+line=13514 tag=I-L:                               cirka%a-&uru-ki-a     calci-&uru-ki-a     wi"i-c-n-ki-a
+line=13515 tag=I-G:                               north-ASSOC-INS-T     shade-ASSOC-INS-T   stay-TH-fN-fLOC-T
+line=13516 tag=I-M:                               north-ASSOC-INS-Ø     shade-ASSOC-INS-Ø   stay-Ø-PROG-INS-Ø
+line=13517 tag=I-T:                             ‘I see two boys staying in the shade in the north.’ [W1960]
+line=13518 tag=B-M:                    (b)  Reanalysis of (a)
+line=13519 tag=I-L:                         [ Nga-da   barruntha-y-a   kurri-j-a-    dangka-yarrng-ki-
+line=13520 tag=I-G:                         1sg-Ø      yesterday-INS-Ø see-Ø-ACT-Ø   man-DU-INS-Ø
+line=13521 tag=I-M:                     (b)  [ warra-n-ki- CONT,PROG] [ ra-rung-kuu-nth- FUT,POT, COMP] INS,ACT]
+line=13522 tag=I-G:                           go-Ø-PROG-INS-Ø         south-C.ALL-PROP-COMP-Ø
+line=13523 tag=I-T:                          Lit: ‘Yesterday I saw the two men walking, who were going to the south.’
+line=13525 tag=B-L:                     (6.82)  [ Wulkatharri-    bath-in-ki-       durrwaa-ja   ngardarrji--
+line=13526 tag=B-L:                               wulkat#ari-a    pat#-in-ki-a      "urwa(-ca    !a"arci-ki-a
+line=13527 tag=B-L:                               (place name)-T  west-fFRM-fLOC-T  chase-TH.T   dugong-fLOC-T
+line=13528 tag=I-G:                               (place name)-Ø  west-ABL-INS-Ø    chase-ACT    dugong-INS-Ø
+line=13529 tag=I-L:                            nga-k-in-da  murrukurnang-k,           bath-in-ki-
+line=13530 tag=I-G:                            !a-ku-i'-ta  muruku&a!-ka              pat#-in-ki-a
+line=13531 tag=I-T:                            1-2-fPOSS-T  your Fa my cross cousin-T west-fFRM-fLOC-T
+line=13533 tag=B-L:                             ba-lum-ban-ji-            [ ni-wan-jiyarrng-ki-naba-y-a
+line=13534 tag=B-L:                             pat#-%u!-pa'-ki-a           &i-pa'-kiar!-ki-napa-ki-a
+line=13535 tag=I-G:                             west-‹fALL-fPOSS›-fLOC-T    3sg-fPOSS-fDU-fLOC-fABL-fLOC-T
+line=13536 tag=I-G:                             west-‹ORIG›-INS-Ø           3sg-POSS-DU-Ø-ABL-INS-Ø
+line=13537 tag=I-L:                            jibarna-yarrng-ki-naba-y-a          birdiru-th-irrin-ji- Ø,RES] INS,ACT]
+line=13538 tag=I-G:                            cipa&a-kiar!-ki-napa-ki-a           pi"i%u-t#-iri'-ki-a
+line=13539 tag=I-L:                            MoBr   in law-fDU-fLOC-fABL-fLOC-T  miss-TH-fRES-fLOC-T
+line=13540 tag=I-G:                            MoBr   in law-DU-Ø-ABL-INS-Ø        miss-Ø-RES-INS-Ø
+line=13541 tag=I-T:                            ‘At Wulkatharri the one who was your father and my second cousin chased a
+line=13542 tag=I-T:                            pregnant  dugong from  the west, one from the west that had been missed by his
+line=13575 tag=B-L:                    (6.84)  Marrbi-   dan-ku-      natha-wu  .
+line=13576 tag=I-G:                            marpi-a   "an-kuu-ø    &at#a-kuu-ø
+line=13577 tag=I-L:                            maybe-T   this-fPROP-T camp-fPROP-T
+line=13578 tag=I-G:                            maybe-ø   this-FUT-Ø   camp-FUT-Ø
+line=13579 tag=I-T:                            ‘Maybe (they’ll stay) in this camp.’45 [E315.ex.9-10]
+line=13585 tag=B-L:                     (6.85)  Dathina   yarbu-d,   marrwa--ri          minda--ri
+line=13586 tag=I-L:                             "at#ina   ja%put#-ta marwa-ki-%i         minta-ki-%i
+line=13587 tag=I-G:                             that.T    snake-T    nearby-fLOC-fALL.T  base-fLOC-fALL.T
+line=13614 tag=B-L:                     (6.86)  Niy-a   ba-lung-k.
+line=13615 tag=I-L:                             &i-a    pat#-%u!-ka
+line=13616 tag=I-G:                             3sg-T   west-fALL-T
+line=13617 tag=I-G:                             3sg-Ø   west-ALL-Ø
+line=13618 tag=I-T:                             ‘He’s in the west.’ [W1960]
+line=13619 tag=B-L:                      (6.87)  Ba-lung-kurrka-          yarbuth-inja-     dirra-yarbuth-inj-.
+line=13620 tag=B-L:                              pat#-%u!-kurrka-ø        ja%put#-in#t#a-ø  "ira-ja%put#-in#t#a-ø
+line=13621 tag=I-G:                              west-fALL-fLOC.fOBL-Ø    animal-fOBL-T     ‹rain-animal›-fOBL-T
+line=13622 tag=I-G:                              south-ALL-PRES.COMP-Ø    animal-COMP-Ø     ‹cyclone›-COMP-Ø
+line=13623 tag=I-T:                              ‘The cyclone (lit. “rain-beast”) is in the west.’ [R2005-aug02a]
+line=13636 tag=B-L:                     (6.88)  Jangka-wu-     darr-u-           [Pred[VP kamarr-karra balaa---n-d ]]48
+line=13637 tag=I-L:                             ca!ka-kuu-ø    "ar-kuu-ø                  kamar-kara   pala-i-t#-n-ta
+line=13638 tag=I-G:                             other-fPROP-T  occasion-fPROP-T           stone-fGEN.T hit-fMID-TH-fN-T
+line=13639 tag=I-G:                             other-FUT-Ø    occasion-FUT-T             stone-GEN    hit-MID-Ø-PROG-Ø
+line=13640 tag=I-T:                             ‘Another time (your head)’ll get broken on a stone.’ [E473.ex.11-31],
+line=13641 tag=I-T:                             Lit. ‘Another time (you will be) being hit by a stone.’
+line=13667 tag=B-L:                    (6.89)  Miburl-da   ngij-in-d,   waduw-a    jaa-j-i-r.
+line=13668 tag=B-L:                            mipu%-ta    !icu-i'-ta   watu-a     ca(-c-ki-%i
+line=13669 tag=I-G:                            eye-T       1sg-fPOSS-T  smoke-T    enter-TH-fLOC-fALL.T
+line=13670 tag=I-G:                            eye-Ø       1sg-POSS-Ø   smoke-Ø    enter-Ø-Ø-DIR
+line=13671 tag=I-T:                            ‘The smoke is getting in my eyes.’ [W1960]
+line=13740 tag=B-L:                     (6.91)    Jatha-y-a      dulk-i-       kamburi-j,
+line=13741 tag=I-L:                               cat#a-ki-a     "ulk-ki-a     kampu%i-ca
+line=13742 tag=I-L:                               other-fLOC-T   place-fLOC-T  talk-TH.T
+line=13743 tag=I-G:                               other-INS-Ø    place-INS-Ø   talk-ACT
+line=13744 tag=I-M:                              kamburii---nang-ku-           dathina    dulk-.
+line=13745 tag=I-L:                              kampu%i-i-c-na!-kuu-ø         "at#ina    "ulk-a
+line=13746 tag=I-G:                              talk-fMID-TH-fNEG-fPROP-T     that.T     place-T
+line=13747 tag=I-G:                              talk-MID-Ø-NEG-POT-Ø          that       place-Ø
+line=13748 tag=I-T:                              ‘(They) spoke in another place. That place mustn’t be spoken in.’
+line=13837 tag=B-L:                             &i-a   ku(cu(-c-!ara-ø    t#aa-t#-!ara-ø
+line=13838 tag=I-G:                             3sg-T  swim-TH-fCONS-T    “return”-TH-fCONS-T
+line=13839 tag=I-G:                             3sg-Ø  swim-Ø-PST-Ø       “return”-Ø-PST-Ø
+line=13840 tag=I-T:                             ‘He went off for a swim.’ (Evans 2003: 223.ex.10)
+line=13913 tag=B-L:                     (6.97)    a. ni-wan-da     kiyarrng-ka               thabuju-
+line=13914 tag=I-L:                                  &i-pa'-ta     kiar!-ka                  t#apucu-a
+line=13915 tag=I-G:                                  3sg-fPOSS-T   two-T                     e.Br-T
+line=13916 tag=I-G:                                  3sg-POSS-Ø    two-Ø                     e.Br-Ø
+line=13917 tag=I-T:                                  ‘his two elder brothers’ [E236]
+line=13918 tag=B-L:                              b.               kiyarrng-ka  ni-wan-da     thabuju-
+line=13919 tag=I-L:                                               kiar!-ka     &i-pa'-ta     t#apucu-a
+line=13920 tag=I-G:                                               two-T        3sg-fPOSS-T   e.Br-T
+line=13921 tag=I-G:                                               two-Ø        3sg-POSS-Ø    e.Br-Ø
+line=13922 tag=I-T:                                  ‘two of his elder brothers’ [E236]
+line=13928 tag=B-L:                    (6.98)  a.  ngij-in-da   ni-da     wuran-d
+line=13929 tag=I-L:                                !icu-i'-ta   &it#-ta   wu%an-ta
+line=13930 tag=I-G:                                1sg-fPOSS-T  name-T    animal-T
+line=13931 tag=I-G:                                1sg-POSS-Ø   name-Ø    animal-Ø
+line=13932 tag=I-T:                                ‘my totem animal’ [E236]
+line=13933 tag=B-L:                                                                   b. ngij-in-da   wuran-da   ni-d
+line=13934 tag=I-L:                                                                      !icu-i'-ta   wu%an-ta   &it#-ta
+line=13935 tag=I-G:                                                                      1sg-fPOSS-T  animal-T   name-T
+line=13936 tag=I-G:                                                                      1sg-POSS-Ø   animal-Ø   name-Ø
+line=13937 tag=I-T:                                                                      ‘my totem  name’ [E236]
+line=13982 tag=B-L:                                   wa%!i(c-ki-naa-ø "a!ka-ki-naa-ø            "ulk-ka
+line=13983 tag=I-G:                                   one-fLOC-fABL-T  person-fLOC-fABL-T        country-T
+line=13984 tag=I-G:                                   one-Ø-ABL-Ø      person-Ø-ABL-Ø            country-Ø
+line=13985 tag=I-T:                             ‘one people’s country’ [R2005-aug08]
+line=14027 tag=B-L:                                          mira-a    "ulk-ka    !a-la-pa-ø  "ana-t#-kurka-ø
+line=14028 tag=I-G:                                          good-T    country-T  1-pl-COMP-T leave-TH-fLOC.fOBL-T
+line=14029 tag=I-G:                                          good-Ø    country-Ø  1-pl-COMP-ø leave-Ø-IMMED.COMP-Ø
+line=14030 tag=I-T:                             ‘We left the good country.’ [R2005-aug03]
+line=14055 tag=B-L:                                "an-ta             kiar!-ka       pu%"amur-a    kuna-kuna-ø
+line=14056 tag=I-G:                                this-T             two-T          four-T        ‹childNL-childNL›-T
+line=14057 tag=I-T:                                 this-Ø            two-Ø          four-Ø        ‹child›-Ø
+line=14058 tag=I-T:                             ‘These two (people) had four children.’ [R2005-jul05b]
+line=14061 tag=B-L:                             !at#-ta  "ia-c-kuu-ø                  wa%!ic-kuu-ø
+line=14062 tag=I-G:                             1sg-T    eat-TH-fPROP-T               one-fPROP-T
+line=14063 tag=I-G:                             1sg-Ø    eat-Ø-POT-Ø                  one-FUT-Ø
+line=14064 tag=I-T:                             ‘I’ll drink one (can)’ [E236.ex.6-8]
+line=14068 tag=B-L:                              'i!-ka                cu!arpa-ø          kurka-t#a
+line=14069 tag=I-G:                              2sg-T                 big-T              take-TH.T
+line=14070 tag=I-G:                              2sg-Ø                 big-Ø              take-IMP
+line=14071 tag=I-T:                              ‘You take a big one (a sheaf of grass)!’ [R2007-may29]
+line=14091 tag=B-L:                                        !i-pa'-ta       "ulk-ka
+line=14092 tag=I-G:                                        3sg-fPOSS-T     country-T
+line=14093 tag=I-G:                                        3sg-POSS-Ø      country-Ø
+line=14094 tag=I-T:                                  ‘his/her country’
+line=14122 tag=B-L:                     (6.111) ni-wan-jiyarrng-ki-naba-y-a      jibarna-yarrng-ki-naba-y-a
+line=14123 tag=I-L:                             &i-pa'-kiar!-ki-napa-ki-a        cipa&a-kiar!-ki-napa-ki-a
+line=14124 tag=I-G:                             3sg-fPOSS-fDU-fLOC-fABL-fLOC-T   MoBr  in law-fDU-fLOC-fABL-fLOC-T
+line=14125 tag=I-G:                             3sg-POSS-DU-Ø-ABL-INS-Ø          MoBr  in law-DU-Ø-ABL-INS-Ø
+line=14126 tag=I-T:                             ‘by his two uncles’ [E480.ex.11-64]
+line=14153 tag=B-L:                                 !a-r-pa'-ta        kuna-kuna-kiar!-ka        kurka-i-t#a
+line=14154 tag=I-G:                                 1-du-fPOSS-T       ‹childNL-childNL›-fDU-T   take-fMID-TH.T
+line=14155 tag=I-G:                                 1-du-POSS-Ø        ‹child›-DU-Ø              take-MID-ACT
+line=14156 tag=I-T:                             ‘Our two children were taken.’ [R2005-jul15a]
+line=14159 tag=B-L:                                "at#ina       !ampu-pala        "ulmar-"ulmar-a
+line=14160 tag=I-G:                                that.T       well-fPL.T         ‹boss-boss›-T
+line=14246 tag=B-L:                     (6.119)   Dana-tha    ngij-in-ji-     /  nga-d !
+line=14247 tag=B-L:                               "ana-t#-a-  !icu-i'-ki-a       !at#-ta
+line=14248 tag=I-L:                               leave-TH.T  1sg-fPOSS-fLOC-T   1sg-T
+line=14249 tag=I-G:                               see-IMP     1sg-Ø-LOC-Ø        1sg-Ø
+line=14250 tag=I-T:                               ‘Leave me!’ [E109.ex.3-35]
+line=14264 tag=B-L:                    (6.120)  Narrkiri-j-a mala-a   ngarn-ki- !
+line=14265 tag=I-L:                             &arki%i-ca   mala-a   !a&-ki-a
+line=14266 tag=I-L:                             bury-TH.T    beer-T   beach-fLOC-T
+line=14267 tag=I-G:                             bury-IMP     beer-Ø   beach-LOC-Ø
+line=14268 tag=I-T:                             ‘Bury the beer on the beach!’ [E744]
+line=14269 tag=B-L:                    (6.121)  Mutha-y-a      ngambirr-i-   wirdi-jirrin-d.
+line=14270 tag=B-L:                             mut#a-ki-a     !ampir-ki-a   wi"i-c-iri'-ta
+line=14271 tag=I-G:                             many-fLOC-T    house-fLOC-T  stay-TH-fRES-T
+line=14272 tag=I-G:                             many-LOC-Ø     house-LOC-Ø   stay-Ø-RES-Ø
+line=14273 tag=I-T:                             ‘They have stayed in many houses.’ [E476.ex-11-49]
+line=14274 tag=B-L:                    (6.122)  Ki-l-da  warra--na     jirrkurii--na        wambal-da    wanjii--n!
+line=14275 tag=B-L:                             ki-l-ta  wara-c-na     cirku%i(-c-na        wampal-ta    wa'ci(-c-na
+line=14276 tag=I-L:                             2-pl-T   go-TH-fNEG.T  go north-TH-fNEG.T   bush-T       ascend-TH-fNEG.T
+line=14277 tag=I-G:                             2-pl-Ø   go-Ø-NEG.IMP  go north-Ø-NEG.IMP   bush-Ø       ascend-Ø-NEG.IMP
+line=14278 tag=I-T:                             ‘Don’t you (all) go up north into the bush!’ [W1960]
+line=14290 tag=B-L:                    (6.123)  Kaburrba-y-a   wuu-ja    wuran-da   karna-j!
+line=14291 tag=I-L:                             kapurpa-ki-ø   wu(-ca    wu%an-ta   ka&a-ca
+line=14292 tag=B-L:                             coals-fLOC-T   put-TH.T  food-T     cook-TH.T
+line=14293 tag=I-G:                             coals-LOC-Ø    put-IMP   food-Ø     cook-IMP
+line=14294 tag=I-T:                             ‘Put the food on the coals, cook it!’ [E335.ex.9-87]
+line=14295 tag=B-L:                     (6.124)  Yakuri-    wuu-j-irrin-da    kaburrba-y-.
+line=14296 tag=B-L:                              jaku%i-ø   wu(-c-iri'-ta     kapurpa-ki-ø
+line=14297 tag=I-G:                              fish-T     put-TH-fRES-T     coals-fLOC-T
+line=14298 tag=I-G:                              fish-Ø     put-Ø-RES-Ø       coals-LOC-Ø
+line=14299 tag=I-T:                              ‘The fish is/was put on the ashes.’ [E476.ex.11-47]
+line=14300 tag=B-L:                   (6.125)  Marraa-ja  dangka-a  kurumbu-y-  !
+line=14301 tag=B-L:                            mara(-ca   "a!ka-a   ku%umpu-ki-a
+line=14302 tag=I-L:                            show-TH.T  man-T     spear-fLOC-T
+line=14303 tag=I-G:                            show-IMP   man-Ø     spear-LOC-Ø
+line=14304 tag=I-T:                            ‘Show the man the spear!’ [E338.ex.9-101]
+line=14333 tag=B-L:                    (6.126)  Kurthurr-a  daraa--ny-arra-         ngambu-nth-   (not *ngambu-wurrk).
+line=14334 tag=B-L:                             ku%t#ur-a   "a%a-i-t#-'ara-ø        !ampu-in#t#a-ø     !ampu-kurka-ø
+line=14335 tag=I-G:                             shin-T      break-fMID-TH-fAPPR-T   well-fOBL-T        well-fLOC.fOBL-T
+line=14336 tag=I-G:                             shin-Ø      break-MID-Ø-APPR-Ø      well-EMO-Ø         well-LOC.EMO-Ø
+line=14337 tag=I-T:                             ‘You might break your leg in the well.’ [W1960]
+line=14344 tag=B-L:                     (6.127)  Kuna~wuna-          bilarri--nyarra- nguku-ntha-   [DP[DP wuruman-kurrk-  ]]
+line=14345 tag=B-L:                              kuna-kuna-ø         pilari-c-'ara-ø  !uku-in#t#a-ø        wu%uman-kurka-ø
+line=14346 tag=I-L:                              ‹childNL-childNL›-T spill-TH-fAPPR-T water-fOBL-T         billy-fLOC.fOBL-T
+line=14347 tag=I-G:                              ‹child›-Ø           spill-Ø-APPR-Ø   water-EMO-Ø          billy-LOC.EMO-Ø
+line=14348 tag=I-T:                              ‘The kid might spill the water (that is) in the billy.’ [E139.ex.4-18]
+line=14396 tag=B-L:                     (6.128)  a.  karndi-rnurru-walad      b.  karndi-wala-nurru-
+line=14397 tag=B-L:                                  ka&"i-&uru-palat#-ta         ka&"i-palat#-&uru-a
+line=14398 tag=I-G:                                  wife-fASSOC-fPL-T            wife-fPL-fASSOC-T
+line=14399 tag=I-T:                                  wife-ASSOC-PL-Ø              wife-PL-ASSOC-Ø
+line=14400 tag=I-T:                                  ‘many (men)  with wives’     ‘(man) with many  wives’ (E106.ex.3-23a,b)
+line=14563 tag=B-L:                     (6.136) Kariya-th-u-         jingkar-maru-th-u-,     diya--n-ngarrba-wu-
+line=14564 tag=I-L:                             ka%ia-t#-kuu-ø       ci!ka%-ma%u-t#-kuu-ø    "ia-c-n-!arpa-kuu-ø
+line=14565 tag=I-G:                             conceal-TH-fPROP-T   scrub-fDAT-TH-fPROP-T   eat-TH-‹N-fCONS›-fPROP-T
+line=14566 tag=I-G:                             conceal-Ø-POT-Ø      scrub-DAT-Ø-POT-Ø       eat-Ø-‹ANTE›-FUT-Ø
+line=14567 tag=I-L:                            janangkurri-ngarrba-wu-    Murdumurdu-waan-ju-
+line=14568 tag=I-G:                            cana!kuri-!arpa-kuu-ø      mu"umu"u-wa('-kuu-ø
+line=14569 tag=I-L:                            goat-fCONS-fPROP-T         (place name)-fORIG-fPROP-T
+line=14570 tag=I-G:                            goat-ANTE-FUT-Ø            (place name)-ORIG-FUT-Ø
+line=14571 tag=I-T:                            ‘He will conceal in the scrub (the ones) from Murdumurdu who have eaten the
+line=14572 tag=I-T:                            goat.’ [E1987-9-1]
+line=14595 tag=B-L:                     (6.138)  Kurthurr-a  daraa--ny-arra-         ngambu-nth-  .
+line=14596 tag=I-L:                              ku%t#ur-a   "a%a-i-t#-'ara-ø        !ampu-in#t#a-ø
+line=14597 tag=I-G:                              shin-T      break-fMID-TH-fAPPR-T   well-fOBL-T
+line=14598 tag=I-G:                              shin-Ø      break-MID-Ø-APPR-Ø      well-EMO-Ø
+line=14599 tag=I-T:                              ‘You might break your leg in the well.’ [W1960]
+line=14616 tag=B-L:                     (6.140)  Kuna~wuna-          bilarri--nyarra- nguku-ntha-   wuruman-kurrk-.
+line=14617 tag=B-L:                              kuna-kuna-ø         pilari-c-'ara-ø  !uku-in#t#a-ø wu%uman-kurka-ø
+line=14618 tag=I-L:                              ‹childNL-childNL›-T spill-TH-fAPPR-T water-fOBL-T  billy-fLOC.fOBL-T
+line=14619 tag=I-G:                              ‹child›-Ø           spill-Ø-APPR-Ø   water-EMO-Ø   billy-LOC.EMO-Ø
+line=14620 tag=I-T:                              ‘The kid might spill the water (that is) in the billy.’ [E139.ex.4-18]
+line=14634 tag=B-L:                     (6.142)   Dan-kiy-a    kuna~wuna-y-a            rika-walath-ij-iy-a
+line=14635 tag=B-L:                               "an-ki-a     kuna-kuna-ki-a           %ika-palat#-ic-ki-a
+line=14636 tag=I-L:                               this-fLOC-T  ‹childNL-childNL›-fLOC-T cold-‹fPL-fSAME›-fLOC-T
+line=14637 tag=I-G:                               this-EMP-Ø   ‹child›-EMP-Ø            cold-‹EVERY›-EMP-Ø
+line=14638 tag=I-L:                              ngiju-wa-       kari-j-uu-nth-!
+line=14639 tag=B-L:                              !icu-pa-ø       ka%i-c-kuu-in#t#a-ø
+line=14640 tag=I-G:                              1sg-fCOMP-T     cover-TH-fPROP-fOBL-Ø
+line=14641 tag=I-G:                              1sg-COMP-Ø      cover-Ø-POT-COMP-Ø
+line=14642 tag=I-T:                              ‘I’ll cover up these children who are all cold!’ [R2005-jul19a]
+line=14664 tag=B-L:                     (6.145)  [DP Mutha-y-a    wuran-ki-  ]  bi-l-da  dalwani-ja   barrngka-y- .
+line=14665 tag=I-L:                                  mut#a-ki-a   wu%an-ki-a    pi-l-ta  "alwai-ca    par!ka-ki-a
+line=14666 tag=I-G:                                  much-fLOC-T  food-fLOC-T   3-pl-T   dig up-TH.T  lily-fLOC-T
+line=14667 tag=I-G:                                  much-INS-Ø   foot-INS-Ø    3-pl-Ø   dig up-ACT   lily-INS-Ø
+line=14668 tag=I-T:                              ‘They dug up a lot of food, lily roots.’ [E251.ex.6-36]
+line=14693 tag=B-L:                            wumpu%u!-&uru-a    wa!alk-&uru-a        pi-l-ta
+line=14694 tag=I-G:                            spear-fASSOC-T     boomerang-fASSOC-T   3-pl-T
+line=14695 tag=I-T:                            spear-ASSOC-Ø      boomerang-ASSOC-Ø    3-pl-Ø
+line=14696 tag=I-T:                            ‘They have spears and boomerangs with them.’ [W1960; E250.ex.6-34]
+line=14697 tag=B-M:                    (6.147)   Disjunction
+line=14698 tag=I-L:                              Nguku-maru-tha             darrbuu-ja     mala-maru-th.
+line=14699 tag=I-L:                              !uku-ma%u-t#a              "arpu(-ca      mala-ma%u-t#a
+line=14700 tag=I-G:                              freshwater-fDAT-TH.T       drag-TH.T      sea-fDAT-TH.T
+line=14701 tag=I-G:                              freshwater-DAT-ACT         drag-ACT       sea-DAT-ACT
+line=14702 tag=I-T:                              ‘(People) drag (boats) into freshwater or into the sea.’ [R2005-jul19b]
+line=14713 tag=B-L:                               "at#ina   kuna-kuna-ø         wa'ci(-c-ki-%i          "apar-ki-%i
+line=14714 tag=I-G:                               that.T    ‹childNL-childNL›-T ascend-TH-fLOC-fALL.T   tree-fLOC-fALL.T
+line=14715 tag=I-T:                               that      ‹child›-Ø           ascend-Ø-Ø-DIR          tree-Ø-DIR
+line=14739 tag=B-L:                              Ki-l-da   malba-a    burldi-ja       birrk- !
+line=14740 tag=I-L:                              ki-l-ta   malpa-a    pu%"i-ca        pirk-a
+line=14741 tag=I-L:                              2-pl-T    grass-T    roll-TH.T       string-T
+line=14742 tag=I-G:                              2-pl-Ø    grass-Ø    roll-IMP        string-Ø
+line=14743 tag=I-T:                              ‘You all roll some grass string!’ [W1960]
+line=14754 tag=B-L:                               Nga-da        kurri-ja    banga-y-a        bartha-y-a
+line=14755 tag=B-L:                               !at#-ta       kuri-ca     pa!a-ki-a        pa%t#a-ki-a
+line=14756 tag=I-G:                               1sg-T         see-TH.T    turtle-fLOC-T    track-fLOC-T
+line=14757 tag=I-G:                               1sg-Ø         see-ACT     turtle-INS-Ø     track-INS-Ø
+line=14758 tag=I-T:                               ‘I saw a turtle track’ [E248.fn.6]
+line=14770 tag=B-L:                              ku"a-ki-a         wi"i-ca        mutin-ki-a           cu!arpa-ki-a
+line=14771 tag=I-G:                              coolamon-fLOC-T   stay-TH.T      tied together-fLOC-T big-fLOC-T
+line=14772 tag=I-T:                              coolamon-INS-Ø    stay-ACT       tied together-INS-Ø  big-INS-Ø
+line=14773 tag=B-L:                             bardangu-y-a   kurda-y- ].
+line=14774 tag=B-L:                             pa"a!u-ki-a    ku"a-ki-a
+line=14775 tag=I-L:                             large-fLOC-T   coolamon-fLOC-T
+line=14776 tag=I-G:                             large-INS-Ø    coolamon-INS-Ø
+line=14777 tag=I-T:                             ‘(They) stay in the coolamon, in the great big, bound coolamon.’
+line=14788 tag=B-L:                              "at#ina   ca"i-wut#i'-ta    pati-ca     cul-ki-a      wu%an-ki-a
+line=14789 tag=B-L:                              that.T    group-PLENTY-T    carry-TH.T  bone-fLOC-T   food-fLOC-T
+line=14790 tag=I-G:                              that      group-PLENTY-Ø    carry-ACT   bone-INS-Ø    food-INS-Ø
+line=14791 tag=I-T:                              ‘All those (ants) are carrying a bone.’ [E244.ex.6-20]
+line=14798 tag=B-M:                     (6.157)  ‘Juxtapositional idiom’ (Evans 1995a: 297)
+line=14799 tag=I-L:                              Nga-da   kurri--nang-ku-      kirrk-u-       mibur-u-
+line=14800 tag=B-L:                              !at#-ta  kuri-c-na!-kuu-ø     kirk-kuu-ø     mipu%-kuu-ø
+line=14801 tag=I-G:                              1sg-T    see-TH-fNEG-fPROP-T  ‹nose-fPROP-T  eye-fPROP-T›
+line=14802 tag=I-G:                              1sg-Ø    see-Ø-NEG-POT-Ø      ‹face-FUT-Ø    ›
+line=14803 tag=I-L:                               bi-rr-wan-ju- .
+line=14804 tag=I-L:                               pi-r-pa'-kuu-ø
+line=14805 tag=I-G:                               3-du-fPOSS-fPROP-T
+line=14825 tag=B-L:                              kuri-ca   "a!ka-palat#-ta            wirka-c-n-ta    "a!ka-a
+line=14826 tag=I-G:                              see-TH.T  person-fPL-T               dance-TH-fN-T   person- T
+line=14827 tag=I-G:                              see-IMP   person-PL-Ø                dance-Ø-PROG-Ø  person -Ø
+line=14828 tag=I-T:                            maku-wala-daNUM:PL!
+line=14829 tag=B-L:                            maku-palat#-ta
+line=14830 tag=I-G:                            woman-fPL-T
+line=14831 tag=I-G:                            woman-PL-Ø
+line=14832 tag=I-T:                            ‘Look the people, the dancing people, the women!’ [W1960]
+line=14849 tag=B-L:                     (6.161)  Kuliya--n !           [DP Mutha-a   malba-a  ]  ki-l-da  burldi-j-i-,
+line=14850 tag=I-L:                              kulia-t#-na               mut#a-a   malpa-a     ki-l-ta  pu%"i-c-ki-ø
+line=14851 tag=I-G:                              do plenty-TH-fNEG.T       much-T    grass-T     2-pl-T   roll-TH-fLOC-T
+line=14866 tag=B-L:                             mi&kin-ta    kapa-i-t#a          cu!ara-ø  mi&kin-ta
+line=14867 tag=I-G:                             yam-T        find-fMID-TH.T      big-T     yam-T
+line=14868 tag=I-T:                             yam-T        find-MID-ACT        big-Ø     yam-T
+line=14913 tag=B-L:                     (6.163)  Nga-da   wirdi-ja   dan-da,   natha-y-.
+line=14914 tag=B-L:                              !at#-ta  wi"i-ca    "an-ta    &at#a-ki-a
+line=14915 tag=I-G:                              1sg-T    stay-TH.T  here-T    camp-fLOC-T
+line=14916 tag=I-G:                              1sg-Ø    stay-ACT   here-Ø    camp-INS-Ø
+line=14917 tag=I-T:                              ‘I stay here in the camp.’ [E211.ex.5-45]
+line=14924 tag=B-L:                    (6.164)  [ Ngum-ban-ji-na        thabuju--na  ],   Wili-karr.
+line=14925 tag=B-L:                               !u!-pa'-ki-naa-ø      t#apucu-ki-naa-ø  wili-kara
+line=14926 tag=I-G:                               2sg-fPOSS-fLOC-fABL-T e.Br-fLOC-fABL-T  (name)-fGEN.T
+line=14927 tag=I-G:                               2sg-Ø-Ø-ABL-Ø         e.Br-Ø-ABL-Ø      (name)-GEN
+line=14928 tag=I-T:                             ‘(The song is) your elder brother’s, Willy’s.’ [R2007-may22]
+line=14932 tag=B-L:                    (a)  Nga-l-da  dan-kiy-a    wirdi-ja   yulkaan-d.
+line=14933 tag=I-G:                         1-pl-T    here-fLOC-T  stay-TH.T  permanently-T
+line=14934 tag=I-G:                         1-pl-Ø    here-INS-Ø   stay-ACT   permanently-Ø
+line=14935 tag=I-T:                                                                          ‘We’re here permanently.’
+line=14959 tag=B-L:                     (6.165)  Modification
+line=14960 tag=I-L:                              Nga-da   jungarra-wu-    karna-j-u-         kaburrba-wu-.
+line=14961 tag=B-L:                              !at#-ta  cu!arpa-kuu-ø   ka&a-c-kuu-ø       kapurpa-kuu-ø
+line=14962 tag=I-G:                              1sg-T    big-fPROP-T     light-TH-fPROP-T   fire-fPROP-T
+line=14963 tag=I-G:                              1sg-Ø    big-FUT-Ø       light-Ø-POT-Ø      fire-FUT-Ø
+line=14964 tag=I-T:                              ‘I want to light a big fire.’ [E250.ex.6-31]
+line=14965 tag=B-M:                    (6.166) Modification
+line=14966 tag=I-L:                            Nga-da   kiyarrng-ku-  kala-th-u-     [DP wumburung-ku-
+line=14967 tag=B-L:                            !at#-ta  kiar!-kuu-ø   kala-t#-kuu-ø      wumpu%u!-kuu-ø
+line=14968 tag=I-G:                            1sg-T    two-fPROP-T   cut-TH-fPROP-T     boomerang-fPROP-T
+line=14969 tag=I-G:                            1sg-Ø    two-FUT-Ø     cut-Ø-POT-Ø        boomerang-FUT-Ø
+line=14970 tag=I-T:                            mirra-wu- ] .
+line=14978 tag=B-L:                              !at#-ta      cu!arpa-kuu-ø  jaku%i-kuu-ø  "ia-c-kuu-ø      "at#in-kuu-ø
+line=14979 tag=I-G:                              1sg-T        big-fPROP-T    fish-fPROP-T  eat-TH-fPROP-T   that-fPROP-T
+line=14980 tag=I-G:                              1sg-Ø        big-FUT-Ø      fish-FUT-Ø    eat-Ø-POT-Ø      that-FUT-Ø
+line=14981 tag=I-T:                              ‘I want to eat that big fish.’ [E249.ex.6-29]
+line=15002 tag=B-M:                     (6.168)  Elaboration
+line=15003 tag=I-L:                              Jungarrba-yarrng-ka    ki-rr-a kalaa--ja,
+line=15004 tag=I-L:                              cu!arpa-kiar!-ka       ki-r-a  kala-i-t#a
+line=15005 tag=I-G:                              big-fDU-T              2-du-T  cut-fMID-TH.T
+line=15093 tag=B-M:                     (6.172)  (Not  juxtaposition)
+line=15094 tag=I-L:                              Nga-l-da   marri-ja   kang-ki-      [DPHIGH jungarra--na-
+line=15095 tag=B-L:                              !a-l-ta    mari-ca    ka!-ki-a              cu!ara-ki-naa-ø
+line=15096 tag=I-G:                              1-pl -T    hear-TH.T  story-fLOC-T          big-fLOC-fABL-T
+line=15097 tag=I-G:                              1-pl-Ø     hear-ACT   story-INS-Ø           big-Ø-ABL-Ø
+line=15098 tag=I-L:                              dangka--na-  ].
+line=15099 tag=I-L:                              "a!ka-ki-naa-ø
+line=15100 tag=I-G:                              person-fLOC-fABL-T
+line=15101 tag=I-G:                              person-Ø-ABL-Ø
+line=15102 tag=I-T:                              ‘We  heard the story from the old people.’ [E143.ex.4-35; 605.line.35]
+line=15129 tag=B-L:                                 mut#a-a    wu%an-ta    pa%ci-ca          mala-wa('-ta
+line=15130 tag=I-G:                                 many-T     animal-T    fall-TH.T         sea-fORIG-T
+line=15131 tag=I-T:                                 many-Ø     animal-Ø    fall-ACT          sea-ORIG-Ø
+line=15139 tag=B-L:                                          !ampu-wa('-kuu-ø     "ia-c-na!-kuu-ø      !uku-ku%u-a
+line=15140 tag=I-G:                                          well-fORIG-fPROP-T   eat-TH-fNEG-fPROP-T  water-fPROP-T
+line=15141 tag=I-G:                                          well-ORIG-FUT-Ø      eat-Ø-NEG-POT-Ø      water-FUT-Ø
+line=15142 tag=I-T:                             ‘(At that place) you can’t drink water from the well.’ [R2007-may29]
+line=15185 tag=B-L:                                  !imi-wa('-kuu-ø     wu%an-kuu-ø                 ku"ala-t#-iri'-kuu-ø
+line=15186 tag=I-G:                                  night-fORIG-fPROP-T food-fPROP-T              spear-TH-fRES-fPROP-Ø
+line=15187 tag=I-T:                                  night-ORIG-PROP-Ø   food-PROP-Ø               spear-Ø-RES-PROP-Ø
+line=15188 tag=B-L:                              ngimi-waan-ji-naba-wu-           kanthathu--naba-wu-]]]]].
+line=15189 tag=I-L:                              !imi-wa('-ki-napa-kuu-ø          kan#t#at#u-ki-napa-kuu-ø
+line=15190 tag=I-G:                              night-fORIG-fLOC-fABL-fPROP-T    father-fLOC-fABL-fPROP-T
+line=15191 tag=I-T:                              night-ORIG-Ø-ABL-PROP-Ø          father-Ø-ABL-PROP-Ø
+line=15192 tag=I-T:                               ‘(The newborn was rubbed) with lots of grease, lots of greasy food, with food
+line=15193 tag=I-T:                              (speared) by (the light of) a bark torch, with food (speared) at night-time,
+line=15194 tag=I-T:                              speared by (the baby’s) father at night-time.’ [E116.ex.3-52]
+line=15207 tag=B-L:                              "at#ina   "a!ka-a         !icu-i'-wari-a    wakat#a-wari-a
+line=15208 tag=I-G:                              that.T    person-T        1sg-fPOSS-fPRIV-T sister-fPRIV-T
+line=15209 tag=I-G:                              that      person-Ø        1sg-POSS-PRIV-Ø   sister-PRIV-Ø
+line=15210 tag=I-L:                               kirrk-a  miburl-d.
+line=15211 tag=I-L:                               kirk-ka  mipu%-ta
+line=15212 tag=I-G:                               ‹nose-T  eye-T›
+line=15213 tag=I-G:                               ‹face-Ø  ›
+line=15214 tag=I-T:                               ‘That person does not look like my sister (lit. does not have my sister’s face).’
+line=15219 tag=B-L:                             "an-ta        !icu-i'-wari-a    wa!alk-ka    &i-pa'-ta   wa!alk-ka
+line=15220 tag=I-G:                             this-T        1sg-fPOSS-fPRIV-T boomerang-T  3sg-fPOSS-T boomerang-T
+line=15221 tag=I-G:                             this-Ø        1sg-POSS-PRIV-Ø   boomerang-Ø  3sg-POSS-Ø  boomerang  -Ø
+line=15222 tag=I-T:                             ‘This isn’t my boomerang, it’s his boomerang’ [W1960]
+line=15237 tag=B-L:                              cu!ara-ø   wampal-ta   "at#ina        ku'a-wari-a     wampal-ta
+line=15238 tag=I-G:                              big-T      bushfire-T  that.T         small-fPRIV-T   bushfire-T
+line=15239 tag=I-T:                              big-Ø      bushfire-Ø  that           small-PRIV-Ø    bushfire-Ø
+line=15240 tag=I-T:                              ‘It’s a big bushfire. That’s not a small bushfire.’ [E1984-08-04]
+line=15288 tag=B-L:                              kapurpa-wa('-kuu-ø      "ia-c-kuu-ø        wu%an-kuu-ø
+line=15289 tag=I-G:                              coals-fORIG-fPROP-T     eat-TH-fPROP-T     food-fPROP-T
+line=15290 tag=I-T:                              coals-ORIG-FUT-Ø        eat-Ø-POT-Ø        food-FUT-Ø
+line=15313 tag=B-L:                     (a) Warra-j-uu-ntha-     ngiju-wa-     [VP bardaka-ntha-
+line=15314 tag=I-L:                         wara-c-ku(-n#t#a-ø   !icu-pa-ø         pa"aka-n#t#a-ø
+line=15315 tag=I-G:                         go-TH-fPROP-fOBL-T   1sg-fCOMP-T       belly-fOBL-T
+line=15316 tag=I-G:                         go-Ø-POT-COMP-Ø      1sg-COMP-Ø        belly-COMP-Ø
+line=15317 tag=I-T:                                                                                        603
+line=15321 tag=B-L:                     (6.187)  Bi-l-da  maarra-    ngankirra-     warra-j.
+line=15322 tag=I-L:                              pi-l-ta  ma(ra-ø    !ankira-ø      wara-ca
+line=15323 tag=I-G:                              3-pl-T   all-T      as a group-T   go-TH.T
+line=15324 tag=I-G:                              3-pl-Ø   all-Ø      as a group -Ø  go-ACT
+line=15325 tag=I-T:                              ‘They (the fish) all swim in a group.’ [R2005-jul29b]
+line=15333 tag=B-L:                      (a)  wu-yii-j-i-ring-kuu-nth- ]
+line=15334 tag=I-L:                           wu(-i-c-ki-%i!-ku(-n#t#a-ø
+line=15335 tag=I-G:                           put-fMID-TH-fLOC-fALL-fPROP-fOBL-T
+line=15336 tag=I-G:                           put-MID-Ø-Ø-DIR-FUT-COMP-Ø
+line=15337 tag=I-T:                           ‘I will go to eat’, lit. ‘to put (food) in my belly.’ [R2005-jul21]
+line=15512 tag=B-L:                     (6.195)  Bana   wirril-inja-      ngiju-wa-     karba~karba-ru--d  .
+line=15513 tag=I-L:                              pana   wiril-i&ca-ø      !icu-pa-ø     ka%pa-ka%pa-%u-t#-ta-ø
+line=15514 tag=I-G:                              and.T  leaf-fOBL-T       1sg-fCOMP-T   ‹dryNL-dryNL›-fFACT-TH-fDES-T
+line=15532 tag=B-L:                     (6.199)  Minyi-     wumburu-warri-     thaa-tha     bi-l-da  ba-lung-ka
+line=15533 tag=I-L:                              mi'i-a     wumpu%u!-wari-ø    t#aa-t#a     pi-l-ta  pat#-%u!-ka
+line=15534 tag=I-G:                              and so-T   spear-fPRIV-T      return-TH.T  3-pl-T   west-fALL-T
+line=15535 tag=I-T:                              and so-Ø   spear-PRIV-Ø       return-ACT   3-pl-Ø   west-ALL-Ø
+line=15544 tag=B-L:                    (6.200)  Yakuri-wuu-ntha-    warra-j-uu-ntha,    bana  marrbi-
+line=15545 tag=I-L:                             jaku%i-kuu-in#t#a-ø wara-c-kuu-in#t#a-ø pana  marpi-a
+line=15546 tag=I-G:                             fish-fPROP-fOBL-T   go-TH-fPROP-fOBL-T  and.T maybe-T
+line=15547 tag=I-T:                             fish-POT-COMP-Ø     go-TH-POT-COMP-Ø    and   maybe-Ø
+line=15548 tag=I-L:                              bijarrba-wuu-ntha-     ngiju-wa-      kaba-th-uu-ntha-
+line=15549 tag=I-L:                              picarpa-kuu-in#t#a-ø   !icu-pa-ø      kapa-t#-kuu-in#t#a-ø
+line=15550 tag=I-G:                              dugong-fPROP-fOBL-T    1sg-fCOMP-T    find-TH-fPROP-fOBL-T
+line=15551 tag=I-G:                              dugong-POT-COMP-Ø      1sg-COMP-Ø     find-TH-POT-COMP-Ø
+line=15552 tag=I-T:                              ‘I’ll go to the fish and maybe I’ll find dugong.’ [R2005-aug02a]
+line=15560 tag=B-L:                             &alku"ala(jarpa-kuu-   !uku-ku%u-ø    "ia-c-kuu-ø    ma%aka-ø
+line=15561 tag=I-G:                             (place name)-fPROP-T   water-fPROP-T  eat-TH-fPROP-T CTRFCT-ø
+line=15562 tag=I-G:                             (place name)-FUT-Ø     water-FUT-Ø    eat-Ø-POT-Ø    CTRFCT-T
+line=15563 tag=I-T:                             ‘(The horse) should have drunk at Nalkurdalaayarrb.’ [E1987-09-01]
+line=15578 tag=B-L:                              wu!i-c-iri'-ki-a      wu%an-ki-a   pana    !uruwara-palat#-ki-a
+line=15579 tag=I-G:                              steal-TH-fRES-fLOC-T  food-fLOC-T  and.T   fishtrap-fPL-fLOC-T
+line=15580 tag=I-T:                              steal-Ø-RES-EMP-Ø     food-EMP-Ø   and     fishtrap-EMP-Ø
+line=15581 tag=I-T:                              ‘(Look at this) poached food and fishtraps!’ [R2005-jul19a]
+line=15582 tag=B-L:                    (6.205) Mutha-a   ngambu-,  bana   ngarn-d,  bana   wambal-d.
+line=15583 tag=I-L:                            mut#a-a   !ampu-a   pana   !a&-ta    pana   wampal-ta
+line=15584 tag=I-G:                            many-T    well-T    and.T  beach-T   and.T  bush-T
+line=15585 tag=I-T:                            many-Ø    well-Ø    and    beach-Ø   and    bush-Ø
+line=15586 tag=I-T:                            ‘There are lots of wells, both beach ones, and bush ones.’ [E395.ex.9-335]
+line=15587 tag=B-L:                    (6.206)  Kurri-ja  manarr-i,         maraka-    dangka-karran-ji-,
+line=15588 tag=B-L:                             kuri-ca   manar-ki-a        ma%aka-ø   "a!ka-kara'-ki-a
+line=15589 tag=I-L:                             see-TH.T  bark torch-fLOC-T CTRFCT-ø   man-fGEN-fLOC-T
+line=15590 tag=I-G:                             see-IMP   bark torch-INS-Ø  CTRFCT-T   man-GEN-INS-Ø
+line=15591 tag=I-L:                              birra    ni-wan-ji- .
+line=15592 tag=I-L:                              pira     ni-pa'-ki-a
+line=15593 tag=I-G:                              ALSO.T   3sg-fPOSS-fLOC-T
+line=15594 tag=I-G:                              ALSO     3sg-POSS-INS-Ø
+line=15595 tag=I-T:                              ‘(They) saw a bark torch, and wrongly thought it was the man’s, that it too was
+line=15596 tag=I-T:                              his.’ [E379.ex.9-256]
+line=15598 tag=B-L:                     (6.207)  Dathina   dangka-a   maraka-    ngij-in-da   kanthathu-
+line=15599 tag=B-L:                              "at#ina   "a!ka-a    ma%aka-ø   !icu-i'-ta   kan#t#at#u-a
+line=15600 tag=I-G:                              that.T    man-T      CTRFCT-ø   1sg-fPOSS-T  father-T
+line=15607 tag=B-L:                     (6.208)  Jatha-a   kuna~wuna-          ngaarrngi-j-, marrbi-  yarbu-d,
+line=15608 tag=I-L:                              cat#a-a   kuna-kuna-ø         !a(r!i-ca     marpi-a  ja%put#-ta
+line=15609 tag=I-G:                              other-T   ‹childNL-childNL›-T presage-TH.T  maybe-T  snake-T
+line=15610 tag=I-T:                              other-Ø   ‹child›-Ø           presage-ACT   maybe-Ø  snake-Ø
+line=15617 tag=B-L:                     (6.209)   Ngirri~ngirriy-a          ngudii--ja         bi-l-d, mutha-a
+line=15618 tag=I-L:                               !iri-!iri-a               !uti-i-ca          pi-l-ta mut#a-a
+line=15619 tag=I-G:                               ‹splayingNL-splayingNL›-T throw-fMID-TH.T    3-pl-T  many-T
+line=15620 tag=I-G:                               ‹splaying›-Ø              throw-MID-ACT      3-pl-Ø  many-Ø
+line=15621 tag=I-L:                            dangka-a,  namu     warngii-da, mutha-a   dangka-a.
+line=15622 tag=B-L:                            "a!ka-a    namuu-ø  wa%!i(c-ta  mut#a-a   "a!ka-a
+line=15623 tag=I-G:                            man-T      no-ø     one-T       many-T    man-T
+line=15624 tag=I-T:                            man-Ø      no-T     one-Ø       many-Ø    man-Ø
+line=15625 tag=I-T:                            ‘They (the initiates) are thrown out (into the water), many men, not one,
+line=15626 tag=I-T:                            many men.’ [R2005-jul21]
+line=15633 tag=B-L:                    (6.211)  Nga-da     ban .
+line=15634 tag=I-G:                             !at#-ta    pana
+line=15635 tag=I-L:                             1sg-T      ALSO.T
+line=15636 tag=I-G:                             1sg-Ø      ALSO
+line=15637 tag=I-T:                             ‘Me  too.’ [E395.ex.9-334]
+line=15638 tag=B-L:                    (6.212)  Dangka-wala     birra    wirdi-ja, mutha-a    dangka-a.
+line=15639 tag=B-L:                             "a!ka-pala      pira     wi"i-ca   mut#a-a    "a!ka-a
+line=15640 tag=I-G:                             person-fPL.T    ALSO.T   be-TH.T   many-T     person-T
+line=15658 tag=B-L:                     (6.214)  Dirra-yarbuth-iy-a   bayambaya-     kurirrwa-tha  kuna-wala-d  !
+line=15659 tag=B-L:                              "ira-ja%put#-ki-a    pajampaja-ø    ku%irwa-t#a   kuna-palat#-ta
+line=15660 tag=I-L:                              ‹rain-animal›-fLOC-T WARNING-T      die-TH.T      childNL-fPL-T
+line=15661 tag=I-G:                              ‹cyclone›-INS-Ø      WARNING-Ø      die-ACT       child-PL-Ø
+line=15662 tag=I-T:                              ‘The children could die in the cyclone.’ [R2005-aug02a]
+line=15663 tag=B-L:                    (6.215)  Nga-da    namu-      kurri-ja   kakuju- . 78
+line=15664 tag=B-L:                             !at#-ta   namuu-ø    kuri-ca    kakucu-a
+line=15665 tag=B-L:                             1sg-T     no-ø       see-TH.T   MoBr-T
+line=15666 tag=I-G:                             1sg-Ø     no-T       see-ACT    MoBr-Ø
+line=15667 tag=I-T:                             ‘I didn’t see at my uncle’. [2005-jun29]
+line=15682 tag=B-L:                    (6.216)  Namu-     kamburi-j-u-      wirdi-j-u-       nga-ku-l-d.
+line=15683 tag=B-L:                             namuu-ø   kampu%i-c-kuu-ø   wi"i-c-kuu-ø     !a-ku-l-ta
+line=15684 tag=I-L:                             no-ø      talk-TH-fPROP-T   stay-TH-fPROP-T  1-2-pl-T
+line=15685 tag=I-G:                             no-T      talk-Ø-POT-Ø      stay-Ø-POT-Ø     1-2-pl-Ø
+line=15686 tag=I-T:                             ‘We  won’t stay and talk.’ [R2005-jul21]
+line=15726 tag=B-L:                    (6.218)   Mara      nga-da   kiyamanda81  baa-j-u-,        dan-ku-.
+line=15727 tag=B-L:                              ma%a      !at#-ta  ?kiaman-ta   pa(-c-kuu-ø      "an-kuu-ø
+line=15728 tag=I-G:                              CTRFCT.T  1sg-T    ?            bite-TH-fPROP-T  this-fPROP-T
+line=15729 tag=I-G:                              CTRFCT    1sg-Ø    ?            bite-Ø-fPROP-Ø   this-FUT-Ø
+line=15730 tag=I-L:                             Dan-ku-       mara      kiyamanda   nga-da   baa-j-u-,
+line=15731 tag=B-L:                             "an-kuu-ø     ma%a      ?kiaman-ta  !at#-ta  pa(-c-kuu-ø
+line=15732 tag=I-G:                             this-fPROP-T  CTRFCT.T  ?           1sg-T    bite-TH-fPROP-T
+line=15733 tag=I-G:                             this-FUT-Ø    CTRFCT    ?           1sg-Ø    bite-Ø-fPROP-Ø
+line=15734 tag=I-T:                               kalatharrma-th-u- .
+line=15745 tag=B-L:                    (a)  Bana    maraka-     niy-a   kurdaliya-th-u-.
+line=15746 tag=I-G:                         and     CTRFCT-T    3sg-Ø   cut-Ø-POT-Ø
+line=15747 tag=I-T:                         ‘And he should have cut (the spears)’. [E1984-10-01]
+line=15748 tag=B-L:                    (b)  Bana   nga-ku-l-da  maraka-    kurri-j-uru-y-a
+line=15749 tag=I-G:                         and    1-2-pl-Ø     CTRFCT-T   look-Ø-POT-EMP-Ø
+line=15750 tag=I-T:                         ‘And we should go look (at it).’ [R2005-jul08]
+line=15754 tag=B-L:                    (6.220)  [DP Dan-da  jardiy-a ] maraka-   mungurruw-a      wirdi-j-u- .
+line=15755 tag=B-L:                               "an-ta    ca"i-a    ma%aka-ø   mu!uru-a         wi"i-c-kuu-ø
+line=15756 tag=I-G:                               this-T    group-T   CTRFCT-ø   knowledgeable-T  be-TH-fPROP-T
+line=15757 tag=I-G:                               this- Ø   group-Ø   CTRFCT-T   knowledgeable-Ø  be-Ø-POT-Ø
+line=15758 tag=I-T:                             ‘That lot should have known.’ [R2005-jul08]
+line=15772 tag=B-L:                    (6.221) * Dan-da   maraka-   jardiy-a  mungurruw-a      wirdi-j-u- .
+line=15773 tag=I-G:                              this- Ø  CTRFCT-T  group-Ø   knowledgeable-Ø  be-Ø-POT-Ø
+line=15793 tag=B-L:                      (6.222)  Maarra-    dulk-a   kinaa-j-arri- .
+line=15794 tag=I-L:                               ma(ra-ø    "ulk-ka  kina(-c-wari-a
+line=15795 tag=I-G:                               all-T      place-T  tell-TH-fPRIV-T
+line=15796 tag=I-G:                               all-Ø      place-Ø  tell-Ø-NEG.ACT-Ø
+line=15797 tag=I-T:                               ‘(I) haven’t told you about all the places.’ [E386.ex. 9-289]
+line=15802 tag=B-L:                     (6.223)  Maarra-   thaliy-a   wanjii-j .
+line=15803 tag=I-L:                              ma(ra-ø   t#ali-a    wa'ci(-ca
+line=15804 tag=I-G:                              all-T     laden-T    ascend-TH.T
+line=15805 tag=I-G:                              all-Ø     laden-Ø    ascend-ACT
+line=15806 tag=I-T:                              ‘All (the people) come up carrying something.’ [R2007-may15c]
+line=15811 tag=B-L:                     (6.224)  Dan-da    dulk-a    maarra-     kala-th-irrin-d-.
+line=15812 tag=I-L:                              "an-ta    "ulk-ka   ma(ra-ø     kala-t#-iri'-ta
+line=15813 tag=I-G:                              this-T    place-T   all-T       cut-TH-fRES-T
+line=15814 tag=I-T:                              this-Ø    place-Ø   all-Ø       cut-Ø-RES-Ø
+line=15821 tag=B-L:                     (6.225)  Maarra-     kurri-ja   ngij-in-ji-,        kamburi-j-arri- .
+line=15822 tag=B-L:                              ma(ra-ø     kuri-ca    !icu-i'-ki-a        kampu%i-c-wari-a
+line=15823 tag=I-G:                              all-T       see-TH.T   1sg-fPOSS-fLOC-T    talk-TH-fPRIV-T
+line=15824 tag=I-G:                              all-Ø       see-ACT    1sg-Ø-INS-Ø         talk-Ø-NEG.ACT-Ø
+line=15825 tag=I-T:                              ‘(He) just looked at me without saying anything.’ [E387.ex.9-295]
+line=15831 tag=B-L:                     (6.226)  [DP Dan-da ]  [DP ba-lung-ka ] maarra-    natha-rnurru-walath-i-d .
+line=15832 tag=B-L:                                 "an-ta        pat#-%u!-ka   ma(ra-ø    &at#a-&uru-walat#-ic-ta
+line=15833 tag=I-G:                                 here-T        west-fALL-T   all-T      camp-fASSOC-‹fPL-fSAME›-T
+line=15834 tag=I-G:                                 here-Ø        west-ALL-Ø    all-Ø      camp-ASSOC-‹EVERY›-Ø
+line=15835 tag=I-T:                              ‘Here in the west (it) was all camps.’ [R2007-jul12c]
+line=15895 tag=B-L:                    (6.227)  Niy-a   bu-da      ra-yin-d,     mura-tha          wanjii-j
+line=15896 tag=I-L:                             &i-a    put#-ta    %a-in-ta      mu%a-t#a          wa'ci(-ca
+line=15897 tag=I-G:                             3sg-T   behind-T   south-fFRM-T  graze-TH.T        ascend-TH.T
+line=15898 tag=I-G:                             3sg-Ø   behind-Ø   south-ABL-Ø   graze-ACT         ascend-ACT
+line=15899 tag=I-T:                             ‘(The dugong) is coming behind from the south, coming up to graze.’
+line=15906 tag=B-L:                    (a)  Warngii-da    warra-ja  buth-i-.
+line=15907 tag=I-L:                         wa%!i(c-"a    wara-ca   put#-ki-a
+line=15908 tag=I-L:                         one-T         go-TH.T   behind-fLOC-T
+line=15909 tag=I-G:                         one-Ø         go-ACT    behind-INS-Ø
+line=15910 tag=I-T:                         ‘One (raft) went at the back.’ [R2007-jun01]
+line=15912 tag=B-L:                    (6.228)   Warngii-da  dangka-a   yuu-da    ri-in-d.
+line=15913 tag=I-L:                              wa%!i(c-ta  "a!ka-a    ju(t#-ta  %i-in-ta
+line=15914 tag=I-G:                              one-T       person-T   ahead-T   east-fFRM-T
+line=15915 tag=I-G:                              one-Ø       person-Ø   ahead-Ø   east-ABL-Ø
+line=15916 tag=I-T:                              ‘One man  is up ahead coming from the east.’ [W1960]
+line=15919 tag=B-L:                     (6.229)  Wanku-y-a     dathin-kiy-a  ri-in-kiy-a       buth-urrka-
+line=15920 tag=I-L:                              wanku-ki-a    "at#in-ki-a   %i-in-ki-a        put#-kurka-ø
+line=15921 tag=I-G:                              shark-fLOC-T  that-fLOC-T   east-fFRM-fLOC-T  behind-fLOC.fOBL-T
+line=15922 tag=I-G:                              shark-EMP-Ø   that-EMP-Ø    east-ABL-EMP-ø    behind-PRES.COMP-Ø
+line=15923 tag=I-L:                              jinka-j-urrka-            bi-lu-wan-jurrk-!
+line=15924 tag=I-G:                              cinka-c-kurka-ø           pi-lu-pa'-kurka-ø
+line=15925 tag=I-L:                              follow-TH-fLOC.fOBL-T     3-pl-fPOSS-fLOC.fOBL-T
+line=15926 tag=I-G:                              follow-Ø-IMMED.COMP-Ø     3-pl-Ø-PRES.COMP-Ø
+line=15927 tag=I-T:                              ‘A shark there coming from the east is following behind them!’ [W1960]
+line=15928 tag=B-L:                     (6.230)  Yuuth-u-        jirrkara-wu-    kurri-j-u-        nga-ku-l-d.
+line=15929 tag=B-L:                              ju(t#-kuu-ø     cirka%a-kuu-ø   kuri-c-kuu-ø      !a-ku-l-ta
+line=15930 tag=I-G:                              ahead-fPROP-T   north-fPROP-T   look-TH-fPROP-T   1-2-pl-T
+line=15931 tag=I-G:                              ahead-FUT-Ø     north-FUT-Ø     look-Ø-POT-Ø      1-2-pl-Ø
+line=15932 tag=I-T:                              ‘We’ll look in the north first.’ [E299.ex.8-5]
+line=15938 tag=B-L:                     (6.231)  Niy-a  dali-j-u-          bu-d,   warrku-ntha-   thula-th-uu-ntha- .
+line=15939 tag=B-L:                              &i-a   "ali-c-kuu-ø       put#-ta warku-in#t#a-ø t#ula-t#-kuu-in#t#a-ø
+line=15940 tag=I-G:                              3sg-T  come-TH-fPROP-T    later-T sun-fOBL-T     descend-TH-fPROP-fOBL-T
+line=15941 tag=I-G:                              3sg-Ø  come-ø-POT-Ø       later-Ø sun-COMP-Ø     descend-TH-POT-COMP-Ø
+line=15942 tag=I-T:                              ‘He will come later, when the sun goes down.’ [W1960]
+line=15943 tag=B-L:                     (6.232)  Jatha-a   dangka-a   yuu-da     jaa-j-arra-        wida--na- .
+line=15944 tag=B-L:                              cat#a-a   "a!ka-a    ju(t#-ta   ca(-c-!ara-ø       wita-ki-naa-ø
+line=15945 tag=I-G:                              other-T   person-T   already-T  enter-TH-fCONS-T   hole-fLOC-fABL-T
+line=15946 tag=I-G:                              other-Ø   person-Ø   already-Ø  enter-Ø-PST-Ø      hole-Ø-PRIOR-Ø
+line=15947 tag=I-T:                              ‘Someone  else has already checked this hole (for fish).’ [E299.ex.8-3]
+line=15948 tag=B-L:                    (6.233)   Kirrk-a  ngarrku-wa-th- , bardaka-   naa-j ,
+line=15949 tag=I-L:                              kirk-ka  !arku-wa-t#a     pa"aka-ø   &a(-ca
+line=15950 tag=I-G:                              nose-T   hard-fINCH-TH.T  belly-T    burn-TH.T
+line=15951 tag=I-T:                              nose-Ø   hard-INCH-ACT    belly-Ø    burn-ACT
+line=15952 tag=B-L:                              yuu-da      nga-da   wirdi-ja  bayi-.
+line=15953 tag=B-L:                              ju(t#-ta    !at#-ta  wi"i-ca   pai-a
+line=15954 tag=I-G:                              already-T   1sg-T    be-TH.T   angry-T
+line=15955 tag=I-G:                              already-Ø   1sg-Ø    be-ACT    angry-Ø
+line=15956 tag=I-T:                              ‘My face becomes stern, my stomach burns, already I am becoming angry.’
+line=15977 tag=B-L:                     (6.234)  Bantharr-u-    ngunguk-u-     marri-j-u-        nga-ku-lu-wan-ju-.
+line=15978 tag=B-L:                              pan#t#ar-kuu-ø !u!uk-kuu-ø    mari-c-kuu-ø      !a-ku-lu-pa'-kuu-ø
+line=15979 tag=I-G:                              some-fPROP-T   story-fPROP-T  listen-TH-fPROP-T 1-2-pl-fPOSS-fPROP-T
+line=16018 tag=B-L:                             !at#-ta cu!ara-kuu-ø  wa!alk-kuu-ø        parki-c-kuu-ø
+line=16019 tag=I-G:                             1sg-T   big-fPROP-T   boomerang-fPROP-T   cut-TH-fPROP-T
+line=16020 tag=I-G:                             1sg-Ø   big-FUT-Ø     boomerang-FUT-Ø     cut-Ø-POT-Ø
+line=16021 tag=I-M:                              dangka-walany-marra-wu-        bala--n-ku-.
+line=16022 tag=I-L:                              "a!ka-palat#-mara-kuu-ø        pala-t#-n-kuu-ø
+line=16023 tag=I-G:                              person-fPL-fUTIL-fLOC-T        kill-TH-fN-fPROP-T
+line=16024 tag=I-G:                              person-PL-FUNC-FUT-Ø           kill-Ø-PROG-FUT-Ø
+line=16025 tag=I-T:                              ‘I will cut a big boomerang for killing people.’ [W1960]
+line=16056 tag=B-L:                              panki-walat#-&uru-ki-a        kurumpu-ku%u-ø        ku"ala-t#a
+line=16057 tag=I-G:                              lagoon-fPL-fASSOC-fLOC-T      fish spear-fPROP-T    spear-TH.T
+line=16058 tag=I-G:                              lagoon-PL-ASSOC-INS-Ø         fish spear-PROP-Ø     spear-ACT
+line=16059 tag=I-T:                              ‘(People) speared (fish) with a fish spear, at places with lots of lagoons.’
+line=16076 tag=B-L:                             Maarra   natha-rnurru-walath-i-na-     ngarn-d.
+line=16077 tag=B-L:                             ma(ra    &at#a-&uru-walat#-ki-naa-ø    !a&-ta
+line=16078 tag=I-G:                             all.T    camp-fASSOC-fPL-fLOC-fABL-T   beach-T
+line=16079 tag=I-G:                             all      camp-ASSOC-PL-Ø-ABL-Ø         beach-Ø
+line=16080 tag=I-T:                             ‘Everyone from lots of places with camps was on the beach’ [R2005-jul12c]
+line=16088 tag=B-M:                     (6.244)  CASE–TH-TAM–NUMBER
+line=16089 tag=I-L:                              Nga-ku-l-da  raa-j-uru-y-a           dathin-kiyarrng-ka
+line=16090 tag=B-L:                              !a-ku-l-ta   %a(-c-ku%u-ki-a         "at#in-kiar!-ka
+line=16091 tag=I-G:                              1-2-pl-T     spear-TH-fPROP-fLOC-T   that-fDU-T
+line=16092 tag=I-T:                              1-2-pl-ø     spear-Ø-POT-EMP-Ø       that-DU-Ø
+line=17779 tag=B-L:                                d. ma-nguni-               e.  wa-yulmpurr-            f.  ri-warri-
+line=17780 tag=I-L:                               k-! /ma!uni-/              k-j  /wajulmpur-/           k-w  /%iwari-/
+line=17781 tag=I-L:                                   /mak-!uni-/                 /wak-julmpur-/              /%ik-wari-/
+line=17782 tag=I-G:                                   torch-fINST-                call-long-                  cry-fPRIV-
+line=17783 tag=I-T:                                   ‘torch-INST’                ‘long call’                 ‘cry-fPRIV’
+line=17875 tag=B-L:                                  /ma%-"i!kar-/               /mipu%-%a(-c-iri'-/
+line=17876 tag=I-G:                                  hand-long-                  eye-spear-TH-fRES-
+line=17877 tag=I-T:                                  ‘long-handed’               ‘speared in the eye’
+line=17878 tag=B-L:                                                                                 c.   mar-thungal-uru-
+line=17879 tag=I-L:                                                                                 %-t# /ma%t#u!alu%u/
+line=17880 tag=I-L:                                                                                      /ma%-t#u!al-ku%u/
+line=17881 tag=I-G:                                                                                      hand-thing-fPROP
+line=17882 tag=I-T:                                                                                      ‘having  something
+line=17906 tag=B-L:                              a.   yarl-nurru-         b.    yar-maru-th-         c.   yar-waany-
+line=17907 tag=I-L:                             %k-&  /ja%&uru-/          %k-m  /ja%ma%ut#-/       %k-w   /ja%wa('-/
+line=17908 tag=I-L:                                   /ja%k-&uru-/              /ja%k-ma%u-t#-/           /ja%k-wa('-/
+line=17909 tag=I-G:                                   below-fASSOC-             below-fDAT-TH-            below-fORIG-
+line=17910 tag=I-T:                                   ‘below-ASSOC’             ‘below-DAT-ø’             ‘below-ORIG’
+line=17957 tag=B-L:                             a.   wangal-nurru-        b.    marda-la-th-
+line=17958 tag=I-L:                            lk-&  /wa!alnuru-/         lk-%  /ma"ala-t#-/
+line=17959 tag=I-L:                                  /wa!alk-&uru-/             /ma"alk-%a-t#-/
+line=17960 tag=I-G:                                  boomerang-fASSOC-          mud-fRATH-TH-
+line=17961 tag=I-T:                                  ‘boomerang-ASSOC’          ‘paint OBJ’
+line=17962 tag=B-L:                                                                                             c.   dul-thalkuru-
+line=17963 tag=I-L:                                                                                            lk-t# /"ult#alku%u-/
+line=17964 tag=I-L:                                                                                                  /"ulk-t#alku%u-/
+line=17965 tag=I-G:                                                                                                  dirt-fLADEN-
+line=17966 tag=I-T:                                                                                                  ‘dirt-besmirched’
+line=17967 tag=B-L:                                d.   birrjil-jungarra-
+line=17968 tag=I-G:                               lk-c  /pircilcu!ara/
+line=17969 tag=I-L:                                     /pircilk-cu!ara-/
+line=17970 tag=I-G:                                     step-big-
+line=17971 tag=I-T:                                     ‘fast walker’
+line=17972 tag=B-L:                                                        e.    mardal-karii---n-       f.  mibul-barrwaa-j-
+line=17973 tag=I-G:                                                        lk-k  /ma"alka%i(n-/         lk-p /mipulparwa(c-/
+line=17974 tag=I-L:                                                              /ma"alk-ka%i-i-c-n-/        /mipulk-parwa(-c-/
+line=17975 tag=I-G:                                                              mud-cover-fMID-TH-fN-       asleep-block-TH-
+line=17976 tag=I-T:                                                              ‘mud-covered’               ‘keep from sleeping’
+line=17977 tag=B-L:                              g.  wangal-ngudi-n-       h.    birrjil-muthany-
+line=17978 tag=I-L:                             lk-! /wa!al!utin-/         lk-m  /pircilmut#a'/
+line=17979 tag=I-L:                                  /wa!alk-!uti-c-n-/          /pircilk-mut#a'-/
+line=17980 tag=I-G:                                  b.-throw-TH-fN-             step-fEXS-
+line=17981 tag=I-T:                                  ‘boomerang  thrower’        ‘excessive wanderer’
+line=17982 tag=B-L:                                                                                 i.  wangal-warri-
+line=17983 tag=I-L:                                                                               lk-w  /wa!alwari-/
+line=17984 tag=I-L:                                                                                     /wa!alk-wari-/
+line=17985 tag=I-G:                                                                                     boomerang-fPRIV-
+line=17986 tag=I-T:                                                                                     ‘boomerang-PRIV’
+line=17987 tag=B-L:                     (A.13)   ‘Regular’ phonology  /&+C/
+line=17988 tag=I-G:                              NA:  &-j
+line=17989 tag=B-L:                              a. durn-durn-               b.  nga-rnurru-
+line=17990 tag=I-L:                             &-" /"u&"u&-/                &-& /!a&uru-/
+line=17991 tag=I-L:                                 /"u&-"u&-/                   /!a&-&uru-/
+line=17992 tag=I-G:                                 bigNL-bigNL                  beach-fASSOC-
+line=17993 tag=I-T:                                 ‘big’                        ‘beach-ASSOC’
+line=17994 tag=B-L:                                                                                      c.  jampa-lu-th-
+line=17995 tag=I-G:                                                                                     &-%  /campalut#-/
+line=17996 tag=I-L:                                                                                          /campa&-%u-t#-/
+line=17997 tag=I-G:                                                                                          hollow-fFACT-TH-
+line=17998 tag=I-T:                                                                                          ‘hollow out OBJ’
+line=17999 tag=B-L:                               d.   Bingkurn-thulaa--n-      e.   bingkurn-janii--c-     f.   kirn-kirn-
+line=18000 tag=I-L:                               &-t# /pi!ku&t#ula(n-/         &-c  /pi!ku&cani(-c-/      &-k   /ki&ki&-/
+line=18001 tag=I-L:                                    /pi!ku&-t#ula-i-t#-n-/        /pi!ku&-cani-i-c-/          /ki&-ki&-/
+line=18002 tag=I-G:                                    crab-descend-fMID-TH-fN-      crab-‹fHALL-fMID›-TH-       on topNL-on  topNL
+line=18003 tag=I-T:                                    (Place name)                  ‘crab-‹PURP›-ø’             ‘on top’
+line=18060 tag=B-L:                                   /!icu-i'-"a!ka-pala-c-n-/        /pi-lu-pa'-&uru-/         /&i-pa'-%u-t#-/
+line=18061 tag=I-G:                                   1sg-fPOSS-person-kill-TH-fN-     3-pl-fPOSS-fASSOC-        3-fPOSS-fFACT-TH-
+line=18062 tag=I-T:                                   ‘killer of my people’            ‘3-pl-ø-ASSOC’            ‘take OBJ as his’
+line=18063 tag=B-L:                              d.   ngij-in-thuu-j-arrba-       e.  ngum-ban-jani-j-      f.  kalangin-kalangin-
+line=18064 tag=B-L:                              '-t# /!icin#t#u(carpa-/         '-c  /!umpa'cani-c-/      '-k  /kala!inkala!i'-/
+line=18065 tag=B-L:                                   /!icu-i'-t#u(-c-!arpa-/         /!u!-pa'-cani-c-/         /kala!i'-kala!i'-/
+line=18066 tag=I-G:                                   1sg-fPOSS-insult-TH-fCONS-      2sg-fPOSS-fHALL-TH-       worn-worn-
+line=18067 tag=I-T:                                  ‘one who  insulted me’           ‘2sg-ø-HALL-ø’            ‘very worn out’
+line=18184 tag=B-L:                                  /!a&-ku%u-/                /"ia-i-c-n-ku%u-/           /&at#a-kampi'-ku%u-/
+line=18185 tag=I-G:                                  sand-fPROP-                eat-fMID-TH-fN-fPROP-       camp-child-fPROP-
+line=18186 tag=I-T:                                  ‘sandy’                    ‘edible’                    ‘son-in-law’
+line=18187 tag=B-L:                               p.   nying-ka              q.    wulthung-a-th-
+line=18188 tag=I-L:                              !-k   /'i!ka/               !-w   /wult#u!a-t#-/
+line=18189 tag=I-L:                                    /'i!-ka/                    /wult#u!-wa-t#-/
+line=18190 tag=I-G:                                    2sg-T                       prostrate-fINCH-TH-
+line=18191 tag=I-T:                                    ‘you (sg)’                  ‘lie prostrate’
+line=18192 tag=B-L:                                                                                     r.    kinaa-j-inaa-j-
+line=18193 tag=I-G:                                                                                     c-k   /kina(cina(-c-/
+line=18194 tag=I-L:                                                                                           /kina(-c-ina(-c-/
+line=18195 tag=I-G:                                                                                           show-TH-show-TH-
+line=18196 tag=I-T:                                                                                           ‘show’
+line=18197 tag=B-L:                              s.  warra-j-arra-         t.
+line=18198 tag=I-G:                              c-! /waracara-/           c-j
+line=18199 tag=I-L:                                  /wara-c-!ara-/
+line=18200 tag=I-G:                                  go-TH-fCONS-
+line=18201 tag=I-T:                                  ‘go-ø-PST’
+line=18292 tag=B-L:                                                       !-c   /ka'cu!ara-/          !-k  /ka!ku'a-/
+line=18293 tag=I-L:                                                             /ka!-cu!ara-/              /ka!-ku'a-/
+line=18294 tag=I-G:                                                             speech-big-                speech-small-
+line=18295 tag=I-T:                                                             ‘loud-voiced’              ‘soft-voiced’
+line=18296 tag=B-L:                                                      n.   kam-bardangu-         o.   ka-muthany-
+line=18297 tag=B-L:                                                      !-p  /kampa"a!u  -/       !-m   /kamut#a'-/
+line=18298 tag=B-L:                                                           /ka!-pa"a!u-/              /ka!-mut#a'-/
+line=18299 tag=I-G:                                                           speech-large               speech-fEXS-
+line=18300 tag=I-T:                                                           ‘loud-voiced’              ‘chatterbox’
+line=18301 tag=B-L:                                                           q.    ka-wu-j-                r.   biriij-balath-
+line=18302 tag=I-G:                                                           !-w   /kawuc-/                c-p  /pi%i(cpalat#-/
+line=18303 tag=B-L:                                                                 /ka!-wu-c-/                  /pi%i(c-palat#-/
+line=18304 tag=I-G:                                                                 speech-fDON-TH-              father-fPL-
+line=18305 tag=I-T:                                                                 ‘talk to’                    ‘father-PL’
+line=18349 tag=B-L:                                %-i  /ma%i'ca-/            %k-i  /ja%ki'ca-/             l-i   /ki"ili'ca-/
+line=18350 tag=I-L:                                     /ma%-in#t#a-/               /ja%k-in#t#a-/                /ki"il-in#t#a-/
+line=18351 tag=I-L:                                     hand-fOBL                   below-fOBL                    back-fOBL
+line=18352 tag=I-T:                                     ‘hand-CONT’                 ‘below-CONT’                  ‘back-CONT’
+line=18491 tag=B-L:                                                                /"a!ka-ki-a/             /ju"a-ki-ic-/
+line=18492 tag=I-G:                                                                man-fLOC-T               inside-fLOC-fSAME
+line=18493 tag=I-T:                                                                ‘man-INS-ø’              ‘along the inside’
+line=18494 tag=B-L:                                                            h.   ja-yarrng-          i.   kujiji-yarrng-
+line=18495 tag=I-L:                                                          a-kiC  /cajar!-/         i-kiV  /kucicijar!-/
+line=18496 tag=I-L:                                                                 /ca-kiar!-/              /kucici-kiar!-/
+line=18497 tag=I-G:                                                                 foot-fDU                 youth-fDU-
+line=18498 tag=I-T:                                                                 ‘foot-DU’                ‘youth-DU’
+line=18499 tag=B-L:                                                            k.    ki-y-a
+line=18500 tag=I-L:                                                          i-kiC   /kija/
+line=18501 tag=I-L:                                                                  /ki-ki-a/
+line=18502 tag=I-G:                                                                  nearby-fLOC-T
+line=18503 tag=I-T:                                                                  ‘nearby-INS-ø’
+line=18669 tag=B-L:                      (A.36)                a.  karn-marii-ja           b.  kar-mu-yii-ja
+line=18670 tag=I-L:                              Post-lexical      /ka&ma%i(ca/                /ka%mui(ca/
+line=18671 tag=I-L:                              Lexical           /ka&ma%i(ca/                /ka&mui(ca/
+line=18672 tag=I-L:                                                /ka&-ma%u-i-t#a/            /ka&-wu(-i-ca/
+line=18673 tag=I-G:                                                grass-‹fDAT-fMID›-TH.T      grass-put-fMID-TH.T
+line=18674 tag=I-T:                                                ‘grass-‹TRANS›-ACT’         ‘grass-put-MID-ACT’
+line=18732 tag=B-L:                             Dan-da    kurndaji-walath-i-ri      wirdi-j-i-r,
+line=18733 tag=I-G:                             here-T    sandhill-fPL-fLOC-fALL.T  stay-TH-fLOC-fALL.T
+line=18746 tag=B-L:                            Dathina   riy-a     warra-ja  nga-ku-l-d, ri-wurrka-
+line=18747 tag=I-G:                            there.T   south-T   go-TH.T   1-2-pl-T    south-fLOC.fOBL-T
+line=18748 tag=I-T:                            there     south-Ø   go-IMP    1-2-pl-Ø    south-INS.COMP-Ø
+line=18749 tag=B-L:                            ni-wa-a      ngarn-kurrka-      thula-th-urrk-
+line=18750 tag=I-G:                            3sg-fCOMP-T  beach-fLOC.fOBL-T  descend-TH-fLOC.fOBL-T
+line=18751 tag=I-G:                            3sg-COMP-Ø   beach-INS.COMP-Ø   descend-Ø-PRES.COMP-Ø
+line=18752 tag=I-T:                            ‘Let’s go there in the south, as he comes down to the beach in the south.’
+line=18771 tag=B-L:                            Nga-da   ba-yii-ja        wanku-y-.
+line=18772 tag=I-G:                            1sg-T    bite-fMID-TH.T   shark-fLOC-T
+line=18773 tag=I-G:                            1sg-Ø    bite-MID-ACT     shark-INS-Ø
+line=18774 tag=I-T:                            ‘I was bitten by a shark.’ [E351.ex.9-138]
+line=18791 tag=B-L:                             Dathin-kiy-a ...    nga-ku-l-da     kurirr-walath-ij-iy-a
+line=18792 tag=I-G:                             there-fLOC-T        1-2-pl-T        dead-‹fPL-fSAME›-fLOC-T
+line=18793 tag=I-T:                             there-EMP-Ø         1-2-pl-Ø        dead-‹EVERY›-EMP-Ø
+line=18794 tag=I-L:                            dalururdaluru-ngarrba-y-a   balaa---n-ngarrba-y-a
+line=18795 tag=I-G:                            gun-fCONS-fLOC-T            kill-fMID-TH-‹fN-fCONS›-fLOC-T
+line=18796 tag=I-T:                            gun-ANTE-EMP-Ø              kill-MID-Ø-ANTE-EMP-Ø
+line=18797 tag=I-T:                            ‘We and all the people killed by the gun were there.’ [E1984-03-01]
+line=18817 tag=B-L:                             Nga-da   dathin-ku     wuu-j-u-         ngurrumanji-wu-   kaburrba-wu-.
+line=18818 tag=I-G:                             1sg-T    that-fPROP-T  put-TH-fPROP-T   billy can-fPROP-T fire-fPROP-T
+line=18819 tag=I-G:                             1sg-Ø    that-FUT-Ø    put-Ø-POT-Ø      billy can -FUT-Ø  fire-FUT-Ø
+line=18820 tag=I-T:                             ‘I’ll put that thing, the billy can, on the fire.’ [W1960]
+line=18828 tag=B-L:                             Dangka-wala-da    marraa-ja   wuu-ja     ngij-in-ji-
+line=18829 tag=I-G:                             person-PL-T       show-TH.T   give-TH.T  1sg-fPOSS-fLOC-T
+line=18830 tag=I-G:                             person-PL-Ø       show-IMP    give-IMP   1sg-Ø-INS-T
+line=18831 tag=I-L:                           mutha-y-a           dulk-i- .
+line=18832 tag=I-G:                           many-fLOC-T         place-fLOC-T
+line=18833 tag=I-G:                           many-(LOC|INS)-Ø    place-(LOC|INS)-Ø
+line=18834 tag=I-T:                           ‘People have shown me many  places.’ [E728]
+line=18844 tag=B-L:                             Nga-da   kinaa-j    bi-lu-wan-ji-,     yakuri-marra-y,
+line=18845 tag=I-G:                             1sg-T    tell-TH.T  3-pl-fPOSS-fLOC-T  fish-fUTIL-fLOC-T
+line=18846 tag=I-G:                             1sg-Ø    light-ACT  3-pl-Ø-INS-Ø       fish-UTIL-INS-Ø
+line=18847 tag=I-L:                               ngawun-ji,    karna-j.
+line=18848 tag=I-G:                               coals-fLOC-T  light-TH.T
+line=18849 tag=B-G:                               coals-INS-Ø   light-ACT
+line=18850 tag=I-T:                               ‘I’ll tell them to burn down some coals for the fish.’ [W1960]
+line=18857 tag=B-L:                            Wirril-uu-ntha-   buru-th-uu-ntha-        kuna-walany-marra-wuu-nth-,
+line=18858 tag=I-G:                            leaf-fPROP-fOBL-T gather-TH-fPROP-fLOC-T  childNL-fPL-fUTIL-fPROP-fOBL-T
+line=18859 tag=I-T:                            leaf-FUT-COMP-Ø   gather-Ø-POT-EMP-Ø      child-PL-UTIL-FUT-COMP-Ø
+line=18860 tag=I-L:                           karba~karba-ru-th-uu-nth-  .
+line=18861 tag=I-G:                           ‹dryNL-dryNL›-fFACT-TH-fPROP-fOBL-T
+line=18862 tag=I-G:                           dry-FACT-Ø-POT-COMP-Ø
+line=18863 tag=I-T:                           ‘I’ll gather some wirrilda leaves for the baby, to dry it.’[R2005-aug02a]
+line=18880 tag=B-L:                            Nying-ka  ngi-nurruw-a    dali-j-arr-,       kuwan-marra--na-  ?
+line=18881 tag=I-G:                            2sg-T     wood-fASSOC-T   come-TH-fCONS-T    fire stick-fUTIL-fLOC-fABL-T
+line=18882 tag=B-G:                            2sg-Ø     wood-ASSOC-Ø    come-Ø-PST-Ø       fire stick-UTIL-Ø-PRIOR-Ø
+line=18883 tag=I-T:                            ‘Have you brought wood for firesticks?’ [E160.ex.4-98; W1960]
+line=18885 tag=I-L:                            Niy-a  kala-n-da      thungal-inja- bijarrba-marra-ntha
+line=18886 tag=I-G:                            3sg-T  cut-fN-T       tree-fOBL-T   dugong-fUTIL-fOBL-T
+line=18887 tag=I-G:                            3sg-Ø  where-PROG-Ø   tree-CONT-Ø   dugong-UTIL-CONT-Ø
+line=18888 tag=I-L:                             narra-nguni-nj-
+line=18889 tag=I-L:                             axe-fINST-fOBL-T
+line=18890 tag=I-G:                             axe-INST-CONT-Ø
+line=18891 tag=I-T:                             ‘He is cutting the tree with a shell axe, to use for (spearing) dugong.’
+line=18918 tag=I-L:                            Niy-a  dathina  dangka-a   ngij-in-ji-na-        wumburung-kuru--na-
+line=18919 tag=I-G:                            3sg-T  that.T   man-T      1sg-fPOSS-fLOC-fABL-T spear-fPROP-fLOC-fABL-T
+line=18920 tag=I-G:                            3sg-Ø  that     man-Ø      1sg-Ø-Ø-PRIOR-Ø       spear-PROP-Ø-PRIOR-Ø
+line=18921 tag=I-L:                            raa-j-arr-
+line=18922 tag=I-G:                            spear-TH-fCONS-T
+line=18923 tag=B-G:                            spear-Ø-PST-Ø
+line=18924 tag=I-T:                            ‘That man speared me with a spear.’ [W1960]
+line=18926 tag=B-L:                            Nga-da   bala-th-u-      ki-rr-wan-ju-       ngij-in-juru-uru-wa
+line=18927 tag=I-G:                            1sg-T    hit-TH-fCONS-T  2-du-fPOSS-fPROP-T  1sg-fPOSS-fPROP-fPROP-T
+line=18953 tag=B-L:                             Niy-a  dathin-ki-ri       thaari-j-i-r.
+line=18954 tag=I-G:                             3sg-T  there-fLOC-fALL.T  bring back-TH-fLOC-fALL.T
+line=18955 tag=I-G:                             3sg-Ø  there-Ø-DIR        bring back-Ø-Ø-DIR
+line=18956 tag=I-T:                             ‘He brought (the water) back there.’ [R2007-jun01]
+line=18963 tag=B-L:                            Niy-a  dan-inja-    yiiwi--da-      nga-ku-lu-wan-inja- natha-nth-.
+line=18964 tag=I-G:                            3sg-T  here-fOBL-T  sleep-TH-fDES-T 1-2-pl-fPOSS-fOBL-T camp-fOBL-T
+line=18965 tag=I-G:                            3sg-Ø  here-EMO-Ø   sleep-Ø-DES-Ø   1-2-pl-POSS-EMO-Ø   camp-EMO-Ø
+line=18966 tag=I-T:                            ‘He should sleep here in our camp’ [W1960]
+line=18968 tag=B-L:                           Ngaaka-   dangka-a   dan-ki-na-        ngambura-th-arr- ?
+line=18969 tag=I-G:                           what-T    person-T   here-fLOC-fABL- T dig well-TH-fCONS-T
+line=18970 tag=I-G:                           what-Ø    person-Ø   here-Ø-PRIOR- Ø   dig well-Ø-PAST-Ø
+line=18971 tag=I-T:                           ‘Who  dug a well here?’ [W1960]
+line=19009 tag=B-L:                            Ngum-ban-janii--ja          ngaka-tha   mutha-y-a      darr-i-
+line=19010 tag=I-G:                            2sg-fPOSS-‹fHALL-fMID›-TH.T wait-TH.T   much-fFLOC-T   time-fFLOC-T
+line=19011 tag=I-G:                            2sg-Ø-‹PURP›-ACT            wait-ACT    much-INS-Ø     time-INS-Ø
+line=19012 tag=I-T:                            ‘I’ve been waiting for you a long time’ [W1960]
+line=19014 tag=B-L:                           Nga-da   bala-th-u-     mutha-wu-      darr-u-
+line=19015 tag=I-G:                           1sg-T    hit-TH-fPROP-T much-fPROP-T   time-fPROP-T
+line=19016 tag=I-G:                           1sg-Ø    hit-Ø-POT-Ø    much-FUT-Ø     time-FUT-Ø
+line=19017 tag=I-T:                           ‘I will hit (it) many times.’ [W1960]
+line=19024 tag=B-L:                            Niya   jinardarr-inja- dali--d-,        nga-ku-lu-wan-jani--d-?
+line=19025 tag=I-G:                            3sg-T  when-fOBL-T     come-TH-fDES-T   1-2-pl-fPOSS-fHALL-TH-fDES-T
+line=19026 tag=B-G:                            3sg-Ø  when-EMO-Ø      come-Ø-DES-Ø     1-2-pl-Ø-HALL-Ø-fDES-Ø
+line=19027 tag=I-T:                            ‘When will he come back here to get us?’ [E370.ex.9-224]
+line=19054 tag=B-L:                            Nga-da    barruntha-y-a            kurri-ja   makalmakal-i-
+line=19055 tag=I-G:                            1sg-T     yesterday-fLOC-T         see-TH.T   old womanNL-fLOC-T
+line=19056 tag=I-G:                            1sg-Ø     yesterday-(LOC|INS)-Ø    see-ACT    old womanNL-INS-Ø
+line=19057 tag=I-T:                            ‘I saw the old woman yesterday.’ [W1960]
+line=19062 tag=B-L:                             barruntha--ri         nga-ku-lu-wan-ji-r-      kamburi-j-i-r?
+line=19063 tag=I-G:                             yesterday-fLOC-fALL.T 1-2-pl-fPOSS-fLOC-fALL.T speak-TH-fLOC-fALL.T
+line=19064 tag=I-G:                             yesterday-Ø-DIR       1-2-pl-Ø-Ø-DIR           speak-Ø-Ø-DIR
+line=19065 tag=I-T:                             ‘Are they the same two men who came to talk to us yesterday?’
+line=19076 tag=B-L:                            Barruntha-wu-       nga-da   thaa-th-u- .
+line=19077 tag=I-G:                            a while-fPROP-T     1sg-T    return-TH-fPROP-T
+line=19078 tag=I-G:                            a while-FUT-Ø       1sg -Ø   return-Ø-POT-Ø
+line=19079 tag=I-T:                            ‘I’ll come back in a little while.’ [E649]
+line=19126 tag=B-L:                            ki-l-ta  wara-c-na      cirku"i$-c- na# wampal-ta   wa%ci$-c-na
+line=19127 tag=I-L:                            2-pl-T   go-TH-fNEG.T   3-pl-T          bush-T      ascend-TH-fNEG.T
+line=19128 tag=I-G:                            2-pl-Ø   go-Ø-NEG.IMP   3-pl-Ø          bush-Ø      ascend-Ø-NEG.IMP
+line=19129 tag=I-T:                            ‘Don’t you all go up north into the bush!’ [W1960]
+line=19140 tag=B-L:                            Nga-da    warra-ja   ngarn-ki-r.
+line=19141 tag=I-G:                            1sg-T     go-TH.T    beach-fLOC-fALL.T
+line=19142 tag=B-G:                            1sg-Ø     go-ACT     beach-Ø-ALL
+line=19143 tag=I-T:                            ‘I am going/have gone to the beach.’ [E107.ex.3-25]
+line=19145 tag=B-L:                            Nga-da   warra-j-arra-   ngarn-ki-ring-ki-na- .
+line=19146 tag=I-G:                            1sg-T    go-TH-fCONS-T   beach-fLOC-fALL-fLOC-fABL-T
+line=19147 tag=I-G:                            1sg-Ø    go-Ø-PAST-Ø     beach-Ø-ALL-Ø-PRIOR-T
+line=19148 tag=I-T:                            ‘I went to the beach.’ [E108.ex.3-27]
+line=19151 tag=B-L:                            Nga-da    wirdi-ja     ba-d .
+line=19152 tag=I-G:                            1sg-T     stay-TH.T    west-T
+line=19176 tag=B-L:                            Ra-rung-ka    bi-l-da budii-j-iy-a          kuujuu-j-i-ring-ki-.
+line=19177 tag=I-G:                            south-fALL-T  3-pl-T  run away-TH-fLOC-T    swim-TH-fLOC-fALL-fLOC-T
+line=19178 tag=I-T:                            south-ALL-Ø   3-pl-Ø  run away-Ø-IMMED-Ø    swim-Ø-Ø-DIR-INS-T
+line=19179 tag=I-T:                            ‘They’re running away to the south to swim.’ [R2005-jul08]
+line=19211 tag=B-L:                             Ra-yin-da     dii-ja    dathin,  ngiju-wa-     jirrkaa-n-kurrk-
+line=19212 tag=I-G:                             south-fFRM-T  sit-TH.T  there.T  1sg-COMP-T    north-fFRM-fLOC.fOBL-T
+line=19213 tag=I-G:                             south-ABL-Ø   sit-IMP   there    1sg-COMP-Ø    north-ABL-PRES.COMP-Ø
+line=19214 tag=I-T:                             ‘Sit (facing) from the south there, while I (sit) from the north.’ [R2005-jul12c]
+line=19223 tag=B-L:                            Nal-da   marin-inja-  kalaa---nyarr-.
+line=19224 tag=I-G:                            3sg-T    self-fOBL-T  cut-fMID-TH-fAPPR-T
+line=19225 tag=I-G:                            3sg-Ø    self-EMO-Ø   cut-MID-Ø-APPR-Ø
+line=19226 tag=I-T:                            ‘(She) might slash her head (in mourning).’ [E354.ex.9-156]
+line=19253 tag=I-L:                            Nying-ka  jijina--na-             warra-j-arra    wulji--na?
+line=19254 tag=I-G:                            2sg-T     which.way-fLOC-fABL-T   go-TH-fCONS-T   last night-fLOC-fABL-T
+line=19255 tag=B-G:                            2sg-Ø     which.way-Ø-PRIOR-Ø     go-Ø-PST-Ø      small- Ø-PRIOR-Ø
+line=19256 tag=I-T:                            ‘Which way  did you head last night?’ [E368.ex.9-213]
+line=19260 tag=B-L:                           Nga-da    yan-da    warra-j.
+line=19261 tag=I-G:                           1sg-T     now-T     go-TH.T
+line=19262 tag=B-G:                           1sg-Ø     now-ø     go-ACT
+line=19263 tag=I-T:                           ‘I’m going now.’ [W1960]
+line=19265 tag=I-L:                            Yan-ku-       wirrka-j-u-        bi-l-da ngimi-wu-
+line=19266 tag=I-G:                            soon-fPROP-T  dance-TH-fPROP-T   3-pl-T  night-fPROP-Ø
+line=19267 tag=I-G:                            soon-FUT-Ø    dance-Ø-POT-Ø      3-pl-Ø  night-FUT-Ø
+line=19268 tag=I-T:                            ‘They will dance soon, at night.’ [W1960]
+line=19280 tag=B-L:                             Nga-da   barruntha-y-a      kurri-j-i-ri
+line=19281 tag=I-G:                             1sg-T    yesterday-fLOC-T   see-TH-fLOC-fALL.T
+line=19293 tag=B-L:                            Nga-da    warra-ja         ba-lung-ku- .
+line=19294 tag=I-G:                            1sg-T     go-TH.T          west-fALL-fPROP-T
+line=19295 tag=I-G:                            1sg-Ø     go-ACT           west-ALL-fPROP-Ø
+line=19296 tag=I-T:                            ‘I am going to the west.’ (i.e., as my eventual destination)[E218.ex.5-68]
+line=19303 tag=B-L:                           Damuru-uru-ntha-     ngijuwa-     warra-j-uu-ntha-.
+line=19304 tag=I-G:                           corm-fPROP-fOBL-T    1sg.COMP-T   go-TH-fPROP-fOBL-T
+line=19305 tag=I-G:                           corm-PROP-COMP-Ø     1sg.COMP-Ø   go-TH-POT-COMP-Ø
+line=19306 tag=I-L:                           balmbi-wuu-nth-.
+line=19307 tag=I-G:                           tomorrow-fPROP-fOBL-T
+line=19308 tag=B-G:                           tomorrow-FUT-COMP-Ø
+line=19309 tag=I-T:                           ‘I’ll go for corms tomorrow.’ [R2005-jul12c]
+line=19338 tag=I-L:                            Niy-a  marndi--n-da      kanthathu-ntha-   wirrin-kuru-nth- .
+line=19339 tag=I-G:                            3sg-T  deprive-TH-fN-T   father-fOBL-T     money-fPROP-fOBL-T
+line=19340 tag=I-G:                            3sg-Ø  deprive-Ø-PROG-Ø  father-CONT-Ø     money-PROP-CONT-Ø
+line=19341 tag=I-T:                            ‘He is taking money off his father.’ [E420.ex.10-39]
+line=19347 tag=B-L:                            Nga-da   burldi-ja ni-wan-ji-       wangalk-uru-  .
+line=19348 tag=I-G:                            1sg-T    hit-TH.T  3sg-fPOSS-fLOC-T boomerang-fPROP-T
+line=19349 tag=B-G:                            1sg-Ø    hit-ACT   3sg-Ø-INS-Ø      boomerang-PROP-Ø
+line=19350 tag=I-T:                            ‘I hit it with boomerang.’ [W1960]
+line=19373 tag=B-L:                             Waa-ja      wirdi-ja   nga-da   bijarrba-wuru.
+line=19374 tag=I-G:                             sing-TH.T   stay-TH.T  1sg-T    boomerang-fPROP-T
+line=19375 tag=I-G:                             sing-ACT    stay-ACT   1sg-Ø    boomerang-PROP-Ø
+line=19376 tag=I-T:                             ‘I am singing about a dugong..’ [E148.ex.4-49]
+line=19389 tag=B-L:                              Nga-l-da   marri-ja   kang-ki-       jungarra--na-
+line=19390 tag=I-G:                              1-pl -T    hear-TH.T  story-fLOC-T   big-fLOC-fABL-T
+line=19391 tag=I-T:                              1-pl-Ø     hear-ACT   story-INS-Ø    big-Ø-ABL-Ø
+line=19392 tag=I-L:                              dangka--na- .
+line=19393 tag=I-G:                              person-fLOC-fABL-T
+line=19394 tag=I-G:                              person-Ø-ABL-Ø
+line=19395 tag=I-T:                              ‘We heard the story from the old people.’ [E143.ex.4-35;605.line35.text8]
+line=19404 tag=B-L:                             Nga-da   ra-yii-j-u-       mun-da      balarr-i-na-
+line=19405 tag=I-G:                             1sg-T    spear-TH-fPROP-T  buttocks-T  white-fLOC-fABL-T
+line=19406 tag=I-T:                             1sg-Ø    spear-Ø-POT-Ø     buttocks-Ø  white-Ø-ABL-Ø
+line=19407 tag=I-L:                            maku--na-
+line=19408 tag=I-G:                            woman-fLOC-fABL-T
+line=19409 tag=I-G:                            woman-Ø-ABL-Ø
+line=19410 tag=I-T:                            ‘I will be injected in the buttocks by the white woman.’ [E350.ex.9-134b]
+line=19455 tag=B-L:                              Nga-da    bala-tha    ni-wan-ji-           warngii-da     birrjil-k.
+line=19456 tag=I-G:                              1sg-T     hit-TH.T    3sg-fPOSS-fLOC-T     one-T          occasion-T
+line=19457 tag=I-G:                              1sg-Ø     hit-ACT     3sg-Ø-INS-Ø          one-ø          occasion-ø
+line=19458 tag=I-T:                              ‘I hit him one time.’ [E656]
+line=19468 tag=B-L:                             Dan-ki-na-        nga-da   kurri-j-arra-   ni-wan-ji-na-
+line=19469 tag=I-G:                             here-fLOC-fABL-T  1sg-T    see-TH-fCONS-T  3sg-fPOSS-fLOC-fABL-T
+line=19470 tag=I-G:                             here-Ø-PRIOR-Ø    1sg-Ø    hit-Ø-PST-Ø     3sg-Ø-Ø-PRIOR-Ø
+line=19471 tag=I-L:                              kiyarrng-ka   birrjil-k.
+line=19472 tag=I-G:                              two-T         occasion-T
+line=19473 tag=B-G:                              two-ø         occasion-ø
+line=19474 tag=I-T:                              ‘I saw her here twice.’ [R2005-jun29]
+line=19536 tag=B-L:                             Nying-ka  ngi-nurruw-a    dali-j-arr-,       kuwan-marra--na-?
+line=19537 tag=I-G:                             2sg-T     wood-fASSOC-T   come-TH-fCONS-T    fire stick-fUTIL-fLOC-fABL-T
+line=19538 tag=B-G:                             2sg-Ø     wood-ASSOC-Ø    come-Ø-PST-Ø       fire stick-UTIL-Ø-PRIOR-Ø
+line=19539 tag=I-T:                             ‘Have you brought wood for firesticks?’ [E160.ex.4-98; W1960]
+line=19542 tag=B-L:                              Nga-ku-lu-wan-urruw-a       bi-l-da  wirrka-j-u-.
+line=19543 tag=I-G:                              1-2-pl-fPOSS-fASSOC-T       3-pl-T   dance-TH-fPROP-T
+line=19548 tag=B-L:                             Bi-l-da dali--n-da       ngi-nurruw-a    kuwan-marra-nth-.
+line=19549 tag=I-G:                             3-pl-T  come-TH-fN-T     wood-fASSOC-T   fire stick-fUTIL-fOBL-T
+line=19550 tag=I-G:                             3-pl-Ø  come-Ø-PROG-Ø    wood-ASSOC-Ø    fire stick-UTIL-CONT-Ø
+line=19551 tag=I-T:                             ‘They are coming with wood for the fire.’ [E362.ex.9-178]
+line=19570 tag=B-L:                             again.T  arise-TH-fNEG-fPROP-T  ground-fPROP-T   sit-TH-fPROP-T
+line=19571 tag=I-G:                             again    arise-Ø-NEG-POT-Ø      ground-FUT-Ø     sit-Ø-POT-Ø
+line=19572 tag=I-T:                             ‘He won’t get up again, he’ll stay on the ground.’ [W1960]
+line=19574 tag=B-L:                             Nga-da  mungurru-,  kada-ntha-     thaa-th-uu-nth-.
+line=19575 tag=I-G:                             1sg-T   know-T      again-fOBL-T   return-TH-fPROP-fOBL-T
+line=19576 tag=I-G:                             1sg-Ø   know-Ø      again-COMP-Ø   return-Ø-POT-COMP-Ø
+line=19577 tag=I-T:                             ‘I know that I will come back (here) again.’ [E490–91.ex.12-7]
